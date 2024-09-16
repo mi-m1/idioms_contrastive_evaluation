@@ -1,0 +1,27 @@
+idiom,sentence,label
+walk all over,i,i
+walk all over,"The expression 'walk all over' in the context 'T that 's it , walk all over me .' holds figurative meaning. Therefore, the output is 'i'.",i
+walk all over,i,i
+hot and heavy,"In this context, the expression 'hot and heavy' is used to describe the mist, suggesting it feels thick and oppressive like a blanket. This is a figurative use as it describes the mist in a metaphorical way rather than a literal temperature and weight.
+
+Therefore, the output is: **i**",i
+hot and heavy,"The expression 'hot and heavy' in the context ""Any man who hindered the Admiralty work would have it hot and heavy"" holds a figurative meaning. Therefore, the output is 'i'.",i
+hot and heavy,l,i
+strike a chord,i,i
+strike a chord,i,i
+strike a chord,i,i
+break the back of,i,i
+break the back of,i,i
+break the back of,i,i
+walk all over,l,l
+walk all over,l,l
+walk all over,l,l
+hot and heavy,'l',l
+hot and heavy,'l',l
+hot and heavy,l,l
+strike a chord,l,l
+strike a chord,l,l
+strike a chord,l,l
+break the back of,l,l
+break the back of,l,l
+break the back of,l,l

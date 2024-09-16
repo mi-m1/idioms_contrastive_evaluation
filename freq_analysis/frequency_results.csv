@@ -1,0 +1,778 @@
+,expression,subset,number of hits,number of hits per million tokens
+769,come to terms with,phrase,1,0.01
+550,strike a chord,phrase,4,0
+514,bundle of joy,phrase,5,0
+549,hot and heavy,phrase,5,0
+207,economical with the truth,phrase,7,0
+232,blow someone's mind,phrase,10,0
+621,break the back of,phrase,11,0
+548,walk all over,phrase,16,0
+697,put paid to,phrase,17,0
+345,out of the blue,phrase,18,0
+401,things that go bump in the night,phrase,18,0
+493,full of beans,phrase,18,0
+126,to the bone,phrase,20,0
+165,in the driving seat,phrase,20,0
+197,nip and tuck,phrase,20,0
+212,go up in smoke,phrase,20,0
+229,all over the map,phrase,20,0
+234,odds and ends,phrase,20,0
+237,out to lunch,phrase,20,0
+244,to die for,phrase,20,0
+248,in black and white,phrase,20,0
+289,come a cropper,phrase,20,0
+293,toe the line,phrase,20,0
+296,high and mighty,phrase,20,0
+297,around the clock,phrase,20,0
+301,bright and early,phrase,20,0
+313,from the word go,phrase,20,0
+319,in this day and age,phrase,20,0
+362,dead in the water,phrase,20,0
+364,take no prisoners,phrase,20,0
+383,cut and thrust,phrase,20,0
+386,go through the motions,phrase,20,0
+397,steal someone's thunder,phrase,20,0
+423,fly a kite,phrase,20,0
+428,to the hilt,phrase,20,0
+433,shoot the breeze,phrase,20,0
+454,hit the headlines,phrase,20,0
+477,duke it out,phrase,20,0
+480,at the drop of a hat,phrase,20,0
+489,force someone's hand,phrase,20,0
+532,in the nick of time,phrase,20,0
+552,cap in hand,phrase,20,0
+562,stand the test of time,phrase,20,0
+564,for a song,phrase,20,0
+595,push someone's buttons,phrase,20,0
+622,play the field,phrase,20,0
+627,up to snuff,phrase,20,0
+629,bite the bullet,phrase,20,0
+648,go without saying,phrase,20,0
+655,joined at the hip,phrase,20,0
+670,on the button,phrase,20,0
+671,leave no stone unturned,phrase,20,0
+692,think the world of,phrase,20,0
+733,a hair's breadth,phrase,20,0
+736,over my dead body,phrase,20,0
+761,get off the ground,phrase,20,0
+781,on the back burner,phrase,20,0
+132,run the gauntlet,phrase,21,0
+148,live and let live,phrase,21,0
+191,to all intents and purposes,phrase,21,0
+200,jack of all trades,phrase,21,0
+205,have someone's number,phrase,21,0
+222,beyond the pale,phrase,21,0
+247,pick up the tab,phrase,21,0
+278,make a move,phrase,21,0
+287,pay the piper,phrase,21,0
+316,dressed to the nines,phrase,21,0
+324,grind to a halt,phrase,21,0
+343,follow in someone's footsteps,phrase,21,0
+376,under lock and key,phrase,21,0
+393,on the rocks,phrase,21,0
+421,go from strength to strength,phrase,21,0
+452,with open arms,phrase,21,0.01
+563,reach for the stars,phrase,21,0
+584,hope against hope,phrase,21,0
+601,from pillar to post,phrase,21,0
+628,kiss of death,phrase,21,0
+700,out of the picture,phrase,21,0
+708,stop at nothing,phrase,21,0
+732,talk the talk,phrase,21,0
+734,up and running,phrase,21,0.01
+752,under the gun,phrase,21,0
+110,carry the can,phrase,22,0
+118,go to the wall,phrase,22,0
+119,see the light of day,phrase,22,0
+142,take it from me,phrase,22,0
+149,born and bred,phrase,22,0
+150,heart of gold,phrase,22,0
+153,out of line,phrase,22,0
+181,jump on the bandwagon,phrase,22,0
+187,pick up the pieces,phrase,22,0
+192,"day in, day out",phrase,22,na
+257,in the sticks,phrase,22,0
+266,down the drain,phrase,22,0
+309,ride roughshod over,phrase,22,0
+400,make light of,phrase,22,0
+427,in living memory,phrase,22,0
+449,on the game,phrase,22,0
+463,fire in the belly,phrase,22,0
+492,fall from grace,phrase,22,0
+513,shake a leg,phrase,22,0
+515,fill the bill,phrase,22,0
+516,make a clean break,phrase,22,0
+542,pick someone's brain,phrase,22,0
+581,wide of the mark,phrase,22,0
+645,on the pull,phrase,22,0
+709,easier said than done,phrase,22,0.01
+718,tip the scales,phrase,22,0
+758,time will tell,phrase,22,0
+112,on the bubble,phrase,23,0
+199,out of order,phrase,23,0
+210,sit on the fence,phrase,23,0
+242,rob Peter to pay Paul,phrase,23,0
+264,give up the ghost,phrase,23,0
+268,win the day,phrase,23,0
+280,the icing on the cake,phrase,23,0
+281,lose the plot,phrase,23,0
+294,grasp the nettle,phrase,23,0
+317,go to the mat,phrase,23,0
+350,word of mouth,phrase,23,0
+430,from A to Z,phrase,23,0
+435,have it easy,phrase,23,0
+517,take it easy,phrase,23,0
+518,tried and true,phrase,23,0
+519,ahead of the curve,phrase,23,0
+536,in the driver's seat,phrase,23,0
+569,down the tubes,phrase,23,0
+607,come full circle,phrase,23,0
+637,on a roll,phrase,23,0
+663,rags to riches,phrase,23,0
+681,at a loss for words,phrase,23,0
+685,read my lips,phrase,23,0
+727,throw in the towel,phrase,23,0
+729,all in a day's work,phrase,23,0
+738,pay through the nose,phrase,23,0
+739,to the nth degree,phrase,23,0
+69,double cross,ncs,24,0
+167,walk the plank,phrase,24,0
+178,all bets are off,phrase,24,0
+182,turn the other cheek,phrase,24,0
+183,raise the roof,phrase,24,0
+209,out of the woods,phrase,24,0
+223,blood and guts,phrase,24,0
+226,hit the skids,phrase,24,0
+286,under the microscope,phrase,24,0
+318,fight fire with fire,phrase,24,0
+366,take a hike,phrase,24,0
+392,out of sorts,phrase,24,0
+403,call the shots,phrase,24,0
+406,smell a rat,phrase,24,0
+408,up to no good,phrase,24,0
+415,wake up and smell the coffee,phrase,24,0
+417,fun and games,phrase,24,0
+419,rise to the occasion,phrase,24,0
+424,easy on the eye,phrase,24,0
+459,work to rule,phrase,24,0
+460,take a bow,phrase,24,0
+461,at full tilt,phrase,24,0
+465,take the plunge,phrase,24,0
+487,run the gamut,phrase,24,0
+596,round the clock,phrase,24,0
+642,slip of the tongue,phrase,24,0
+654,one of those things,phrase,24,0
+667,the rest is history,phrase,24,0
+669,as a rule,phrase,24,0
+754,get a rise out of,phrase,24,0
+770,on the blink,phrase,24,0
+122,throw caution to the wind,phrase,25,0
+129,neck and neck,phrase,25,0
+168,eat humble pie,phrase,25,0.01
+198,throw the baby out with the bathwater,phrase,25,0
+218,know the score,phrase,25,0
+220,add fuel to the fire,phrase,25,0
+255,burst someone's bubble,phrase,25,0
+263,rhyme or reason,phrase,25,0
+332,do the trick,phrase,25,0
+349,fall by the wayside,phrase,25,0
+371,under a cloud,phrase,25,0
+377,in no uncertain terms,phrase,25,0
+410,catch someone's eye,phrase,25,0
+432,pure and simple,phrase,25,0
+437,throw the book at,phrase,25,0
+439,between a rock and a hard place,phrase,25,0
+441,in your dreams,phrase,25,0
+443,on the level,phrase,25,0
+464,get a grip,phrase,25,0
+466,in the loop,phrase,25,0
+484,tit for tat,phrase,25,0
+540,up a tree,phrase,25,0
+545,save someone's skin,phrase,25,0
+554,sick and tired,phrase,25,0
+572,don't hold your breath,phrase,25,na
+610,get under someone's skin,phrase,25,0
+689,heart and soul,phrase,25,0
+699,come of age,phrase,25,0
+723,have the last laugh,phrase,25,0
+743,hit the ground running,phrase,25,0
+751,nothing to it,phrase,25,0
+114,behind the scenes,phrase,26,0
+133,push the envelope,phrase,26,0
+144,in bed with,phrase,26,0
+171,in the buff,phrase,26,0
+172,circle the wagons,phrase,26,0
+184,do the right thing,phrase,26,0
+206,neither here nor there,phrase,26,0
+241,on the ball,phrase,26,0
+267,make the cut,phrase,26,0
+284,take the mickey,phrase,26,0
+338,as the crow flies,phrase,26,0
+384,song and dance,phrase,26,0
+402,push the boat out,phrase,26,0
+475,run a mile,phrase,26,0
+479,close to home,phrase,26,0
+556,on the cards,phrase,26,0
+597,separate the wheat from the chaff,phrase,26,0
+600,out of the running,phrase,26,0
+609,place in the sun,phrase,26,0
+612,at a pinch,phrase,26,0
+616,long in the tooth,phrase,26,0
+693,have a mountain to climb,phrase,26,0
+730,take the fifth,phrase,26,0
+779,go to seed,phrase,26,0
+782,turn the screw,phrase,26,0
+786,,,26,
+139,pass the buck,phrase,27,0
+170,dog eat dog,phrase,27,0
+173,blow off steam,phrase,27,0
+214,lay an egg,phrase,27,0
+340,under the influence,phrase,27,0
+379,on the shelf,phrase,27,0
+422,claim to fame,phrase,27,0
+438,when the chips are down,phrase,27,0
+474,on the same page,phrase,27,0
+497,have a heart,phrase,27,0
+502,get stuck in,phrase,27,0
+523,nuts and bolts,phrase,27,0
+560,as luck would have it,phrase,27,0
+587,pull out all the stops,phrase,27,0
+630,on someone's mind,phrase,27,0
+764,bang for the buck,phrase,27,0
+107,play with fire,phrase,28,0
+180,on the side of the angels,phrase,28,0
+195,round the bend,phrase,28,0
+235,on the bounce,phrase,28,0
+252,keep tabs on,phrase,28,0
+259,water under the bridge,phrase,28,0
+283,in the red,phrase,28,0
+374,come to think of it,phrase,28,0
+418,cast the first stone,phrase,28,0
+470,fly in the face of,phrase,28,0
+494,live and learn,phrase,28,0
+499,on the fly,phrase,28,0
+512,hammer and tongs,phrase,28,0
+520,at sixes and sevens,phrase,28,0
+525,turn a blind eye,phrase,28,0
+526,in the running,phrase,28,0
+543,turn someone's head,phrase,28,0
+561,head over heels,phrase,28,0.01
+626,lay eyes on,phrase,28,0
+632,first among equals,phrase,28,0
+651,life and limb,phrase,28,0
+677,green with envy,phrase,28,0
+702,take someone's word for it,phrase,28,0
+721,fit the bill,phrase,28,0
+735,down and out,phrase,28,0
+163,in the black,phrase,29,0
+230,float someone's boat,phrase,29,0
+249,doom and gloom,phrase,29,0
+256,strike it rich,phrase,29,0
+261,kiss and make up,phrase,29,0
+306,no holds barred,phrase,29,0
+333,take a bath,phrase,29,0
+413,out of kilter,phrase,29,0
+450,true to form,phrase,29,0
+603,put a foot wrong,phrase,29,0
+615,send someone packing,phrase,29,0
+633,too clever by half,phrase,29,0
+636,to a turn,phrase,29,0
+662,call a spade a spade,phrase,29,0
+668,in the swim,phrase,29,0
+744,friends in high places,phrase,29,0
+102,closed book,ncs,30,0
+174,in the long term,phrase,30,0
+221,power behind the throne,phrase,30,0
+225,within living memory,phrase,30,0
+315,dyed in the wool,phrase,30,0
+420,kick the bucket,phrase,30,0
+457,fly off the handle,phrase,30,0
+538,make a go of,phrase,30,0
+606,take a dim view of,phrase,30,0
+707,point the finger,phrase,30,0
+719,face to face,phrase,30,0
+757,pull up stakes,phrase,30,0
+113,steal the show,phrase,31,0
+152,give someone pause,phrase,31,0
+224,strike while the iron is hot,phrase,31,0
+238,tell it like it is,phrase,31,0
+245,everything but the kitchen sink,phrase,31,0
+304,in the offing,phrase,31,0
+346,over the moon,phrase,31,0
+488,fall into place,phrase,31,0
+534,seize the day,phrase,31,0
+557,face the music,phrase,31,0
+571,spit it out,phrase,31,0
+575,stand up and be counted,phrase,31,0
+599,go hand in hand,phrase,31,0
+687,ahead of the game,phrase,31,0
+712,bring home the bacon,phrase,31,0
+724,town and gown,phrase,31,0
+746,the bee's knees,phrase,31,0
+760,put up or shut up,phrase,31,0
+776,into thin air,phrase,31,0
+203,move the goalposts,phrase,32,0
+228,bite the dust,phrase,32,0
+233,blaze a trail,phrase,32,0
+262,on the double,phrase,32,0
+357,behind someone's back,phrase,32,0
+360,dig up dirt,phrase,32,0
+405,put two and two together,phrase,32,0
+407,by the same token,phrase,32,0
+544,fill someone's shoes,phrase,32,0
+546,larger than life,phrase,32,0
+555,lay down the law,phrase,32,0
+593,make the grade,phrase,32,0
+673,feast or famine,phrase,32,0
+750,out of sight,phrase,32,0
+777,to the tune of,phrase,32,0
+14,crocodile tear,ncs,33,0
+116,go the whole hog,phrase,33,0
+135,look on the bright side,phrase,33,0
+189,off and running,phrase,33,0
+331,on the lam,phrase,33,0
+356,she'll be right,phrase,33,na
+361,left and right,phrase,33,0
+442,short and sweet,phrase,33,0
+568,heart to heart,phrase,33,0
+618,rule the roost,phrase,33,0
+666,spill the beans,phrase,33,0.12
+674,black and blue,phrase,33,0
+748,do the honours,phrase,33,0
+787,,,33,
+158,only time will tell,phrase,34,0
+177,take it or leave it,phrase,34,0
+186,when push comes to shove,phrase,34,0
+202,off and on,phrase,34,0
+231,let the cat out of the bag,phrase,34,0
+291,peaches and cream,phrase,34,0
+389,drop the ball,phrase,34,0
+390,the buck stops here,phrase,34,0
+416,kiss of life,phrase,34,0
+485,cut the mustard,phrase,34,0
+547,come to a head,phrase,34,0
+594,draw a line in the sand,phrase,34,0
+661,on the wagon,phrase,34,0
+698,step on it,phrase,34,0
+772,watch this space,phrase,34,0
+136,up to here,phrase,35,0
+213,put the kibosh on,phrase,35,0
+219,oil and water,phrase,35,0
+337,in the soup,phrase,35,0
+472,on and off,phrase,35,0.01
+482,in the bag,phrase,35,0
+510,keep someone posted,phrase,35,0
+533,on a shoestring,phrase,35,0
+541,break the bank,phrase,35,0
+585,in the blink of an eye,phrase,35,0
+703,pop the question,phrase,35,0
+704,once in a while,phrase,35,0
+745,come with the territory,phrase,35,0
+166,join the club,phrase,36,0
+270,free and easy,phrase,36,0
+300,all and sundry,phrase,36,0
+302,take the fall,phrase,36,0
+341,grease the wheels,phrase,36,0
+344,under the wire,phrase,36,0
+368,to the max,phrase,36,0
+411,cost the earth,phrase,36,0
+434,on the spur of the moment,phrase,36,0
+558,come in from the cold,phrase,36,0
+589,put the boot in,phrase,36,0
+591,open someone's eyes,phrase,36,0
+652,few and far between,phrase,36,0
+725,live it up,phrase,36,0
+30,fashion plate,ncs,37,0
+104,reinvent the wheel,phrase,37,0
+123,jump through hoops,phrase,37,0
+276,get wind of,phrase,37,0
+330,lift a finger,phrase,37,0
+339,have an eye for,phrase,37,0
+372,every which way,phrase,37,0
+391,fall on deaf ears,phrase,37,0
+404,go to ground,phrase,37,0
+467,give and take,phrase,37,0
+507,out of thin air,phrase,37,0
+768,fast and furious,phrase,37,0
+274,hold the line,phrase,38,0
+303,in the dock,phrase,38,0
+312,no spring chicken,phrase,38,0
+323,for good measure,phrase,38,0
+388,out of the loop,phrase,38,0
+426,have a few,phrase,38,0
+495,press the panic button,phrase,38,0
+647,no two ways about it,phrase,38,0
+659,under the sun,phrase,38,0
+717,play fast and loose,phrase,38,0
+731,food for thought,phrase,38,0
+120,hand to mouth,phrase,39,0
+128,neck of the woods,phrase,39,0
+157,smoke and mirrors,phrase,39,0
+369,on the money,phrase,39,0
+448,clear the decks,phrase,39,0
+469,all the rage,phrase,39,0
+524,the ball is in someone's court,phrase,39,na
+567,call someone's bluff,phrase,39,0
+624,shut the door on,phrase,39,0
+641,see eye to eye,phrase,39,0
+653,birds of a feather,phrase,39,0
+684,down the road,phrase,39,0
+742,go all the way,phrase,39,0
+788,,,39,
+155,come to mind,phrase,40,0
+215,six feet under,phrase,40,0
+250,kick the habit,phrase,40,0
+282,get the better of,phrase,40,0
+295,when all is said and done,phrase,40,0
+444,cut and dried,phrase,40,0
+771,on cloud nine,phrase,40,0
+774,on the run,phrase,40,0
+43,blue blood,ncs,41,0
+176,moment of truth,phrase,41,0
+190,horses for courses,phrase,41,0
+716,across the board,phrase,41,0
+766,keep up with the Joneses,phrase,41,0
+127,live a lie,phrase,42,0
+147,go to town,phrase,42,0
+277,pull the plug,phrase,42,0
+321,home and dry,phrase,42,0
+355,warts and all,phrase,42,0
+504,out of the box,phrase,42,0
+137,night and day,phrase,43,0
+140,keep up appearances,phrase,43,0
+275,at death's door,phrase,43,0
+334,in light of,phrase,43,0.01
+445,six of the best,phrase,43,0
+576,far and away,phrase,43,0
+679,one of those days,phrase,43,0
+705,full speed ahead,phrase,43,0
+706,fair and square,phrase,43,0
+211,keep the peace,phrase,44,0
+290,make short work of,phrase,44,0
+373,in someone's pocket,phrase,44,0
+429,jump the gun,phrase,44,0
+608,knock it off,phrase,44,0
+88,old timer,ncs,45,0
+111,in the doghouse,phrase,45,0
+134,out of whack,phrase,45,0
+240,swings and roundabouts,phrase,45,0
+365,run out of steam,phrase,45,0
+522,bits and bobs,phrase,45,0
+539,off the beaten track,phrase,45,0
+574,walk the talk,phrase,45,0
+741,in the short run,phrase,45,0
+785,,,45,
+32,flower child,ncs,46,0
+121,under the weather,phrase,46,0
+151,par for the course,phrase,46,0
+161,in your face,phrase,46,0
+188,touch and go,phrase,46,0
+329,take a back seat,phrase,46,0
+409,alive and kicking,phrase,46,0
+462,pour cold water on,phrase,46,0
+471,get the boot,phrase,46,0
+639,below the belt,phrase,46,0
+762,under the table,phrase,46,0
+108,out of the question,phrase,47,0
+143,meat and potatoes,phrase,47,0
+351,now or never,phrase,47,0
+490,in the final analysis,phrase,47,0
+579,play it cool,phrase,47,0
+650,with bated breath,phrase,47,0
+765,down to the wire,phrase,47,0
+767,go the distance,phrase,47,0
+326,in a nutshell,phrase,48,0
+508,take a dive,phrase,48,0
+691,eat someone alive,phrase,48,0
+728,licence to print money,phrase,48,0
+749,put a damper on,phrase,48,0
+773,from the cradle to the grave,phrase,48,0
+236,at a canter,phrase,49,0
+305,know no bounds,phrase,49,0
+314,crash and burn,phrase,49,0
+348,take the bull by the horns,phrase,49,0
+382,up to par,phrase,49,0
+458,see the light,phrase,49,0
+468,for crying out loud,phrase,49,0
+491,up in the air,phrase,49,0
+694,hot to trot,phrase,49,0
+106,against the grain,phrase,50,0
+298,in the hole,phrase,50,0
+617,go with the flow,phrase,50,0
+665,on the take,phrase,50,0
+683,carrot and stick,phrase,50,0
+696,tie the knot,phrase,50,0
+99,brain teaser,ncs,51,0
+130,out and about,phrase,51,0
+146,in the pink,phrase,51,0
+201,muddy the waters,phrase,51,0
+260,keep a lid on,phrase,51,0
+320,all over the place,phrase,51,0
+412,shoot the messenger,phrase,51,0
+565,all things being equal,phrase,51,0
+676,bells and whistles,phrase,51,0
+755,pull the wool over someone's eyes,phrase,51,0
+138,head for the hills,phrase,52,0
+251,in the same breath,phrase,52,0
+396,break someone's heart,phrase,52,0
+664,play to the gallery,phrase,52,0
+394,go for broke,phrase,53,0
+573,hit the road,phrase,53,0
+614,up to speed,phrase,53,0.01
+623,put words in someone's mouth,phrase,53,0
+625,in the long run,phrase,53,0.01
+196,go for the jugular,phrase,54,0
+253,get the picture,phrase,55,0
+473,cook the books,phrase,55,0
+478,on thin ice,phrase,55,0
+580,by and large,phrase,55,0
+160,by the book,phrase,56,0
+370,go the extra mile,phrase,56,0
+446,down at heel,phrase,56,0
+239,twist someone's arm,phrase,58,0
+310,not a pretty sight,phrase,58,0
+335,break new ground,phrase,58,0
+425,in the clear,phrase,59,0
+486,back to the drawing board,phrase,59,0
+109,make a killing,phrase,60,0
+145,yes and no,phrase,60,0
+285,feel the pinch,phrase,60,0
+644,get away with murder,phrase,60,0
+272,cut both ways,phrase,61,0
+604,get to grips with,phrase,61,0
+101,close call,ncs,62,0
+117,add insult to injury,phrase,62,0
+258,fall in line,phrase,62,0
+385,turn the tables,phrase,62,0
+500,one and the same,phrase,62,0
+657,have a ball,phrase,62,0
+713,with a view to,phrase,63,0
+164,hit the nail on the head,phrase,64,0
+204,hair of the dog,phrase,64,0
+582,play it safe,phrase,64,0
+367,by hook or by crook,phrase,65,0
+395,"been there, done that",phrase,65,na
+431,open the floodgates,phrase,65,0
+33,panda car,ncs,66,0
+292,save the day,phrase,66,0
+635,come to grief,phrase,66,0
+551,batten down the hatches,phrase,67,0
+570,no strings attached,phrase,67,0
+598,jump to conclusions,phrase,67,0
+660,walk of life,phrase,67,0
+726,cut from the same cloth,phrase,67,0
+216,dead and buried,phrase,68,0
+307,come hell or high water,phrase,68,0
+436,make ends meet,phrase,68,0
+646,once in a blue moon,phrase,68,0
+273,sing the praises of,phrase,69,0
+498,get on someone's nerves,phrase,69,0
+537,wet behind the ears,phrase,69,0
+328,rise and shine,phrase,70,0
+387,over the hill,phrase,70,0
+511,the plot thickens,phrase,70,0
+680,in cold blood,phrase,70,0
+279,make a meal of,phrase,71,0
+747,rank and file,phrase,71,0
+71,smoking jacket,ncs,72,0
+162,get a move on,phrase,72,0
+131,hot under the collar,phrase,73,0
+602,stake a claim,phrase,73,0
+711,up the ante,phrase,73,0
+583,turn over a new leaf,phrase,74,0
+634,light at the end of the tunnel,phrase,74,0
+656,up for grabs,phrase,74,0
+720,come to grips with,phrase,74,0
+29,night owl,ncs,75,0
+100,busy bee,ncs,75,0
+347,throw down the gauntlet,phrase,75,0
+19,basket case,ncs,76,0
+141,rise from the ashes,phrase,76,0
+455,hot and bothered,phrase,76,0
+649,make light work of,phrase,76,0
+85,old flame,ncs,77,0
+288,on the trot,phrase,77,0
+559,on the dot,phrase,77,0
+380,for the hell of it,phrase,79,0
+503,nothing to write home about,phrase,79,0
+327,on top of the world,phrase,81,0
+179,knock someone's socks off,phrase,82,0
+269,rain or shine,phrase,83,0
+688,at the end of the day,phrase,83,0
+501,in full swing,phrase,84,0
+531,split the difference,phrase,84,0
+20,diamond wedding,ncs,85,0
+509,scratch the surface,phrase,85,0
+375,rule of thumb,phrase,87,0
+701,break the ice,phrase,87,0
+154,to a T,phrase,88,0
+506,on the warpath,phrase,88,0
+527,up to scratch,phrase,88,0
+553,kicking and screaming,phrase,88,0
+265,for my money,phrase,89,0
+763,do someone proud,phrase,91,0
+353,by a long shot,phrase,96,0
+447,behind closed doors,phrase,97,0.01
+95,acid test,ncs,98,0
+22,elbow room,ncs,99,0
+86,old hat,ncs,99,0
+311,hand in glove,phrase,99,0
+115,get a handle on,phrase,100,0
+643,get it up,phrase,100,0
+322,rough and ready,phrase,101,0
+92,top dog,ncs,103,0
+640,make someone's day,phrase,103,0
+780,err on the side of,phrase,103,0
+37,front man,ncs,104,0
+42,blood bath,ncs,104,0
+94,bad hat,ncs,104,0
+613,once and for all,phrase,104,0.01
+299,it takes two to tango,phrase,105,0
+342,apples and oranges,phrase,105,0
+686,heads will roll,phrase,106,0
+759,keep a low profile,phrase,106,0
+175,look the part,phrase,108,0
+243,ring a bell,phrase,113,0
+590,make a splash,phrase,114,0
+481,catch a cold,phrase,115,0
+682,have it both ways,phrase,115,0
+710,sign on the dotted line,phrase,117,0
+40,grey matter,ncs,118,0
+363,on the face of it,phrase,118,0
+227,on the hop,phrase,119,0
+783,,,120,
+325,and then some,phrase,122,0
+592,up against it,phrase,123,0
+45,blue print,ncs,125,0
+246,spend a penny,phrase,127,0
+381,pound the pavement,phrase,127,0
+67,kangaroo court,ncs,131,0
+159,get to the bottom of,phrase,132,0
+96,big fish,ncs,137,0
+588,nine times out of ten,phrase,137,0
+658,out of this world,phrase,137,0
+56,guilt trip,ncs,140,0
+414,jump the queue,phrase,140,0
+185,on the square,phrase,141,0
+453,flash in the pan,phrase,141,0
+483,in the raw,phrase,150,0
+217,down in the dumps,phrase,153,0
+521,no great shakes,phrase,153,0
+79,spinning jenny,ncs,155,0
+15,eager beaver,ncs,160,0
+105,off the hook,phrase,161,0
+44,grandfather clock,ncs,162,0
+378,in the works,phrase,163,0
+756,weather the storm,phrase,167,0
+535,on the same wavelength,phrase,169,0
+93,wet blanket,ncs,178,0
+9,backroom boy,ncs,179,0
+722,hold someone's hand,phrase,179,0
+75,snake oil,ncs,183,0
+254,look the other way,phrase,183,0
+753,on the back of,phrase,183,0
+156,stay the course,phrase,186,0
+737,sign of the times,phrase,186,0
+53,rat run,ncs,190,0
+98,brass ring,ncs,192,0
+352,over the top,phrase,194,0
+638,rock the boat,phrase,196,0
+675,put the cart before the horse,phrase,197,0
+496,spring to mind,phrase,199,0
+530,on the nose,phrase,210,0
+80,smoke screen,ncs,211,0
+505,get stuck into,phrase,211,0
+36,flea market,ncs,231,0
+695,for the time being,phrase,231,0
+678,gone with the wind,phrase,232,0
+208,let bygones be bygones,phrase,233,0
+605,have been around,phrase,233,0.01
+440,put down roots,phrase,236,0
+308,set eyes on,phrase,239,0
+52,half wit,ncs,241,0
+47,graveyard shift,ncs,242,0
+354,sweetness and light,phrase,243,0
+778,go it alone,phrase,262,0.01
+271,with a vengeance,phrase,268,0
+586,call it quits,phrase,274,0
+714,out of pocket,phrase,276,0
+87,zebra crossing,ncs,277,0
+690,pack a punch,phrase,280,0
+68,sitting duck,ncs,285,0
+65,dark horse,ncs,289,0
+97,agony aunt,ncs,303,0
+81,swan song,ncs,308,0.01
+620,in the fast lane,phrase,316,0
+775,set the wheels in motion,phrase,323,0
+49,rat race,ncs,324,0.01
+51,gravy train,ncs,337,0.01
+11,crash course,ncs,343,0.01
+456,rough around the edges,phrase,352,0
+18,hot potato,ncs,357,0.01
+76,shelf life,ncs,366,0.01
+54,cable car,ncs,367,0.01
+619,throw good money after bad,phrase,367,0
+476,call it a day,phrase,394,0
+566,to the letter,phrase,411,0
+31,big wig,ncs,415,0.01
+740,on the mend,phrase,421,0
+35,foot soldier,ncs,425,0.01
+784,,,430,
+83,sugar daddy,ncs,433,0.01
+39,blind alley,ncs,450,0.01
+59,rocket science,ncs,460,0.01
+12,lip service,ncs,467,0.01
+38,goose egg,ncs,483,0.01
+631,on the skids,phrase,520,0
+24,monkey business,ncs,540,0.01
+61,sacred cow,ncs,544,0.01
+84,nut case,ncs,546,0.01
+25,face value,ncs,590,0.01
+57,rock bottom,ncs,603,0.01
+336,bury the hatchet,phrase,631,0
+74,double whammy,ncs,633,0.01
+41,low profile,ncs,639,0.01
+169,up the river,phrase,654,0
+23,eye candy,ncs,669,0.01
+91,tennis elbow,ncs,669,0.01
+70,smoking gun,ncs,677,0.01
+0,dream ticket,ncs,685,0.01
+72,double dutch,ncs,697,0.01
+715,move heaven and earth,phrase,703,0
+26,big cheese,ncs,725,0.01
+60,poison pill,ncs,728,0.01
+611,turn the corner,phrase,751,0
+451,lend a hand,phrase,831,0
+82,think tank,ncs,838,0.01
+7,head hunter,ncs,865,0.01
+62,shrinking violet,ncs,873,0.01
+34,black box,ncs,917,0.01
+78,spelling bee,ncs,930,0.02
+50,brain drain,ncs,975,0.02
+58,pipe dream,ncs,994,0.02
+89,white spirit,ncs,1034,0.02
+73,snail mail,ncs,1132,0.02
+8,heavy cross,ncs,1170,0.02
+27,nest egg,ncs,1286,0.02
+77,mother tongue,ncs,1286,0.02
+28,big picture,ncs,1362,0.02
+10,couch potato,ncs,1365,0.02
+13,banana republic,ncs,1536,0.02
+64,damp squib,ncs,1578,0.03
+66,ivory tower,ncs,1807,0.03
+55,inner circle,ncs,2484,0.04
+21,elbow grease,ncs,2668,0.04
+63,silver bullet,ncs,2678,0.04
+48,box office,ncs,3184,0.05
+90,silver lining,ncs,3193,0.05
+17,melting pot,ncs,4740,0.08
+5,hard shoulder,ncs,4925,0.08
+6,cloud nine,ncs,5662,0.09
+4,grass root,ncs,6267,0.1
+103,all hell broke loose,phrase,7054,0.11
+672,to say the least,phrase,7247,0
+16,cutting edge,ncs,7306,0.12
+46,guinea pig,ncs,7981,0.13
+1,cash cow,ncs,17821,0.29
+2,glass ceiling,ncs,18356,0.3
+3,dead end,ncs,58604,0.95

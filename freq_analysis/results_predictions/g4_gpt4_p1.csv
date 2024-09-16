@@ -1,0 +1,53 @@
+idiom,sentence,label
+all hell broke loose,'i',i
+all hell broke loose,i,i
+all hell broke loose,i,i
+glass ceiling,i,i
+glass ceiling,The expression 'glass ceiling' is used figuratively in the sentence. So the answer is 'i'.,i
+glass ceiling,i,i
+grass root,'i',i
+grass root,'i',i
+grass root,i,i
+cutting edge,i,i
+cutting edge,i,i
+cutting edge,i,i
+melting pot,"The expression 'melting pot' is used figuratively in the given sentence. So, the answer is 'i'.",i
+melting pot,i,i
+melting pot,'i',i
+guinea pig,i,i
+guinea pig,i,i
+guinea pig,"The expression 'Guinea Pig Club' in the sentence is used figuratively. Therefore, the answer is 'i'.",i
+silver bullet,i,i
+silver bullet,i,i
+silver bullet,i,i
+ivory tower,i,i
+ivory tower,'i',i
+ivory tower,The expression 'ivory tower' is used figuratively in the sentence provided. So the answer is 'i'.,i
+silver lining,i,i
+all hell broke loose,'l',l
+all hell broke loose,'l',l
+all hell broke loose,'l',l
+glass ceiling,'l',l
+glass ceiling,'l',l
+glass ceiling,"The expression 'glass ceiling' is used literally in the sentence 'In the greenhouse, plants from all over the world flourished under the expansive glass ceiling.'. The ceiling in this context is actually made of glass.
+
+The answer is: 'l' for literal.",l
+grass root,'l',l
+grass root,'l',l
+grass root,'l',l
+cutting edge,'l',l
+cutting edge,'l',l
+cutting edge,'l',l
+melting pot,'l',l
+melting pot,'l',l
+melting pot,'l',l
+guinea pig,'l',l
+guinea pig,'l',l
+guinea pig,'l',l
+silver bullet,'l',l
+silver bullet,'l',l
+silver bullet,'l',l
+ivory tower,'l',l
+ivory tower,'l',l
+ivory tower,'l',l
+silver lining,'l',l

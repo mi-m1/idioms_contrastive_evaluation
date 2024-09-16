@@ -1,0 +1,1566 @@
+TypeError: figurative, mistral7binstructv0.3, p3
+TypeError: literal, mistral7binstructv0.3, p3
+TypeError: figurative, mistral7binstructv0.3, p1
+f1_results: {'flant5xxl_p3': {'figurative': [0.0], 'literal': [100.0]}, 'flant5xl_p1': {'figurative': [100.0], 'literal': [0.09671179883945842]}, 'flant5xl_p3': {'figurative': [44.994675186368475], 'literal': [29.003436426116842]}, 'llama38binstruct_p3': {'figurative': [27.64872521246459], 'literal': [28.555617044825677]}, 'flant5xxl_p2': {'figurative': [0.28957528957528955], 'literal': [100.0]}, 'gpt4_p1': {'figurative': [11.715534979423868], 'literal': [32.04290263113793]}, 'flant5small_p1': {'figurative': [0.28957528957528955], 'literal': [100.0]}, 'flant5xxl_p1': {'figurative': [0.1932367149758454], 'literal': [100.0]}, 'gpt35turbo_p2': {'figurative': [47.80192016169782], 'literal': [33.90914907229686]}, 'llama27bchathf_p2': {'figurative': [28.322197475872308], 'literal': [20.19793072424651]}, 'mistral7binstructv0.3_p2': {'figurative': [49.90300678952473], 'literal': [0.09671179883945842]}, 'gpt35turbo_p1': {'figurative': [46.944016435541855], 'literal': [43.397260273972606]}, 'gpt35turbo_p3': {'figurative': [49.288168875797744], 'literal': [30.856760374832664]}, 'flant5large_p1': {'figurative': [100.0], 'literal': [0.0]}, 'gpt4o_p1': {'figurative': [15.702338282983444], 'literal': [32.37051792828685]}, 'mistral7binstructv0.3_p3': {'figurative': [], 'literal': []}, 'flant5large_p2': {'figurative': [100.0], 'literal': [0.0]}, 'flant5large_p3': {'figurative': [100.0], 'literal': [0.0]}, 'llama38binstruct_p1': {'figurative': [31.655651584477205], 'literal': [20.293209876543212]}, 'llama38binstruct_p2': {'figurative': [30.344585091420534], 'literal': [23.759086188992733]}, 'flant5small_p2': {'figurative': [0.0], 'literal': [100.0]}, 'gpt4_p3': {'figurative': [10.540005654509471], 'literal': [46.99846074910211]}, 'gpt4o_p3': {'figurative': [8.430095345983196], 'literal': [13.680265244341935]}, 'gpt4_p2': {'figurative': [18.83196721311475], 'literal': [45.7742782152231]}, 'llama27bchathf_p3': {'figurative': [32.438701126573896], 'literal': [10.949298813376483]}, 'flant5xl_p2': {'figurative': [37.50756200846945], 'literal': [41.73716864072194]}, 'mistral7binstructv0.3_p1': {'figurative': [], 'literal': [13.628762541806019]}, 'llama27bchathf_p1': {'figurative': [32.38758918201427], 'literal': [7.906712172923777]}, 'flant5small_p3': {'figurative': [0.9587727708533078], 'literal': [49.97578692493947]}, 'gpt4o_p2': {'figurative': [46.88946015424165], 'literal': [30.648535564853557]}}
+model_results: {'gpt4o_': [15.702338282983444, 46.88946015424165, 8.430095345983196], 'gpt35turbo_': [46.944016435541855, 47.80192016169782, 49.288168875797744], 'flant5xxl_': [0.1932367149758454, 0.28957528957528955, 0.0], 'flant5xl_': [100.0, 37.50756200846945, 44.994675186368475], 'flant5large_': [100.0, 100.0, 100.0], 'flant5small_': [0.28957528957528955, 0.0, 0.9587727708533078], 'llama38binstruct_': [31.655651584477205, 30.344585091420534, 27.64872521246459], 'llama27bchathf_': [32.38758918201427, 28.322197475872308, 32.438701126573896], 'gpt4_': [11.715534979423868, 18.83196721311475, 10.540005654509471]}
+mean: 23.67396459440276
+stdev: 20.431368160266747
+rounded_mean_and_stdev: 23.67±20.43
+mean: 48.011368491012476
+stdev: 1.1860287170970756
+rounded_mean_and_stdev: 48.01±1.19
+mean: 0.1609373348503783
+stdev: 0.1474649095565459
+rounded_mean_and_stdev: 0.16±0.15
+mean: 60.834079064945975
+stdev: 34.12464267875701
+rounded_mean_and_stdev: 60.83±34.12
+mean: 100.0
+stdev: 0.0
+rounded_mean_and_stdev: 100.0±0.0
+mean: 0.4161160201428658
+stdev: 0.4917527060442722
+rounded_mean_and_stdev: 0.42±0.49
+mean: 29.882987296120778
+stdev: 2.042955978760125
+rounded_mean_and_stdev: 29.88±2.04
+mean: 31.04949592815349
+stdev: 2.3620479977300772
+rounded_mean_and_stdev: 31.05±2.36
+mean: 13.69583594901603
+stdev: 4.486685922813482
+rounded_mean_and_stdev: 13.7±4.49
+averages: {'gpt4o_': '23.67±20.43', 'gpt35turbo_': '48.01±1.19', 'flant5xxl_': '0.16±0.15', 'flant5xl_': '60.83±34.12', 'flant5large_': '100.0±0.0', 'flant5small_': '0.42±0.49', 'llama38binstruct_': '29.88±2.04', 'llama27bchathf_': '31.05±2.36', 'gpt4_': '13.7±4.49'}
+model_results: {'gpt4o_': [32.37051792828685, 30.648535564853557, 13.680265244341935], 'gpt35turbo_': [43.397260273972606, 33.90914907229686, 30.856760374832664], 'flant5xxl_': [100.0, 100.0, 100.0], 'flant5xl_': [0.09671179883945842, 41.73716864072194, 29.003436426116842], 'flant5large_': [0.0, 0.0, 0.0], 'flant5small_': [100.0, 100.0, 49.97578692493947], 'llama38binstruct_': [20.293209876543212, 23.759086188992733, 28.555617044825677], 'llama27bchathf_': [7.906712172923777, 20.19793072424651, 10.949298813376483], 'gpt4_': [32.04290263113793, 45.7742782152231, 46.99846074910211]}
+mean: 25.566439579160782
+stdev: 10.329673811562179
+rounded_mean_and_stdev: 25.57±10.33
+mean: 36.05438990703404
+stdev: 6.539692508776703
+rounded_mean_and_stdev: 36.05±6.54
+mean: 100.0
+stdev: 0.0
+rounded_mean_and_stdev: 100.0±0.0
+mean: 23.61243895522608
+stdev: 21.33726908014548
+rounded_mean_and_stdev: 23.61±21.34
+mean: 0.0
+stdev: 0.0
+rounded_mean_and_stdev: 0.0±0.0
+mean: 83.32526230831316
+stdev: 28.881492884885397
+rounded_mean_and_stdev: 83.33±28.88
+mean: 24.202637703453874
+stdev: 4.1490235614065805
+rounded_mean_and_stdev: 24.2±4.15
+mean: 13.017980570182257
+stdev: 6.401413635073178
+rounded_mean_and_stdev: 13.02±6.4
+mean: 41.605213865154376
+stdev: 8.30379448331975
+rounded_mean_and_stdev: 41.61±8.3
+averages: {'gpt4o_': '25.57±10.33', 'gpt35turbo_': '36.05±6.54', 'flant5xxl_': '100.0±0.0', 'flant5xl_': '23.61±21.34', 'flant5large_': '0.0±0.0', 'flant5small_': '83.33±28.88', 'llama38binstruct_': '24.2±4.15', 'llama27bchathf_': '13.02±6.4', 'gpt4_': '41.61±8.3'}
+
+fig_f1_model_results:	{'gpt4o_': [15.702338282983444, 46.88946015424165, 8.430095345983196], 'gpt35turbo_': [46.944016435541855, 47.80192016169782, 49.288168875797744], 'flant5xxl_': [0.1932367149758454, 0.28957528957528955, 0.0], 'flant5xl_': [100.0, 37.50756200846945, 44.994675186368475], 'flant5large_': [100.0, 100.0, 100.0], 'flant5small_': [0.28957528957528955, 0.0, 0.9587727708533078], 'llama38binstruct_': [31.655651584477205, 30.344585091420534, 27.64872521246459], 'llama27bchathf_': [32.38758918201427, 28.322197475872308, 32.438701126573896], 'gpt4_': [11.715534979423868, 18.83196721311475, 10.540005654509471]}
+
+fig_f1_averages:	{'gpt4o_': '23.67±20.43', 'gpt35turbo_': '48.01±1.19', 'flant5xxl_': '0.16±0.15', 'flant5xl_': '60.83±34.12', 'flant5large_': '100.0±0.0', 'flant5small_': '0.42±0.49', 'llama38binstruct_': '29.88±2.04', 'llama27bchathf_': '31.05±2.36', 'gpt4_': '13.7±4.49'}
+gpt4o_:	23.67±20.43
+gpt35turbo_:	48.01±1.19
+flant5xxl_:	0.16±0.15
+flant5xl_:	60.83±34.12
+flant5large_:	100.0±0.0
+flant5small_:	0.42±0.49
+llama38binstruct_:	29.88±2.04
+llama27bchathf_:	31.05±2.36
+gpt4_:	13.7±4.49
+
+lit_f1_model_results: 	{'gpt4o_': [32.37051792828685, 30.648535564853557, 13.680265244341935], 'gpt35turbo_': [43.397260273972606, 33.90914907229686, 30.856760374832664], 'flant5xxl_': [100.0, 100.0, 100.0], 'flant5xl_': [0.09671179883945842, 41.73716864072194, 29.003436426116842], 'flant5large_': [0.0, 0.0, 0.0], 'flant5small_': [100.0, 100.0, 49.97578692493947], 'llama38binstruct_': [20.293209876543212, 23.759086188992733, 28.555617044825677], 'llama27bchathf_': [7.906712172923777, 20.19793072424651, 10.949298813376483], 'gpt4_': [32.04290263113793, 45.7742782152231, 46.99846074910211]}
+
+lit_f1_averages:	{'gpt4o_': '25.57±10.33', 'gpt35turbo_': '36.05±6.54', 'flant5xxl_': '100.0±0.0', 'flant5xl_': '23.61±21.34', 'flant5large_': '0.0±0.0', 'flant5small_': '83.33±28.88', 'llama38binstruct_': '24.2±4.15', 'llama27bchathf_': '13.02±6.4', 'gpt4_': '41.61±8.3'}
+gpt4o_:	25.57±10.33
+gpt35turbo_:	36.05±6.54
+flant5xxl_:	100.0±0.0
+flant5xl_:	23.61±21.34
+flant5large_:	0.0±0.0
+flant5small_:	83.33±28.88
+llama38binstruct_:	24.2±4.15
+llama27bchathf_:	13.02±6.4
+gpt4_:	41.61±8.3
+model_results: {'gpt4o_': [77.363184079602, 78.35820895522389, 73.6318407960199], 'gpt35turbo_': [77.11442786069652, 84.07960199004975, 94.02985074626866], 'flant5xxl_': [0.0, 0.0, 0.0], 'flant5xl_': [100.0, 40.049751243781095, 67.91044776119402], 'flant5large_': [100.0, 100.0, 100.0], 'flant5small_': [0.0, 0.0, 0.0], 'llama38binstruct_': [79.35323383084577, 66.4179104477612, 47.76119402985074], 'llama27bchathf_': [86.56716417910447, 50.49751243781094, 89.05472636815921], 'gpt4_': [77.61194029850746, 78.35820895522389, 81.09452736318407]}
+mean: 76.45107794361526
+stdev: 2.4917046768352793
+rounded_mean_and_stdev: 76.5±2.5
+mean: 85.07462686567165
+stdev: 8.501496263997545
+rounded_mean_and_stdev: 85.1±8.5
+mean: 0.0
+stdev: 0.0
+rounded_mean_and_stdev: 0.0±0.0
+mean: 69.32006633499171
+stdev: 29.999972497917863
+rounded_mean_and_stdev: 69.3±30.0
+mean: 100.0
+stdev: 0.0
+rounded_mean_and_stdev: 100.0±0.0
+mean: 0.0
+stdev: 0.0
+rounded_mean_and_stdev: 0.0±0.0
+mean: 64.51077943615257
+stdev: 15.882131664814171
+rounded_mean_and_stdev: 64.5±15.9
+mean: 75.3731343283582
+stdev: 21.57879548867845
+rounded_mean_and_stdev: 75.4±21.6
+mean: 79.02155887230514
+stdev: 1.8336106457293453
+rounded_mean_and_stdev: 79.0±1.8
+averages: {'gpt4o_': '76.5±2.5', 'gpt35turbo_': '85.1±8.5', 'flant5xxl_': '0.0±0.0', 'flant5xl_': '69.3±30.0', 'flant5large_': '100.0±0.0', 'flant5small_': '0.0±0.0', 'llama38binstruct_': '64.5±15.9', 'llama27bchathf_': '75.4±21.6', 'gpt4_': '79.0±1.8'}
+model_results: {'gpt4o_': [89.05472636815921, 76.11940298507463, 84.82587064676616], 'gpt35turbo_': [61.940298507462686, 34.32835820895522, 27.363184079601986], 'flant5xxl_': [100.0, 100.0, 100.0], 'flant5xl_': [0.0, 59.20398009950249, 25.870646766169152], 'flant5large_': [0.0, 0.0, 0.0], 'flant5small_': [100.0, 100.0, 99.75124378109453], 'llama38binstruct_': [8.955223880597014, 34.82587064676617, 58.457711442786064], 'llama27bchathf_': [3.731343283582089, 17.412935323383085, 5.223880597014925], 'gpt4_': [84.82587064676616, 73.38308457711443, 79.8507462686567]}
+mean: 83.33333333333333
+stdev: 6.595558996797439
+rounded_mean_and_stdev: 83.3±6.6
+mean: 41.2106135986733
+stdev: 18.287107206344057
+rounded_mean_and_stdev: 41.2±18.3
+mean: 100.0
+stdev: 0.0
+rounded_mean_and_stdev: 100.0±0.0
+mean: 28.35820895522388
+stdev: 29.680276096068965
+rounded_mean_and_stdev: 28.4±29.7
+mean: 0.0
+stdev: 0.0
+rounded_mean_and_stdev: 0.0±0.0
+mean: 99.91708126036484
+stdev: 0.14361946994766656
+rounded_mean_and_stdev: 99.9±0.1
+mean: 34.07960199004975
+stdev: 24.75968005431751
+rounded_mean_and_stdev: 34.1±24.8
+mean: 8.7893864013267
+stdev: 7.505405646353981
+rounded_mean_and_stdev: 8.8±7.5
+mean: 79.35323383084577
+stdev: 5.737593330681983
+rounded_mean_and_stdev: 79.4±5.7
+averages: {'gpt4o_': '83.3±6.6', 'gpt35turbo_': '41.2±18.3', 'flant5xxl_': '100.0±0.0', 'flant5xl_': '28.4±29.7', 'flant5large_': '0.0±0.0', 'flant5small_': '99.9±0.1', 'llama38binstruct_': '34.1±24.8', 'llama27bchathf_': '8.8±7.5', 'gpt4_': '79.4±5.7'}
+
+fig_lc_model_results:	{'gpt4o_': [77.363184079602, 78.35820895522389, 73.6318407960199], 'gpt35turbo_': [77.11442786069652, 84.07960199004975, 94.02985074626866], 'flant5xxl_': [0.0, 0.0, 0.0], 'flant5xl_': [100.0, 40.049751243781095, 67.91044776119402], 'flant5large_': [100.0, 100.0, 100.0], 'flant5small_': [0.0, 0.0, 0.0], 'llama38binstruct_': [79.35323383084577, 66.4179104477612, 47.76119402985074], 'llama27bchathf_': [86.56716417910447, 50.49751243781094, 89.05472636815921], 'gpt4_': [77.61194029850746, 78.35820895522389, 81.09452736318407]}
+
+fig_lc_averages:	{'gpt4o_': '76.5±2.5', 'gpt35turbo_': '85.1±8.5', 'flant5xxl_': '0.0±0.0', 'flant5xl_': '69.3±30.0', 'flant5large_': '100.0±0.0', 'flant5small_': '0.0±0.0', 'llama38binstruct_': '64.5±15.9', 'llama27bchathf_': '75.4±21.6', 'gpt4_': '79.0±1.8'}
+gpt4o_:	76.5±2.5
+gpt35turbo_:	85.1±8.5
+flant5xxl_:	0.0±0.0
+flant5xl_:	69.3±30.0
+flant5large_:	100.0±0.0
+flant5small_:	0.0±0.0
+llama38binstruct_:	64.5±15.9
+llama27bchathf_:	75.4±21.6
+gpt4_:	79.0±1.8
+
+lit_lc_model_results: 	{'gpt4o_': [89.05472636815921, 76.11940298507463, 84.82587064676616], 'gpt35turbo_': [61.940298507462686, 34.32835820895522, 27.363184079601986], 'flant5xxl_': [100.0, 100.0, 100.0], 'flant5xl_': [0.0, 59.20398009950249, 25.870646766169152], 'flant5large_': [0.0, 0.0, 0.0], 'flant5small_': [100.0, 100.0, 99.75124378109453], 'llama38binstruct_': [8.955223880597014, 34.82587064676617, 58.457711442786064], 'llama27bchathf_': [3.731343283582089, 17.412935323383085, 5.223880597014925], 'gpt4_': [84.82587064676616, 73.38308457711443, 79.8507462686567]}
+
+lit_lc_averages:	{'gpt4o_': '83.3±6.6', 'gpt35turbo_': '41.2±18.3', 'flant5xxl_': '100.0±0.0', 'flant5xl_': '28.4±29.7', 'flant5large_': '0.0±0.0', 'flant5small_': '99.9±0.1', 'llama38binstruct_': '34.1±24.8', 'llama27bchathf_': '8.8±7.5', 'gpt4_': '79.4±5.7'}
+gpt4o_:	83.3±6.6
+gpt35turbo_:	41.2±18.3
+flant5xxl_:	100.0±0.0
+flant5xl_:	28.4±29.7
+flant5large_:	0.0±0.0
+flant5small_:	99.9±0.1
+llama38binstruct_:	34.1±24.8
+llama27bchathf_:	8.8±7.5
+gpt4_:	79.4±5.7
+file_pairs:{'flant5xxl_p3': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_flant5xxl_p3.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_flant5xxl_p3.csv'}, 'flant5xl_p1': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_flant5xl_p1.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_flant5xl_p1.csv'}, 'flant5xl_p3': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_flant5xl_p3.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_flant5xl_p3.csv'}, 'llama38binstruct_p3': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_llama38binstruct_p3.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_llama38binstruct_p3.csv'}, 'flant5xxl_p2': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_flant5xxl_p2.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_flant5xxl_p2.csv'}, 'gpt4_p1': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_gpt4_p1.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_gpt4_p1.csv'}, 'flant5small_p1': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_flant5small_p1.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_flant5small_p1.csv'}, 'flant5xxl_p1': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_flant5xxl_p1.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_flant5xxl_p1.csv'}, 'gpt35turbo_p2': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_gpt35turbo_p2.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_gpt35turbo_p2.csv'}, 'llama27bchathf_p2': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_llama27bchathf_p2.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_llama27bchathf_p2.csv'}, 'mistral7binstructv0.3_p2': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_mistral7binstructv0.3_p2.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_mistral7binstructv0.3_p2.csv'}, 'gpt35turbo_p1': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_gpt35turbo_p1.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_gpt35turbo_p1.csv'}, 'gpt35turbo_p3': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_gpt35turbo_p3.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_gpt35turbo_p3.csv'}, 'flant5large_p1': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_flant5large_p1.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_flant5large_p1.csv'}, 'gpt4o_p1': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_gpt4o_p1.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_gpt4o_p1.csv'}, 'mistral7binstructv0.3_p3': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_mistral7binstructv0.3_p3.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_mistral7binstructv0.3_p3.csv'}, 'flant5large_p2': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_flant5large_p2.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_flant5large_p2.csv'}, 'flant5large_p3': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_flant5large_p3.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_flant5large_p3.csv'}, 'llama38binstruct_p1': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_llama38binstruct_p1.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_llama38binstruct_p1.csv'}, 'llama38binstruct_p2': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_llama38binstruct_p2.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_llama38binstruct_p2.csv'}, 'flant5small_p2': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_flant5small_p2.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_flant5small_p2.csv'}, 'gpt4_p3': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_gpt4_p3.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_gpt4_p3.csv'}, 'gpt4o_p3': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_gpt4o_p3.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_gpt4o_p3.csv'}, 'gpt4_p2': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_gpt4_p2.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_gpt4_p2.csv'}, 'llama27bchathf_p3': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_llama27bchathf_p3.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_llama27bchathf_p3.csv'}, 'flant5xl_p2': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_flant5xl_p2.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_flant5xl_p2.csv'}, 'mistral7binstructv0.3_p1': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_mistral7binstructv0.3_p1.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_mistral7binstructv0.3_p1.csv'}, 'llama27bchathf_p1': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_llama27bchathf_p1.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_llama27bchathf_p1.csv'}, 'flant5small_p3': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_flant5small_p3.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_flant5small_p3.csv'}, 'gpt4o_p2': {'figurative': '../../xshot_prompting_samePrompt/cleaned_model_outputs/figurative_gpt4o_p2.csv', 'literal': '../../xshot_prompting_samePrompt/cleaned_model_outputs/literal_gpt4o_p2.csv'}}
+literal_correct: idiom
+acid test               True
+across the board        True
+add fuel to the fire    True
+against the grain       True
+agony aunt              True
+                        ... 
+wipe the slate clean    True
+with a vengeance        True
+with a view to          True
+with open arms          True
+zebra crossing          True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                        True               False         False
+across the board                 True               False         False
+add fuel to the fire             True               False         False
+against the grain                True               False         False
+agony aunt                       True               False         False
+...                               ...                 ...           ...
+wipe the slate clean             True               False         False
+with a vengeance                 True               False         False
+with a view to                   True               False         False
+with open arms                   True               False         False
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 0
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 0 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 0.0
+literal_correct: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                       False                True         False
+across the board                False                True         False
+add fuel to the fire            False                True         False
+against the grain               False                True         False
+agony aunt                      False                True         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                  False                True         False
+with open arms                  False                True         False
+zebra crossing                  False                True         False
+
+[402 rows x 3 columns]
+correct_both_settings: 0
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 0 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 0.0
+literal_correct: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                       False                True         False
+across the board                False                True         False
+add fuel to the fire            False                True         False
+against the grain               False                True         False
+agony aunt                      False               False         False
+...                               ...                 ...           ...
+wipe the slate clean            False               False         False
+with a vengeance                False                True         False
+with a view to                  False                True         False
+with open arms                  False                True         False
+zebra crossing                  False                True         False
+
+[402 rows x 3 columns]
+correct_both_settings: 48
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 48 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 11.940298507462686
+literal_correct: idiom
+acid test                True
+across the board         True
+add fuel to the fire     True
+against the grain        True
+agony aunt               True
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to           True
+with open arms          False
+zebra crossing           True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                        True                True          True
+across the board                 True               False         False
+add fuel to the fire             True               False         False
+against the grain                True                True          True
+agony aunt                       True               False         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                   True               False         False
+with open arms                  False                True         False
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 105
+len: idiom
+acid test                True
+across the board        False
+add fuel to the fire    False
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 105 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 26.119402985074625
+literal_correct: idiom
+acid test               True
+across the board        True
+add fuel to the fire    True
+against the grain       True
+agony aunt              True
+                        ... 
+wipe the slate clean    True
+with a vengeance        True
+with a view to          True
+with open arms          True
+zebra crossing          True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                        True               False         False
+across the board                 True               False         False
+add fuel to the fire             True               False         False
+against the grain                True               False         False
+agony aunt                       True               False         False
+...                               ...                 ...           ...
+wipe the slate clean             True               False         False
+with a vengeance                 True               False         False
+with a view to                   True               False         False
+with open arms                   True               False         False
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 0
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 0 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 0.0
+literal_correct: idiom
+acid test                True
+across the board         True
+add fuel to the fire     True
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to           True
+with open arms           True
+zebra crossing           True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                        True                True          True
+across the board                 True                True          True
+add fuel to the fire             True               False         False
+against the grain                True               False         False
+agony aunt                      False               False         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                   True                True          True
+with open arms                   True                True          True
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 259
+len: idiom
+acid test                True
+across the board         True
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to           True
+with open arms           True
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 259 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 64.42786069651741
+literal_correct: idiom
+acid test               True
+across the board        True
+add fuel to the fire    True
+against the grain       True
+agony aunt              True
+                        ... 
+wipe the slate clean    True
+with a vengeance        True
+with a view to          True
+with open arms          True
+zebra crossing          True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                        True               False         False
+across the board                 True               False         False
+add fuel to the fire             True               False         False
+against the grain                True               False         False
+agony aunt                       True               False         False
+...                               ...                 ...           ...
+wipe the slate clean             True               False         False
+with a vengeance                 True               False         False
+with a view to                   True               False         False
+with open arms                   True               False         False
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 0
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 0 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 0.0
+literal_correct: idiom
+acid test               True
+across the board        True
+add fuel to the fire    True
+against the grain       True
+agony aunt              True
+                        ... 
+wipe the slate clean    True
+with a vengeance        True
+with a view to          True
+with open arms          True
+zebra crossing          True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                        True               False         False
+across the board                 True               False         False
+add fuel to the fire             True               False         False
+against the grain                True               False         False
+agony aunt                       True               False         False
+...                               ...                 ...           ...
+wipe the slate clean             True               False         False
+with a vengeance                 True               False         False
+with a view to                   True               False         False
+with open arms                   True               False         False
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 0
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 0 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 0.0
+literal_correct: idiom
+acid test                True
+across the board        False
+add fuel to the fire     True
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing           True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                        True                True          True
+across the board                False                True         False
+add fuel to the fire             True                True          True
+against the grain                True                True          True
+agony aunt                      False               False         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                  False               False         False
+with open arms                  False                True         False
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 101
+len: idiom
+acid test                True
+across the board        False
+add fuel to the fire     True
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 101 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 25.12437810945274
+literal_correct: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                       False                True         False
+across the board                False               False         False
+add fuel to the fire            False                True         False
+against the grain                True                True          True
+agony aunt                      False                True         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                  False               False         False
+with open arms                  False                True         False
+zebra crossing                  False               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 37
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 37 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 9.203980099502488
+literal_correct: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                       False                True         False
+across the board                False                True         False
+add fuel to the fire            False                True         False
+against the grain               False                True         False
+agony aunt                      False                True         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                  False                True         False
+with open arms                  False                True         False
+zebra crossing                  False                True         False
+
+[402 rows x 3 columns]
+correct_both_settings: 0
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 0 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 0.0
+literal_correct: idiom
+acid test                True
+across the board         True
+add fuel to the fire     True
+against the grain        True
+agony aunt               True
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to           True
+with open arms          False
+zebra crossing           True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                        True                True          True
+across the board                 True                True          True
+add fuel to the fire             True                True          True
+against the grain                True                True          True
+agony aunt                       True               False         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                   True               False         False
+with open arms                  False                True         False
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 182
+len: idiom
+acid test                True
+across the board         True
+add fuel to the fire     True
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 182 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 45.27363184079602
+literal_correct: idiom
+acid test               False
+across the board         True
+add fuel to the fire    False
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing           True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                       False                True         False
+across the board                 True                True          True
+add fuel to the fire            False                True         False
+against the grain                True                True          True
+agony aunt                      False                True         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                  False                True         False
+with open arms                  False                True         False
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 101
+len: idiom
+acid test               False
+across the board         True
+add fuel to the fire    False
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 101 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 25.12437810945274
+literal_correct: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                       False                True         False
+across the board                False                True         False
+add fuel to the fire            False                True         False
+against the grain               False                True         False
+agony aunt                      False                True         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                  False                True         False
+with open arms                  False                True         False
+zebra crossing                  False                True         False
+
+[402 rows x 3 columns]
+correct_both_settings: 0
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 0 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 0.0
+literal_correct: idiom
+acid test                True
+across the board         True
+add fuel to the fire     True
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms           True
+zebra crossing           True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                        True                True          True
+across the board                 True                True          True
+add fuel to the fire             True                True          True
+against the grain                True               False         False
+agony aunt                      False               False         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                  False                True         False
+with open arms                   True                True          True
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 272
+len: idiom
+acid test                True
+across the board         True
+add fuel to the fire     True
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms           True
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 272 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 67.66169154228857
+literal_correct: idiom
+acid test               False
+across the board         True
+add fuel to the fire     True
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                       False                True         False
+across the board                 True               False         False
+add fuel to the fire             True                True          True
+against the grain                True                True          True
+agony aunt                      False                True         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False               False         False
+with a view to                  False               False         False
+with open arms                  False               False         False
+zebra crossing                  False                True         False
+
+[402 rows x 3 columns]
+correct_both_settings: 38
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire     True
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 38 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 9.45273631840796
+literal_correct: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                       False                True         False
+across the board                False                True         False
+add fuel to the fire            False                True         False
+against the grain               False                True         False
+agony aunt                      False                True         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                  False                True         False
+with open arms                  False                True         False
+zebra crossing                  False                True         False
+
+[402 rows x 3 columns]
+correct_both_settings: 0
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 0 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 0.0
+literal_correct: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                       False                True         False
+across the board                False                True         False
+add fuel to the fire            False                True         False
+against the grain               False                True         False
+agony aunt                      False                True         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                  False                True         False
+with open arms                  False                True         False
+zebra crossing                  False                True         False
+
+[402 rows x 3 columns]
+correct_both_settings: 0
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 0 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 0.0
+literal_correct: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing           True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                       False                True         False
+across the board                False                True         False
+add fuel to the fire            False                True         False
+against the grain               False               False         False
+agony aunt                      False                True         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                  False                True         False
+with open arms                  False                True         False
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 19
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 19 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 4.72636815920398
+literal_correct: idiom
+acid test               False
+across the board         True
+add fuel to the fire     True
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing           True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                       False                True         False
+across the board                 True               False         False
+add fuel to the fire             True               False         False
+against the grain                True                True          True
+agony aunt                      False                True         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                  False               False         False
+with open arms                  False                True         False
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 80
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 80 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 19.900497512437813
+literal_correct: idiom
+acid test               True
+across the board        True
+add fuel to the fire    True
+against the grain       True
+agony aunt              True
+                        ... 
+wipe the slate clean    True
+with a vengeance        True
+with a view to          True
+with open arms          True
+zebra crossing          True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                        True               False         False
+across the board                 True               False         False
+add fuel to the fire             True               False         False
+against the grain                True               False         False
+agony aunt                       True               False         False
+...                               ...                 ...           ...
+wipe the slate clean             True               False         False
+with a vengeance                 True               False         False
+with a view to                   True               False         False
+with open arms                   True               False         False
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 0
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 0 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 0.0
+literal_correct: idiom
+acid test                True
+across the board         True
+add fuel to the fire     True
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to           True
+with open arms           True
+zebra crossing           True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                        True                True          True
+across the board                 True                True          True
+add fuel to the fire             True                True          True
+against the grain                True               False         False
+agony aunt                      False                True         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                   True               False         False
+with open arms                   True                True          True
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 252
+len: idiom
+acid test                True
+across the board         True
+add fuel to the fire     True
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms           True
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 252 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 62.68656716417911
+literal_correct: idiom
+acid test                True
+across the board         True
+add fuel to the fire    False
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to           True
+with open arms           True
+zebra crossing           True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                        True                True          True
+across the board                 True                True          True
+add fuel to the fire            False                True         False
+against the grain                True               False         False
+agony aunt                      False                True         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                   True               False         False
+with open arms                   True                True          True
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 244
+len: idiom
+acid test                True
+across the board         True
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms           True
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 244 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 60.69651741293532
+literal_correct: idiom
+acid test                True
+across the board         True
+add fuel to the fire     True
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to           True
+with open arms           True
+zebra crossing           True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                        True                True          True
+across the board                 True                True          True
+add fuel to the fire             True                True          True
+against the grain                True                True          True
+agony aunt                      False               False         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                   True                True          True
+with open arms                   True                True          True
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 220
+len: idiom
+acid test                True
+across the board         True
+add fuel to the fire     True
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to           True
+with open arms           True
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 220 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 54.72636815920397
+literal_correct: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                       False                True         False
+across the board                False               False         False
+add fuel to the fire            False                True         False
+against the grain               False                True         False
+agony aunt                      False                True         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                  False               False         False
+with open arms                  False                True         False
+zebra crossing                  False                True         False
+
+[402 rows x 3 columns]
+correct_both_settings: 19
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 19 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 4.72636815920398
+literal_correct: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing           True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                       False                True         False
+across the board                False                True         False
+add fuel to the fire            False                True         False
+against the grain               False                True         False
+agony aunt                      False               False         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                  False                True         False
+with open arms                  False               False         False
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 64
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 64 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 15.92039800995025
+literal_correct: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                       False                True         False
+across the board                False                True         False
+add fuel to the fire            False                True         False
+against the grain               False                True         False
+agony aunt                      False                True         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                  False                True         False
+with open arms                  False                True         False
+zebra crossing                  False                True         False
+
+[402 rows x 3 columns]
+correct_both_settings: 19
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 19 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 4.72636815920398
+literal_correct: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                       False                True         False
+across the board                False                True         False
+add fuel to the fire            False                True         False
+against the grain               False                True         False
+agony aunt                      False                True         False
+...                               ...                 ...           ...
+wipe the slate clean            False               False         False
+with a vengeance                False                True         False
+with a view to                  False                True         False
+with open arms                  False                True         False
+zebra crossing                  False               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 11
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 11 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 2.736318407960199
+literal_correct: idiom
+acid test               True
+across the board        True
+add fuel to the fire    True
+against the grain       True
+agony aunt              True
+                        ... 
+wipe the slate clean    True
+with a vengeance        True
+with a view to          True
+with open arms          True
+zebra crossing          True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                        True               False         False
+across the board                 True               False         False
+add fuel to the fire             True               False         False
+against the grain                True               False         False
+agony aunt                       True               False         False
+...                               ...                 ...           ...
+wipe the slate clean             True               False         False
+with a vengeance                 True               False         False
+with a view to                   True               False         False
+with open arms                   True               False         False
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 0
+len: idiom
+acid test               False
+across the board        False
+add fuel to the fire    False
+against the grain       False
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms          False
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 0 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 0.0
+literal_correct: idiom
+acid test                True
+across the board         True
+add fuel to the fire     True
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to           True
+with open arms           True
+zebra crossing           True
+Name: is_correct, Length: 402, dtype: bool
+len literal_correct: 402
+len figurative_correct: 402
+combined_correctness:                       literal_correct  figurative_correct  both_correct
+idiom                                                                  
+acid test                        True                True          True
+across the board                 True               False         False
+add fuel to the fire             True                True          True
+against the grain                True                True          True
+agony aunt                      False                True         False
+...                               ...                 ...           ...
+wipe the slate clean            False                True         False
+with a vengeance                False                True         False
+with a view to                   True               False         False
+with open arms                   True                True          True
+zebra crossing                   True               False         False
+
+[402 rows x 3 columns]
+correct_both_settings: 226
+len: idiom
+acid test                True
+across the board        False
+add fuel to the fire     True
+against the grain        True
+agony aunt              False
+                        ...  
+wipe the slate clean    False
+with a vengeance        False
+with a view to          False
+with open arms           True
+zebra crossing          False
+Name: both_correct, Length: 402, dtype: bool
+The model got 226 idioms completely correct in both settings out of 402 idioms.
+sc_accuracy: 56.21890547263681
+strict_consistency_each_run: {'flant5xxl_p3': 0.0, 'flant5xl_p1': 0.0, 'flant5xl_p3': 11.940298507462686, 'llama38binstruct_p3': 26.119402985074625, 'flant5xxl_p2': 0.0, 'gpt4_p1': 64.42786069651741, 'flant5small_p1': 0.0, 'flant5xxl_p1': 0.0, 'gpt35turbo_p2': 25.12437810945274, 'llama27bchathf_p2': 9.203980099502488, 'mistral7binstructv0.3_p2': 0.0, 'gpt35turbo_p1': 45.27363184079602, 'gpt35turbo_p3': 25.12437810945274, 'flant5large_p1': 0.0, 'gpt4o_p1': 67.66169154228857, 'mistral7binstructv0.3_p3': 9.45273631840796, 'flant5large_p2': 0.0, 'flant5large_p3': 0.0, 'llama38binstruct_p1': 4.72636815920398, 'llama38binstruct_p2': 19.900497512437813, 'flant5small_p2': 0.0, 'gpt4_p3': 62.68656716417911, 'gpt4o_p3': 60.69651741293532, 'gpt4_p2': 54.72636815920397, 'llama27bchathf_p3': 4.72636815920398, 'flant5xl_p2': 15.92039800995025, 'mistral7binstructv0.3_p1': 4.72636815920398, 'llama27bchathf_p1': 2.736318407960199, 'flant5small_p3': 0.0, 'gpt4o_p2': 56.21890547263681}
+
+sc_results:	{'gpt4o_': [67.66169154228857, 56.21890547263681, 60.69651741293532], 'gpt35turbo_': [45.27363184079602, 25.12437810945274, 25.12437810945274], 'flant5xxl_': [0.0, 0.0, 0.0], 'flant5xl_': [0.0, 15.92039800995025, 11.940298507462686], 'flant5large_': [0.0, 0.0, 0.0], 'flant5small_': [0.0, 0.0, 0.0], 'llama38binstruct_': [4.72636815920398, 19.900497512437813, 26.119402985074625], 'llama27bchathf_': [2.736318407960199, 9.203980099502488, 4.72636815920398], 'gpt4_': [64.42786069651741, 54.72636815920397, 62.68656716417911]}
+sc_averages:	{'gpt4o_': '61.5±5.8', 'gpt35turbo_': '31.8±11.6', 'flant5xxl_': '0.0±0.0', 'flant5xl_': '9.3±8.3', 'flant5large_': '0.0±0.0', 'flant5small_': '0.0±0.0', 'llama38binstruct_': '16.9±11.0', 'llama27bchathf_': '5.6±3.3', 'gpt4_': '60.6±5.2'}
+gpt4o_:	61.5±5.8
+gpt35turbo_:	31.8±11.6
+flant5xxl_:	0.0±0.0
+flant5xl_:	9.3±8.3
+flant5large_:	0.0±0.0
+flant5small_:	0.0±0.0
+llama38binstruct_:	16.9±11.0
+llama27bchathf_:	5.6±3.3
+gpt4_:	60.6±5.2

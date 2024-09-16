@@ -1,0 +1,10 @@
+‘l’
+^(?!.*(,i|,l)).*$
+
+
+figurative_gpt4_p2
+have a ball,the expression 'have a ball' is not present in the sentence.
+make the cut,the expression 'make the cut' does not appear in the sentence.
+
+figurative_gpt4_p3
+in the black,the context provided is insufficient to determine the usage of the expression 'in the black'. please provide more information or context details.

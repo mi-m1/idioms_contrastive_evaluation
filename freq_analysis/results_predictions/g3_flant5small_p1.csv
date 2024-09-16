@@ -1,0 +1,313 @@
+idiom,sentence,label
+off the hook,l,i
+off the hook,l,i
+off the hook,l,i
+stay the course,l,i
+stay the course,l,i
+stay the course,l,i
+up the river,l,i
+up the river,l,i
+up the river,l,i
+on the square,l,i
+on the square,l,i
+on the square,l,i
+down in the dumps,l,i
+down in the dumps,l,i
+down in the dumps,l,i
+look the other way,l,i
+look the other way,l,i
+look the other way,l,i
+with a vengeance,l,i
+bury the hatchet,l,i
+bury the hatchet,l,i
+over the top,l,i
+over the top,l,i
+over the top,l,i
+sweetness and light,l,i
+sweetness and light,i,i
+put down roots,l,i
+put down roots,l,i
+flash in the pan,l,i
+flash in the pan,l,i
+flash in the pan,l,i
+rough around the edges,l,i
+rough around the edges,l,i
+in the raw,l,i
+in the raw,i,i
+on the nose,l,i
+on the nose,l,i
+on the nose,l,i
+in the fast lane,l,i
+in the fast lane,l,i
+in the fast lane,l,i
+on the skids,l,i
+on the skids,l,i
+on the skids,l,i
+rock the boat,l,i
+rock the boat,l,i
+put the cart before the horse,l,i
+pack a punch,l,i
+pack a punch,l,i
+pack a punch,l,i
+move heaven and earth,l,i
+move heaven and earth,l,i
+move heaven and earth,l,i
+hold someone's hand,l,i
+hold someone's hand,l,i
+hold someone's hand,l,i
+on the mend,l,i
+on the mend,l,i
+on the mend,l,i
+on the back of,l,i
+on the back of,l,i
+on the back of,l,i
+set the wheels in motion,l,i
+set the wheels in motion,l,i
+set the wheels in motion,l,i
+head hunter,l,i
+head hunter,l,i
+head hunter,l,i
+heavy cross,l,i
+heavy cross,l,i
+heavy cross,l,i
+banana republic,l,i
+banana republic,l,i
+banana republic,l,i
+eager beaver,l,i
+eager beaver,l,i
+hot potato,l,i
+hot potato,l,i
+hot potato,l,i
+monkey business,l,i
+monkey business,l,i
+monkey business,l,i
+big cheese,l,i
+big cheese,l,i
+big cheese,l,i
+nest egg,l,i
+nest egg,l,i
+big picture,l,i
+big picture,l,i
+big picture,l,i
+big wig,l,i
+big wig,l,i
+big wig,l,i
+black box,l,i
+black box,l,i
+black box,l,i
+flea market,l,i
+flea market,l,i
+flea market,l,i
+goose egg,l,i
+blind alley,l,i
+blind alley,l,i
+blind alley,l,i
+low profile,l,i
+low profile,l,i
+low profile,l,i
+grandfather clock,l,i
+grandfather clock,l,i
+grandfather clock,l,i
+graveyard shift,l,i
+graveyard shift,l,i
+gravy train,l,i
+gravy train,l,i
+gravy train,l,i
+rat run,l,i
+rock bottom,l,i
+rock bottom,l,i
+rock bottom,l,i
+pipe dream,l,i
+pipe dream,l,i
+pipe dream,l,i
+rocket science,l,i
+rocket science,l,i
+rocket science,l,i
+poison pill,l,i
+poison pill,l,i
+poison pill,l,i
+shrinking violet,l,i
+shrinking violet,l,i
+shrinking violet,l,i
+damp squib,l,i
+dark horse,l,i
+dark horse,l,i
+dark horse,l,i
+sitting duck,l,i
+smoking gun,l,i
+smoking gun,l,i
+double dutch,l,i
+double dutch,l,i
+double dutch,l,i
+snake oil,l,i
+snake oil,l,i
+snake oil,l,i
+smoke screen,l,i
+smoke screen,l,i
+smoke screen,l,i
+swan song,l,i
+swan song,l,i
+swan song,l,i
+zebra crossing,l,i
+zebra crossing,l,i
+zebra crossing,l,i
+agony aunt,l,i
+brass ring,l,i
+brass ring,l,i
+brass ring,l,i
+off the hook,l,l
+off the hook,l,l
+off the hook,l,l
+stay the course,l,l
+stay the course,l,l
+stay the course,l,l
+up the river,l,l
+up the river,l,l
+up the river,l,l
+on the square,l,l
+on the square,l,l
+on the square,l,l
+down in the dumps,l,l
+down in the dumps,l,l
+down in the dumps,l,l
+look the other way,l,l
+look the other way,l,l
+look the other way,l,l
+with a vengeance,l,l
+bury the hatchet,l,l
+bury the hatchet,l,l
+over the top,l,l
+over the top,l,l
+over the top,l,l
+sweetness and light,l,l
+sweetness and light,l,l
+put down roots,l,l
+put down roots,l,l
+flash in the pan,l,l
+flash in the pan,l,l
+flash in the pan,l,l
+rough around the edges,l,l
+rough around the edges,l,l
+in the raw,l,l
+in the raw,l,l
+on the nose,l,l
+on the nose,l,l
+on the nose,l,l
+in the fast lane,l,l
+in the fast lane,l,l
+in the fast lane,l,l
+on the skids,l,l
+on the skids,l,l
+on the skids,l,l
+rock the boat,l,l
+rock the boat,l,l
+put the cart before the horse,l,l
+pack a punch,l,l
+pack a punch,l,l
+pack a punch,l,l
+move heaven and earth,l,l
+move heaven and earth,l,l
+move heaven and earth,l,l
+hold someone's hand,l,l
+hold someone's hand,l,l
+hold someone's hand,l,l
+on the mend,l,l
+on the mend,l,l
+on the mend,l,l
+on the back of,l,l
+on the back of,l,l
+on the back of,l,l
+set the wheels in motion,l,l
+set the wheels in motion,l,l
+set the wheels in motion,l,l
+head hunter,l,l
+head hunter,l,l
+head hunter,l,l
+heavy cross,l,l
+heavy cross,l,l
+heavy cross,l,l
+banana republic,l,l
+banana republic,l,l
+banana republic,l,l
+eager beaver,l,l
+eager beaver,l,l
+hot potato,l,l
+hot potato,l,l
+hot potato,l,l
+monkey business,l,l
+monkey business,l,l
+monkey business,l,l
+big cheese,l,l
+big cheese,l,l
+big cheese,l,l
+nest egg,l,l
+nest egg,l,l
+big picture,l,l
+big picture,l,l
+big picture,l,l
+big wig,l,l
+big wig,l,l
+big wig,l,l
+black box,l,l
+black box,l,l
+black box,l,l
+flea market,l,l
+flea market,l,l
+flea market,l,l
+goose egg,l,l
+blind alley,l,l
+blind alley,l,l
+blind alley,l,l
+low profile,l,l
+low profile,l,l
+low profile,l,l
+grandfather clock,l,l
+grandfather clock,l,l
+grandfather clock,l,l
+graveyard shift,l,l
+graveyard shift,l,l
+gravy train,l,l
+gravy train,l,l
+gravy train,l,l
+rat run,l,l
+rock bottom,l,l
+rock bottom,l,l
+rock bottom,l,l
+pipe dream,l,l
+pipe dream,l,l
+pipe dream,l,l
+rocket science,l,l
+rocket science,l,l
+rocket science,l,l
+poison pill,l,l
+poison pill,l,l
+poison pill,l,l
+shrinking violet,l,l
+shrinking violet,l,l
+shrinking violet,l,l
+damp squib,l,l
+dark horse,l,l
+dark horse,l,l
+dark horse,l,l
+sitting duck,l,l
+smoking gun,l,l
+smoking gun,l,l
+double dutch,l,l
+double dutch,l,l
+double dutch,l,l
+snake oil,l,l
+snake oil,l,l
+snake oil,l,l
+smoke screen,l,l
+smoke screen,l,l
+smoke screen,l,l
+swan song,l,l
+swan song,l,l
+swan song,l,l
+zebra crossing,l,l
+zebra crossing,l,l
+zebra crossing,l,l
+agony aunt,l,l
+brass ring,l,l
+brass ring,l,l
+brass ring,l,l

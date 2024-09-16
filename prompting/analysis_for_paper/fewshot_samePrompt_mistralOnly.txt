@@ -1,0 +1,66 @@
+filename: literal_flant5xxl_p3.csv
+filename: literal_flant5xl_p1.csv
+filename: figurative_flant5xl_p3.csv
+filename: literal_llama38binstruct_p3.csv
+filename: figurative_flant5xxl_p2.csv
+filename: figurative_gpt4_p1.csv
+filename: figurative_flant5xl_p1.csv
+filename: literal_flant5small_p1.csv
+filename: literal_flant5xl_p3.csv
+filename: literal_flant5xxl_p1.csv
+filename: literal_flant5xxl_p2.csv
+filename: figurative_gpt35turbo_p2.csv
+filename: figurative_llama27bchathf_p2.csv
+filename: literal_mistral7binstructv0.3_p2.csv
+filename: figurative_gpt35turbo_p1.csv
+filename: literal_gpt35turbo_p3.csv
+filename: figurative_flant5large_p1.csv
+filename: literal_gpt4o_p1.csv
+filename: figurative_mistral7binstructv0.3_p3.csv
+TypeError: figurative, mistral7binstructv0.3, p3
+filename: literal_flant5large_p2.csv
+filename: literal_flant5large_p3.csv
+filename: figurative_llama38binstruct_p1.csv
+filename: figurative_llama38binstruct_p3.csv
+filename: literal_llama38binstruct_p2.csv
+filename: literal_flant5small_p2.csv
+filename: figurative_gpt4_p3.csv
+filename: figurative_flant5large_p3.csv
+filename: figurative_gpt4o_p3.csv
+filename: figurative_gpt4_p2.csv
+filename: literal_gpt4_p2.csv
+filename: figurative_llama27bchathf_p3.csv
+filename: literal_gpt4_p1.csv
+filename: literal_mistral7binstructv0.3_p3.csv
+TypeError: literal, mistral7binstructv0.3, p3
+filename: literal_flant5xl_p2.csv
+filename: literal_gpt4_p3.csv
+filename: figurative_flant5xl_p2.csv
+filename: literal_gpt35turbo_p2.csv
+filename: figurative_flant5xxl_p3.csv
+filename: literal_mistral7binstructv0.3_p1.csv
+filename: figurative_flant5small_p2.csv
+filename: figurative_gpt4o_p1.csv
+filename: figurative_mistral7binstructv0.3_p2.csv
+filename: literal_gpt4o_p3.csv
+filename: literal_llama38binstruct_p1.csv
+filename: figurative_llama27bchathf_p1.csv
+filename: figurative_llama38binstruct_p2.csv
+filename: figurative_flant5small_p1.csv
+filename: literal_llama27bchathf_p1.csv
+filename: literal_llama27bchathf_p3.csv
+filename: literal_flant5large_p1.csv
+filename: literal_flant5small_p3.csv
+filename: literal_llama27bchathf_p2.csv
+filename: figurative_flant5small_p3.csv
+filename: figurative_gpt35turbo_p3.csv
+filename: figurative_gpt4o_p2.csv
+filename: figurative_mistral7binstructv0.3_p1.csv
+TypeError: figurative, mistral7binstructv0.3, p1
+filename: literal_gpt35turbo_p1.csv
+filename: literal_gpt4o_p2.csv
+filename: figurative_flant5large_p2.csv
+filename: figurative_flant5xxl_p1.csv
+f1_results: {'flant5xxl_p3': {'figurative': [0.0], 'literal': [100.0]}, 'flant5xl_p1': {'figurative': [100.0], 'literal': [0.09671179883945842]}, 'flant5xl_p3': {'figurative': [44.994675186368475], 'literal': [29.003436426116842]}, 'llama38binstruct_p3': {'figurative': [27.64872521246459], 'literal': [28.555617044825677]}, 'flant5xxl_p2': {'figurative': [0.28957528957528955], 'literal': [100.0]}, 'gpt4_p1': {'figurative': [11.715534979423868], 'literal': [32.04290263113793]}, 'flant5small_p1': {'figurative': [0.28957528957528955], 'literal': [100.0]}, 'flant5xxl_p1': {'figurative': [0.1932367149758454], 'literal': [100.0]}, 'gpt35turbo_p2': {'figurative': [47.80192016169782], 'literal': [33.90914907229686]}, 'llama27bchathf_p2': {'figurative': [28.322197475872308], 'literal': [20.19793072424651]}, 'mistral7binstructv0.3_p2': {'figurative': [49.90300678952473], 'literal': [0.09671179883945842]}, 'gpt35turbo_p1': {'figurative': [46.944016435541855], 'literal': [43.397260273972606]}, 'gpt35turbo_p3': {'figurative': [49.288168875797744], 'literal': [30.856760374832664]}, 'flant5large_p1': {'figurative': [100.0], 'literal': [0.0]}, 'gpt4o_p1': {'figurative': [15.702338282983444], 'literal': [32.37051792828685]}, 'mistral7binstructv0.3_p3': {'figurative': [], 'literal': []}, 'flant5large_p2': {'figurative': [100.0], 'literal': [0.0]}, 'flant5large_p3': {'figurative': [100.0], 'literal': [0.0]}, 'llama38binstruct_p1': {'figurative': [31.655651584477205], 'literal': [20.293209876543212]}, 'llama38binstruct_p2': {'figurative': [30.344585091420534], 'literal': [23.759086188992733]}, 'flant5small_p2': {'figurative': [0.0], 'literal': [100.0]}, 'gpt4_p3': {'figurative': [10.540005654509471], 'literal': [46.99846074910211]}, 'gpt4o_p3': {'figurative': [8.430095345983196], 'literal': [13.680265244341935]}, 'gpt4_p2': {'figurative': [18.83196721311475], 'literal': [45.7742782152231]}, 'llama27bchathf_p3': {'figurative': [32.438701126573896], 'literal': [10.949298813376483]}, 'flant5xl_p2': {'figurative': [37.50756200846945], 'literal': [41.73716864072194]}, 'mistral7binstructv0.3_p1': {'figurative': [], 'literal': [13.628762541806019]}, 'llama27bchathf_p1': {'figurative': [32.38758918201427], 'literal': [7.906712172923777]}, 'flant5small_p3': {'figurative': [0.9587727708533078], 'literal': [49.97578692493947]}, 'gpt4o_p2': {'figurative': [46.88946015424165], 'literal': [30.648535564853557]}}
+model_results: {'mistral7binstructv0.3_': [49.90300678952473]}
+mean: 49.90300678952473

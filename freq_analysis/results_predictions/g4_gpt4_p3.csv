@@ -1,0 +1,61 @@
+idiom,sentence,label
+all hell broke loose,i,i
+all hell broke loose,"The expression 'all hell broke loose' is used figuratively in the given context. 
+
+Output: 'i'",i
+all hell broke loose,"The expression 'all hell broke loose' in the given context has a figurative meaning. Therefore, the output is 'i'.",i
+glass ceiling,i,i
+glass ceiling,i,i
+glass ceiling,i,i
+grass root,i,i
+grass root,"The expression 'grass root' in this context holds a figurative meaning. Therefore, the output is 'i'.",i
+grass root,i,i
+cutting edge,i,i
+cutting edge,i,i
+cutting edge,i,i
+melting pot,i,i
+melting pot,Output: i,i
+melting pot,i,i
+guinea pig,"The expression 'guinea pig' in this context holds figurative meaning. Therefore, the output is:
+
+i",i
+guinea pig,i,i
+guinea pig,"The expression 'guinea pig' is figurative in this context because it refers to people who were part of a club designed to help them recover and reintegrate, rather than actual guinea pigs. Therefore, the output is:
+
+i",i
+silver bullet,i,i
+silver bullet,i,i
+silver bullet,i,i
+ivory tower,i,i
+ivory tower,i,i
+ivory tower,"The expression 'ivory tower' in this context is used figuratively to describe a disconnect or detachment from practical realities or everyday concerns. Therefore, the output is:
+
+i",i
+silver lining,Output: i,i
+all hell broke loose,'l',l
+all hell broke loose,l,l
+all hell broke loose,"The expression 'all hell broke loose' in the context 'The moment the evil queen shattered the ancient seal, all hell broke loose, with fiery creatures rampaging through the kingdom.' holds a literal meaning as it describes a situation where actual chaos ensues with fiery creatures. Therefore, the answer is:
+
+'l'",l
+glass ceiling,l,l
+glass ceiling,l,l
+glass ceiling,l,l
+grass root,l,l
+grass root,'l',l
+grass root,l,l
+cutting edge,l,l
+cutting edge,l,l
+cutting edge,l,l
+melting pot,l,l
+melting pot,l,l
+melting pot,l,l
+guinea pig,l,l
+guinea pig,l,l
+guinea pig,l,l
+silver bullet,l,l
+silver bullet,l,l
+silver bullet,l,l
+ivory tower,"The expression 'ivory tower' in the context 'The princess was held captive in the ivory tower at the far end of the kingdom.' is used literally, as it refers to an actual physical location within the kingdom. Therefore, the output should be 'l'.",l
+ivory tower,l,l
+ivory tower,'l',l
+silver lining,'l',l

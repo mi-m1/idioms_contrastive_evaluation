@@ -1,0 +1,1058 @@
+idiom,sentence,label
+all hell broke loose,'l',l
+all hell broke loose,'l',l
+all hell broke loose,'l',l
+off the hook,'l',l
+off the hook,'l',l
+off the hook,'l',l
+against the grain,'l',l
+against the grain,'l',l
+play with fire,'l',l
+play with fire,"The expression 'play with fire' is used literally in the sentence: 'The children were strictly forbidden to play with fire while camping.' 
+
+Answer: 'l'",l
+play with fire,'l',l
+make a killing,'l',l
+make a killing,'l',l
+make a killing,'l',l
+carry the can,'l',l
+carry the can,'l',l
+carry the can,'l',l
+in the doghouse,'l',l
+in the doghouse,'l',l
+in the doghouse,'l',l
+behind the scenes,'l',l
+behind the scenes,'l',l
+behind the scenes,'l',l
+go to the wall,'l',l
+go to the wall,'l',l
+go to the wall,'l',l
+see the light of day,'l',l
+see the light of day,'l',l
+under the weather,'l',l
+under the weather,'l',l
+under the weather,'l',l
+jump through hoops,'l',l
+jump through hoops,'l',l
+jump through hoops,'l',l
+on the horn,'l',l
+on the horn,"The expression 'on the horn' is used literally in the sentence: 'The little boy was delighted when his dad lifted him to sit on the horn of the saddle.'. 
+
+So, the answer is 'l'.",l
+to the bone,'l',l
+to the bone,'l',l
+push the envelope,'l',l
+push the envelope,'l',l
+look on the bright side,'l',l
+look on the bright side,'l',l
+up to here,'l',l
+up to here,'l',l
+up to here,'l',l
+night and day,'l',l
+night and day,i,l
+head for the hills,'l',l
+head for the hills,'l',l
+head for the hills,'l',l
+pass the buck,'l',l
+pass the buck,l,l
+rise from the ashes,'l',l
+rise from the ashes,'i' for figurative.,l
+rise from the ashes,'l',l
+meat and potatoes,'l',l
+meat and potatoes,'l',l
+meat and potatoes,'l',l
+in bed with,'l' for literal.,l
+in bed with,'l',l
+in bed with,'l',l
+in the pink,'l',l
+in the pink,'l',l
+in the pink,'l',l
+go to town,'l',l
+go to town,'l',l
+go to town,l,l
+heart of gold,'l',l
+heart of gold,'l',l
+heart of gold,'l',l
+par for the course,'l',l
+par for the course,'l',l
+par for the course,'l',l
+out of line,'l',l
+out of line,'l',l
+out of line,'l',l
+stay the course,'l',l
+stay the course,'l',l
+stay the course,'l',l
+smoke and mirrors,'l',l
+smoke and mirrors,The correct answer is 'l' for literal.,l
+get to the bottom of,'l',l
+get to the bottom of,'l',l
+get to the bottom of,'l',l
+by the book,'l',l
+by the book,'l',l
+in your face,'l',l
+in your face,'l',l
+in your face,'l',l
+in the black,'l',l
+in the black,'l',l
+in the black,'l',l
+hit the nail on the head,'l',l
+hit the nail on the head,'l',l
+in the driving seat,'l',l
+in the driving seat,'l',l
+in the driving seat,'l',l
+join the club,'l',l
+join the club,l,l
+join the club,'l',l
+walk the plank,'l',l
+walk the plank,'l',l
+eat humble pie,"The expression 'eat humble pie' is used literally in the sentence provided. The sentence describes John actually eating a dessert called humble pie. Therefore, the answer is 'l'.",l
+eat humble pie,'l',l
+eat humble pie,'l',l
+up the river,'l',l
+up the river,'l',l
+up the river,'l',l
+circle the wagons,"The answer is 'l' for literal. In this sentence, 'circle the wagons' is used to describe the actual physical action of arranging the wagons in a circle to form a makeshift fort.",l
+look the part,'l',l
+look the part,i,l
+look the part,i,l
+moment of truth,i,l
+all bets are off,'l',l
+all bets are off,'l',l
+knock someone's socks off,'l',l
+on the side of the angels,'i',l
+on the side of the angels,'l',l
+on the side of the angels,'l',l
+jump on the bandwagon,'l',l
+jump on the bandwagon,'l',l
+jump on the bandwagon,'l',l
+turn the other cheek,'l',l
+raise the roof,'l',l
+raise the roof,'l',l
+raise the roof,The correct answer is 'l' for literal.,l
+do the right thing,'i',l
+do the right thing,'i' for figurative.,l
+do the right thing,'i',l
+on the square,'l',l
+on the square,'l',l
+on the square,'l',l
+pick up the pieces,'l',l
+pick up the pieces,'l',l
+pick up the pieces,'l',l
+touch and go,'l',l
+off and running,'l',l
+off and running,'l',l
+off and running,'l',l
+horses for courses,'l',l
+horses for courses,'l',l
+horses for courses,'l',l
+wipe the slate clean,'l',l
+wipe the slate clean,'l',l
+wipe the slate clean,i,l
+hit the jackpot,'l',l
+hit the jackpot,'l',l
+hit the jackpot,'l',l
+round the bend,'l',l
+round the bend,'l',l
+round the bend,"The expression 'round the bend' in the sentence ""As we paddled our canoe 'round the bend, a vast, serene lake came into view"" is used literally. So, the answer is 'l'.",l
+go for the jugular,'l',l
+go for the jugular,'l',l
+go for the jugular,'l',l
+nip and tuck,'l',l
+nip and tuck,'l',l
+nip and tuck,'l',l
+throw the baby out with the bathwater,'l',l
+throw the baby out with the bathwater,i,l
+out of order,'l',l
+out of order,'l',l
+out of order,'l',l
+muddy the waters,'l',l
+muddy the waters,'l',l
+muddy the waters,'l',l
+move the goalposts,'l',l
+move the goalposts,'l',l
+move the goalposts,'l',l
+hair of the dog,'l',l
+hair of the dog,'l',l
+hair of the dog,'l',l
+have someone's number,l,l
+neither here nor there,'l',l
+neither here nor there,'i',l
+neither here nor there,'l',l
+out of the woods,'l',l
+out of the woods,'l',l
+out of the woods,'l',l
+sit on the fence,'l',l
+sit on the fence,'l',l
+sit on the fence,'l',l
+keep the peace,'l',l
+keep the peace,'l',l
+six feet under,'l',l
+six feet under,'l',l
+six feet under,'l',l
+dead and buried,'l',l
+dead and buried,i,l
+dead and buried,'l',l
+down in the dumps,i,l
+down in the dumps,'l',l
+down in the dumps,'l',l
+know the score,'l',l
+know the score,'l',l
+know the score,'l',l
+oil and water,'l',l
+oil and water,'l',l
+oil and water,'l',l
+add fuel to the fire,'l',l
+add fuel to the fire,'l',l
+add fuel to the fire,'l',l
+power behind the throne,i,l
+power behind the throne,'i' for figurative.,l
+power behind the throne,'i',l
+blood and guts,'l',l
+blood and guts,'l',l
+blood and guts,'l',l
+strike while the iron is hot,'l',l
+strike while the iron is hot,'l',l
+on the hop,'l',l
+on the hop,'l',l
+on the hop,'l',l
+all over the map,'l',l
+all over the map,'l',l
+all over the map,'l',l
+let the cat out of the bag,'l',l
+let the cat out of the bag,'l',l
+let the cat out of the bag,'l',l
+blaze a trail,'l',l
+blaze a trail,'l',l
+blaze a trail,'l',l
+on the bounce,'l',l
+on the bounce,'l',l
+on the bounce,'l',l
+at a canter,'l',l
+at a canter,'l',l
+at a canter,'l',l
+out to lunch,'l',l
+out to lunch,'l',l
+out to lunch,'l',l
+twist someone's arm,'l',l
+twist someone's arm,'l',l
+twist someone's arm,'l',l
+swings and roundabouts,'l',l
+swings and roundabouts,'l',l
+swings and roundabouts,'l',l
+on the ball,'l',l
+on the ball,'l',l
+rob Peter to pay Paul,'l',l
+rob Peter to pay Paul,'l',l
+rob Peter to pay Paul,'i',l
+ring a bell,'l',l
+ring a bell,'l',l
+ring a bell,'l',l
+to die for,'l',l
+to die for,'l',l
+to die for,'l',l
+everything but the kitchen sink,'i',l
+spend a penny,i,l
+spend a penny,'l',l
+spend a penny,'l',l
+in black and white,'l',l
+in black and white,'l',l
+in black and white,'l',l
+doom and gloom,'i',l
+doom and gloom,i,l
+doom and gloom,The expression 'doom and gloom' in the sentence 'The forest at night encapsulated a sense of doom and gloom.' is used figuratively. So the answer is 'i'.,l
+keep tabs on,'i',l
+keep tabs on,i,l
+keep tabs on,'i' for figurative.,l
+get the picture,'l',l
+get the picture,'l',l
+get the picture,'l',l
+look the other way,'l',l
+look the other way,'l',l
+look the other way,'l',l
+burst someone's bubble,'l',l
+burst someone's bubble,The expression is used literally in the given sentence. The correct answer is 'l'.,l
+burst someone's bubble,'l',l
+fall in line,l,l
+fall in line,'l',l
+fall in line,'l',l
+water under the bridge,'l',l
+water under the bridge,'l',l
+water under the bridge,'l',l
+keep a lid on,'l',l
+keep a lid on,'l',l
+keep a lid on,'l',l
+down the drain,'l',l
+down the drain,'l' for literal.,l
+down the drain,'l',l
+make the cut,'l',l
+make the cut,'l',l
+make the cut,'l',l
+free and easy,'l',l
+free and easy,'l',l
+free and easy,'i',l
+with a vengeance,"The expression 'with a vengeance' is used figuratively in the sentence: 'When she realized she had been cheated on, her anger returned with a vengeance.' So the answer is 'i'.",l
+cut both ways,'l',l
+cut both ways,'l',l
+cut both ways,'l',l
+sing the praises of,'l',l
+sing the praises of,'i',l
+sing the praises of,'l',l
+hold the line,'l',l
+pull the plug,'l',l
+pull the plug,'l',l
+pull the plug,'l',l
+make a move,'l',l
+make a move,'l',l
+make a move,"In this context, the expression 'make a move' is used literally, so the answer is 'l'.",l
+make a meal of,'l',l
+make a meal of,'l',l
+make a meal of,'l',l
+the icing on the cake,'l',l
+the icing on the cake,'l',l
+the icing on the cake,'l',l
+in the red,"The expression 'in the red' in the sentence 'The entire city was bathed in the red glow of the sunset.' is used literally. Therefore, the answer is 'l'.",l
+in the red,'l',l
+in the red,'l',l
+feel the pinch,'l',l
+feel the pinch,'l',l
+feel the pinch,'l',l
+under the microscope,'l',l
+under the microscope,'l',l
+under the microscope,'l',l
+pay the piper,'l',l
+pay the piper,'l',l
+pay the piper,'l',l
+on the trot,'l',l
+on the trot,'l',l
+on the trot,'i',l
+peaches and cream,'l',l
+peaches and cream,'l',l
+toe the line,'l',l
+toe the line,'l',l
+grasp the nettle,The answer is 'l' for literal.,l
+grasp the nettle,'l',l
+grasp the nettle,'l',l
+high and mighty,'l',l
+high and mighty,'l',l
+high and mighty,'l',l
+in the hole,'l',l
+in the hole,'l',l
+in the hole,'l',l
+take the fall,'l',l
+take the fall,'l',l
+take the fall,'l',l
+in the offing,'l',l
+in the offing,'l',l
+in the offing,'l',l
+ride roughshod over,'l',l
+ride roughshod over,'l',l
+ride roughshod over,'l',l
+crash and burn,'l',l
+crash and burn,'l',l
+crash and burn,"The expression 'crash and burn' is used literally in the sentence: 'The rocket malfunctioned during launch, resulting in a devastating crash and burn.' 
+
+The correct answer is 'l'.",l
+dyed in the wool,'l',l
+dyed in the wool,l,l
+dyed in the wool,'l',l
+fight fire with fire,'l',l
+fight fire with fire,'l',l
+fight fire with fire,'l',l
+all over the place,'l',l
+all over the place,'l',l
+all over the place,'l',l
+grind to a halt,'l',l
+grind to a halt,'l',l
+grind to a halt,'l',l
+in a nutshell,'l',l
+in a nutshell,"The expression 'in a nutshell' is used literally in the sentence 'He found a small creature living in a nutshell.'. Therefore, the answer is 'l'.",l
+rise and shine,'l',l
+take a back seat,'l',l
+take a bath,'l',l
+take a bath,'l',l
+take a bath,'l' for literal.,l
+bury the hatchet,'i',l
+bury the hatchet,'l',l
+in the soup,'l',l
+in the soup,'l',l
+in the soup,'l',l
+grease the wheels,'l',l
+grease the wheels,'l',l
+grease the wheels,'l',l
+apples and oranges,'l',l
+apples and oranges,'l',l
+follow in someone's footsteps,'l',l
+follow in someone's footsteps,'l',l
+follow in someone's footsteps,'l',l
+under the wire,'l',l
+under the wire,'l',l
+under the wire,'l',l
+out of the blue,'l',l
+out of the blue,'l',l
+out of the blue,'l',l
+over the moon,'l',l
+over the moon,'l',l
+throw down the gauntlet,'l',l
+throw down the gauntlet,'l',l
+take the bull by the horns,'l',l
+take the bull by the horns,'l',l
+take the bull by the horns,'l',l
+over the top,'l',l
+over the top,'l',l
+over the top,'l',l
+sweetness and light,'l',l
+sweetness and light,'l',l
+behind someone's back,'l',l
+behind someone's back,'l',l
+on the ropes,'l',l
+take the cake,'l',l
+dig up dirt,'l',l
+dig up dirt,'l',l
+dig up dirt,'l',l
+left and right,"The expression 'left and right' is used literally in the sentence: 'He turned his head left and right, trying to find the source of the noise.'.  
+So the answer is 'l'.",l
+dead in the water,'l',l
+dead in the water,'l',l
+dead in the water,'l',l
+take no prisoners,'l',l
+run out of steam,"The expression 'run out of steam' in the sentence ""The steam iron couldn't finish the job as it ran out of steam"" is used literally. The reference is to the actual depletion of steam in the steam iron. Thus, the answer is 'l'.",l
+take a hike,'l',l
+take a hike,'l',l
+take a hike,'l',l
+go the extra mile,'i',l
+under a cloud,'l',l
+under a cloud,'l',l
+under a cloud,'l',l
+in someone's pocket,'l',l
+in someone's pocket,'l',l
+in someone's pocket,'l',l
+on the shelf,The expression 'on the shelf' in the sentence 'The old books were collecting dust on the shelf.' is used literally. The books are physically located on a shelf. So the answer is 'l'.,l
+on the shelf,'l',l
+on the shelf,The expression 'on the shelf' in the sentence 'He noticed that the family photos were slightly tilted on the shelf.' is used literally. The correct answer is 'l'.,l
+pound the pavement,'l',l
+cut and thrust,'l',l
+cut and thrust,'l',l
+song and dance,'l',l
+song and dance,'l',l
+song and dance,'l',l
+turn the tables,'l',l
+turn the tables,'l',l
+over the hill,'l',l
+over the hill,'l',l
+over the hill,'l',l
+out of the loop,'l',l
+drop the ball,'l',l
+the buck stops here,'l',l
+the buck stops here,'l',l
+the buck stops here,i,l
+on the rocks,'l',l
+on the rocks,'l',l
+on the rocks,'l',l
+break someone's heart,'l',l
+break someone's heart,'l',l
+break someone's heart,'l',l
+steal someone's thunder,'l',l
+slap on the wrist,'l',l
+slap on the wrist,'l',l
+on the make,'l',l
+on the make,'l',l
+on the make,'l',l
+things that go bump in the night,'i',l
+push the boat out,'l',l
+push the boat out,'l',l
+push the boat out,'literal',l
+smell a rat,'l',l
+smell a rat,'l',l
+smell a rat,'l',l
+shoot the messenger,'l',l
+shoot the messenger,'l',l
+shoot the messenger,'l',l
+wake up and smell the coffee,'l',l
+fun and games,'l',l
+fun and games,'l',l
+fun and games,'l',l
+cast the first stone,'l',l
+cast the first stone,'l',l
+kick the bucket,'l',l
+kick the bucket,'l',l
+kick the bucket,'l',l
+fly a kite,'l',l
+fly a kite,'l',l
+fly a kite,'l',l
+in the clear,'l',l
+in the clear,'l',l
+have a few,'l',l
+have a few,'l',l
+have a few,'l',l
+to the hilt,'l',l
+to the hilt,'l',l
+to the hilt,'l',l
+open the floodgates,'l',l
+open the floodgates,'l',l
+open the floodgates,'l',l
+throw the book at,'l',l
+throw the book at,'l',l
+throw the book at,'l',l
+when the chips are down,'l',l
+when the chips are down,'i',l
+between a rock and a hard place,'l',l
+between a rock and a hard place,'l',l
+put down roots,'l',l
+put down roots,l,l
+in your dreams,'l',l
+in your dreams,‘l’,l
+short and sweet,'i',l
+cut and dried,'l',l
+cut and dried,'l',l
+cut and dried,'l',l
+six of the best,'i',l
+six of the best,'l',l
+six of the best,The expression 'six of the best' is used literally in this sentence. So the answer is 'l'.,l
+behind closed doors,'l',l
+behind closed doors,Literal,l
+behind closed doors,'l',l
+clear the decks,'l',l
+clear the decks,'l',l
+clear the decks,'l',l
+on the game,'l',l
+on the game,'l',l
+on the game,'l',l
+with open arms,'l',l
+with open arms,'l',l
+flash in the pan,'l',l
+flash in the pan,'l',l
+flash in the pan,'l',l
+rough around the edges,'l',l
+rough around the edges,'l',l
+fly off the handle,'l',l
+fly off the handle,'l',l
+see the light,The expression 'see the light' is used literally in the sentence. ('l'),l
+see the light,'l',l
+see the light,'l',l
+pour cold water on,'l',l
+pour cold water on,'l',l
+pour cold water on,'l',l
+fire in the belly,'l',l
+get a grip,'l',l
+get a grip,'l',l
+get a grip,'l',l
+in the loop,'l',l
+in the loop,'l',l
+in the loop,'l',l
+fly in the face of,'l',l
+fly in the face of,'l',l
+get the boot,'l',l
+get the boot,'l',l
+on and off,'l',l
+on and off,'l',l
+on and off,'l',l
+cook the books,l,l
+cook the books,'l',l
+cook the books,'l',l
+on the same page,'l',l
+on the same page,'l',l
+run a mile,'l',l
+run a mile,'l',l
+run a mile,'l',l
+on thin ice,'l',l
+on thin ice,'l',l
+close to home,'l',l
+close to home,'l',l
+close to home,"The expression 'close to home' in the sentence 'Even though the gym is close to home, I often find it hard to motivate myself to go.' is used literally. The sentence is describing the physical proximity of the gym to the person's residence.
+
+Answer: 'l'",l
+in the bag,'l',l
+in the bag,The expression 'in the bag' is used literally in the sentence: 'They hid the surprise gift in the bag.'. So the answer is 'l'.,l
+in the raw,'l',l
+in the raw,'l',l
+cut the mustard,'l',l
+force someone's hand,'l',l
+force someone's hand,'l',l
+in the final analysis,'l',l
+in the final analysis,'l',l
+in the final analysis,'l',l
+up in the air,'l',l
+up in the air,'l',l
+fall from grace,'l',l
+fall from grace,'l',l
+fall from grace,'l',l
+full of beans,'l',l
+full of beans,'l',l
+full of beans,'l',l
+press the panic button,'l',l
+press the panic button,'l',l
+press the panic button,'l',l
+have a heart,'l',l
+have a heart,'i',l
+have a heart,'l',l
+on the fly,'l',l
+on the fly,'l',l
+get stuck in,'l',l
+get stuck in,'l',l
+get stuck in,'l',l
+out of the box,'l',l
+out of the box,'l',l
+out of the box,'l',l
+on the warpath,'l',l
+on the warpath,'l',l
+on the warpath,'l',l
+take a dive,'l',l
+take a dive,'l',l
+take a dive,'l',l
+scratch the surface,'l',l
+scratch the surface,'l',l
+scratch the surface,'l',l
+hammer and tongs,'l',l
+hammer and tongs,'l',l
+hammer and tongs,'l',l
+make a clean break,'l',l
+make a clean break,'l',l
+make a clean break,'l',l
+at sixes and sevens,i,l
+nuts and bolts,'l',l
+nuts and bolts,'l',l
+nuts and bolts,'l',l
+the ball is in someone's court,'l',l
+the ball is in someone's court,'l',l
+get a life,'l',l
+get a life,'l',l
+get a life,'l',l
+on the nose,'l',l
+on the nose,'l',l
+on the nose,'l',l
+on a shoestring,'l',l
+in the driver's seat,'l',l
+in the driver's seat,'l',l
+wet behind the ears,'l',l
+wet behind the ears,'l',l
+wet behind the ears,'l',l
+up a tree,"The expression 'up a tree' in the sentence 'The small cat got stuck up a tree and was meowing for help.' is used literally. The context indicates that the cat is physically stuck in a tree. Therefore, the correct answer is 'l'.",l
+up a tree,'l',l
+up a tree,'l',l
+pick someone's brain,'l',l
+fill someone's shoes,'l',l
+save someone's skin,'l',l
+save someone's skin,'l',l
+walk all over,'l',l
+walk all over,'l',l
+walk all over,"The expression 'walk all over' in the sentence 'During the city tour, we had to walk all over the old town to visit all the historical monuments.' is used literally. So the answer is 'l'.",l
+hot and heavy,'l',l
+hot and heavy,'l',l
+hot and heavy,'l',l
+strike a chord,'l',l
+strike a chord,'l',l
+strike a chord,'l',l
+batten down the hatches,'l',l
+batten down the hatches,'l',l
+batten down the hatches,'l',l
+cap in hand,'l',l
+cap in hand,'l',l
+cap in hand,'l',l
+kicking and screaming,'l',l
+kicking and screaming,'l',l
+kicking and screaming,'i',l
+sick and tired,'l',l
+sick and tired,'l',l
+on the cards,'l',l
+on the cards,'l',l
+face the music,'l',l
+face the music,'l',l
+come in from the cold,'l',l
+come in from the cold,'l',l
+come in from the cold,'l',l
+head over heels,'l',l
+head over heels,'l',l
+head over heels,'l',l
+reach for the stars,'l',l
+for a song,'l',l
+for a song,'l',l
+for a song,'l',l
+down the tubes,'l',l
+down the tubes,'l',l
+down the tubes,'l',l
+no strings attached,'l',l
+no strings attached,'l',l
+no strings attached,'l',l
+spit it out,'l',l
+spit it out,'l',l
+spit it out,'l',l
+don't hold your breath,'l',l
+don't hold your breath,'l',l
+don't hold your breath,'l',l
+stand up and be counted,'l',l
+stand up and be counted,'l',l
+far and away,'l',l
+far and away,'l',l
+far and away,'l',l
+sink or swim,'l',l
+sink or swim,'l',l
+sink or swim,'i',l
+hit the bottle,'l',l
+hit the bottle,'l',l
+hit the bottle,'l',l
+turn over a new leaf,'l',l
+turn over a new leaf,'l',l
+put the boot in,'l',l
+put the boot in,'l',l
+make a splash,'l',l
+make a splash,'l',l
+draw a line in the sand,'l',l
+push someone's buttons,'l',l
+push someone's buttons,"The expression is used literally in the sentence. So, the answer is 'l'.",l
+separate the wheat from the chaff,'l',l
+separate the wheat from the chaff,'l',l
+get to grips with,'l',l
+get under someone's skin,'l',l
+get under someone's skin,The correct answer is 'l' for literal.,l
+get under someone's skin,'l',l
+up to speed,'l',l
+up to speed,'l',l
+go with the flow,l,l
+go with the flow,'l',l
+rule the roost,i,l
+rule the roost,'l',l
+rule the roost,'l',l
+in the fast lane,'l',l
+in the fast lane,'l',l
+in the fast lane,"The expression 'in the fast lane' is used literally in the sentence provided. So, the answer is 'l'.",l
+break the back of,'l',l
+break the back of,'l',l
+break the back of,'l',l
+put words in someone's mouth,l,l
+put words in someone's mouth,'l',l
+put words in someone's mouth,'i',l
+shut the door on,'l',l
+shut the door on,'l',l
+shut the door on,'l',l
+kiss of death,i,l
+kiss of death,'l',l
+kiss of death,'l',l
+on the skids,'l',l
+on the skids,'l',l
+on the skids,'l',l
+light at the end of the tunnel,'l',l
+light at the end of the tunnel,'l',l
+light at the end of the tunnel,'l',l
+on a roll,'l',l
+on a roll,'l',l
+rock the boat,'l',l
+rock the boat,'l',l
+below the belt,'l',l
+below the belt,'l',l
+below the belt,'l',l
+see eye to eye,'l',l
+see eye to eye,'l',l
+get it up,'l',l
+get it up,‘l’,l
+get it up,'l',l
+get away with murder,'l',l
+get away with murder,'l',l
+get away with murder,'l',l
+one of those things,'l',l
+one of those things,i,l
+joined at the hip,'l',l
+joined at the hip,'l',l
+have a ball,'l',l
+have a ball,"The expression is used literally in that sentence. So, the answer is 'l'.",l
+under the sun,'l',l
+under the sun,'l',l
+under the sun,'l',l
+on the wagon,'l',l
+on the wagon,'l',l
+on the wagon,"The expression 'on the wagon' is used **literally** in the sentence: 'Children climbed on the wagon to get a better view of the parade.'. 
+
+So, the answer is **'l'**.",l
+call a spade a spade,'l',l
+call a spade a spade,'i',l
+call a spade a spade,‘l’,l
+spill the beans,'l',l
+spill the beans,'l',l
+on the button,'l',l
+on the button,l,l
+on the button,'l',l
+black and blue,'l',l
+black and blue,'l',l
+black and blue,'l',l
+put the cart before the horse,'l',l
+bells and whistles,'l',l
+bells and whistles,'l',l
+in cold blood,'l',l
+in cold blood,'l',l
+carrot and stick,'l',l
+carrot and stick,'l',l
+down the road,'l',l
+down the road,'l',l
+down the road,'l',l
+heads will roll,'l',l
+heads will roll,'l',l
+at the end of the day,'l',l
+at the end of the day,'l',l
+at the end of the day,'l',l
+heart and soul,'i',l
+heart and soul,'i',l
+heart and soul,"The expression 'heart and soul' is used figuratively in the sentence: 'The poem was a haunting exploration of the heart and soul.'. 
+
+So, the correct answer is 'i'.",l
+pack a punch,'l',l
+pack a punch,'l',l
+pack a punch,'l',l
+eat someone alive,'l',l
+eat someone alive,'l',l
+eat someone alive,'l',l
+tie the knot,'l',l
+tie the knot,'l',l
+tie the knot,"The expression 'tie the knot' is used literally in the sentence 'Before climbing, she made sure to tie the knot securely in her safety rope.'. The correct answer is 'l'.",l
+step on it,'l',l
+step on it,'l',l
+out of the picture,'l',l
+out of the picture,'l',l
+break the ice,'l',l
+break the ice,'l',l
+break the ice,'l',l
+pop the question,'i' for figurative.,l
+pop the question,i,l
+pop the question,'i',l
+full speed ahead,l,l
+full speed ahead,'l',l
+full speed ahead,'l',l
+point the finger,'i',l
+point the finger,'l',l
+sign on the dotted line,'l',l
+sign on the dotted line,'l',l
+sign on the dotted line,'l',l
+up the ante,'l',l
+up the ante,'l',l
+up the ante,'l',l
+bring home the bacon,'l',l
+bring home the bacon,'l',l
+bring home the bacon,'l',l
+with a view to,'l',l
+with a view to,'l',l
+with a view to,'l',l
+move heaven and earth,'l',l
+move heaven and earth,'l',l
+move heaven and earth,'l',l
+across the board,'l',l
+across the board,'l',l
+tip the scales,'l',l
+tip the scales,'l',l
+face to face,'l',l
+face to face,'l',l
+face to face,'l',l
+hold someone's hand,The expression 'hold her son's hand tightly' in the given sentence is used literally. The mother is physically holding her son's hand to guide and protect him as they cross the busy street. The appropriate answer is 'l' for literal.,l
+hold someone's hand,'l',l
+hold someone's hand,'l',l
+cut from the same cloth,'l',l
+cut from the same cloth,'l',l
+cut from the same cloth,'l',l
+licence to print money,'i',l
+licence to print money,'l' for literal.,l
+licence to print money,'i',l
+on the mend,'l',l
+on the mend,'l',l
+on the mend,"The expression 'on the mend' is used figuratively in the sentence: 'The old rundown house is now on the mend after the renovation team started working on it.'. So, the answer is 'i'.",l
+go all the way,'l',l
+go all the way,i,l
+go all the way,'l',l
+come with the territory,'l',l
+come with the territory,i,l
+the bee's knees,'l',l
+the bee's knees,'l',l
+the bee's knees,'l',l
+on the back of,'l',l
+on the back of,'l',l
+on the back of,'l',l
+get a rise out of,‘l’,l
+get off the ground,'l',l
+get off the ground,'l',l
+get off the ground,'l',l
+under the table,"The expression 'under the table' is used literally in the sentence: 'She quickly kicked off her shoes and hid them under the table.'.
+Answer: literal",l
+under the table,"In the sentence ""The cat was playfully batting around a toy mouse under the table,"" the expression 'under the table' is used literally. So, the answer is 'l'.",l
+under the table,'l',l
+do someone proud,i,l
+do someone proud,The answer is 'i' for figurative.,l
+do someone proud,i,l
+down to the wire,'l',l
+down to the wire,'l',l
+down to the wire,'l',l
+go the distance,'l',l
+go the distance,'l',l
+go the distance,'l',l
+fast and furious,'l',l
+fast and furious,'l',l
+fast and furious,'i' for figurative.,l
+watch this space,'l',l
+watch this space,The answer is 'l' for literal.,l
+set the wheels in motion,'l',l
+set the wheels in motion,'l',l
+set the wheels in motion,'l',l
+to the tune of,'l',l
+to the tune of,'l',l
+to the tune of,'l',l
+on the back burner,'l',l
+on the back burner,'l',l
+on the back burner,'l',l
+turn the screw,'l',l
+turn the screw,'l',l
+turn the screw,'l',l
+glass ceiling,'l',l
+glass ceiling,'l',l
+glass ceiling,"The expression 'glass ceiling' is used literally in the sentence 'In the greenhouse, plants from all over the world flourished under the expansive glass ceiling.'. The ceiling in this context is actually made of glass.
+
+The answer is: 'l' for literal.",l
+grass root,'l',l
+grass root,'l',l
+grass root,'l',l
+head hunter,'l',l
+head hunter,'l',l
+head hunter,'l' for literal.,l
+heavy cross,'l',l
+heavy cross,'l',l
+heavy cross,'l',l
+banana republic,"The expression 'banana republic' is used literally in this sentence. The context indicates that the country being referred to genuinely relies heavily on banana exports, fitting the original, literal definition of 'banana republic'. Therefore, the answer is 'l'.",l
+banana republic,'l',l
+banana republic,'l',l
+crocodile tear,'l',l
+crocodile tear,'l',l
+crocodile tear,'l',l
+eager beaver,'l',l
+eager beaver,'l',l
+cutting edge,'l',l
+cutting edge,'l',l
+cutting edge,'l',l
+melting pot,'l',l
+melting pot,'l',l
+melting pot,'l',l
+hot potato,'l',l
+hot potato,'l',l
+hot potato,'l',l
+monkey business,'l',l
+monkey business,'l',l
+monkey business,'l',l
+big cheese,'l',l
+big cheese,'l',l
+big cheese,"The expression 'big cheese' is used literally in the sentence: 'She had difficulty slicing the big cheese because of its hard rind.'. 
+
+So the answer is 'l'.",l
+nest egg,'l',l
+nest egg,'l',l
+big picture,'l',l
+big picture,'l',l
+big picture,'l',l
+night owl,'l',l
+night owl,'l',l
+night owl,'l',l
+fashion plate,'l',l
+fashion plate,'l',l
+fashion plate,'l',l
+big wig,'l',l
+big wig,'l',l
+big wig,'l',l
+flower child,i,l
+flower child,"The expression 'flower child' in the sentence 'In the magical forest, every time a new tree grew, a flower child was born to guard it.' is used figuratively. ('i')",l
+flower child,'i',l
+panda car,The answer is 'l' for literal.,l
+black box,'l',l
+black box,'l',l
+black box,'l',l
+flea market,"The expression 'flea market' is used literally in the sentence: 'We spent the entire Saturday rummaging through the local flea market.' 
+
+Answer: 'l'",l
+flea market,'l',l
+flea market,'l',l
+goose egg,'l',l
+blind alley,'l',l
+blind alley,'l',l
+blind alley,'l',l
+low profile,"The expression 'low profile' in the sentence 'The car's low profile made it easier to navigate under the low hanging branches.' is used literally. Therefore, the answer is 'l'.",l
+low profile,'l',l
+low profile,"The expression 'low profile' in the sentence 'His hat had a low profile, allowing him to barely duck under the doorway.' is used literally.",l
+blue blood,"The expression 'blue blood' is used literally in the sentence: 'When the squid was cut open, they were surprised to see it had blue blood.'. 
+
+So the answer is: literal.",l
+blue blood,'l',l
+blue blood,'l',l
+grandfather clock,'l',l
+grandfather clock,'l',l
+grandfather clock,'l',l
+guinea pig,'l',l
+guinea pig,'l',l
+guinea pig,'l',l
+graveyard shift,'l',l
+graveyard shift,i,l
+gravy train,'l',l
+gravy train,l,l
+gravy train,'l',l
+rat run,'l',l
+rock bottom,'l',l
+rock bottom,'l',l
+rock bottom,'l',l
+pipe dream,'l',l
+pipe dream,'l',l
+pipe dream,'l',l
+rocket science,'l',l
+rocket science,'l',l
+rocket science,'l',l
+poison pill,'l',l
+poison pill,'l',l
+poison pill,'l',l
+shrinking violet,'l',l
+shrinking violet,'l',l
+shrinking violet,'l',l
+silver bullet,'l',l
+silver bullet,'l',l
+silver bullet,'l',l
+damp squib,'l',l
+dark horse,'l',l
+dark horse,'l',l
+dark horse,'l',l
+ivory tower,'l',l
+ivory tower,'l',l
+ivory tower,'l',l
+kangaroo court,'l',l
+kangaroo court,'l',l
+kangaroo court,'l',l
+sitting duck,'l',l
+double cross,'l',l
+double cross,'l',l
+double cross,'l',l
+smoking gun,'l',l
+smoking gun,'l',l
+double dutch,'l',l
+double dutch,"The expression 'double dutch' is used literally in the sentence: 'She was so good at double dutch that she competed in a national competition.'. 
+
+Thus, the correct answer is 'l'.",l
+double dutch,'l',l
+snake oil,'l',l
+snake oil,'l',l
+snake oil,'l',l
+smoke screen,The expression 'smoke screen' is used literally in the sentence: 'The firefighters used a smoke screen to obscure the view of the burning building from the crowd.' Answer: 'l'.,l
+smoke screen,"The expression 'smoke screen' is used literally in the sentence: 'During the military exercise, the soldiers deployed a smoke screen to camouflage their movements.'. So the answer is 'l'.",l
+smoke screen,'l',l
+swan song,'i',l
+swan song,‘l’,l
+swan song,'i',l
+old flame,'l',l
+old flame,'l',l
+old flame,'l',l
+zebra crossing,'l',l
+zebra crossing,'l',l
+zebra crossing,'l',l
+silver lining,'l',l
+top dog,'l',l
+bad hat,'l',l
+bad hat,'l',l
+bad hat,'l',l
+acid test,'l',l
+acid test,l,l
+acid test,'l',l
+big fish,'l',l
+agony aunt,i,l
+brass ring,'l',l
+brass ring,'l',l
+brass ring,'l',l
+busy bee,‘l’,l
+closed book,'l',l
+closed book,'l',l
+closed book,'l',l

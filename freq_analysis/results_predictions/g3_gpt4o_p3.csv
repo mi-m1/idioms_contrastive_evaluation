@@ -1,0 +1,389 @@
+idiom,sentence,label
+off the hook,'i',i
+off the hook,i,i
+off the hook,l,i
+stay the course,"The expression 'stay the course' in the context of 'But despite the appalling conditions, most crews stayed the course and out of 72 rafts competing, 59 made it to the finish at Chepstow,' holds a literal meaning because it directly refers to crews continuing on their course through the competition. 
+
+Output: l",i
+stay the course,i,i
+stay the course,"The expression 'stay the course' in the context 'There were also moments of great concern about whether the allies would be willing to stay the course as the days, weeks, and months passed, with no end in sight.' holds figurative meaning. Therefore, the output is 'i'.",i
+up the river,"The expression 'sold you up the river' in the context 'And number three; you've signed your way into a deal you know nothing about and which has almost certainly sold you up the river.' holds figurative meaning. 
+
+Output: i",i
+up the river,"The expression 'up the river' in this context is used to refer to being sent to prison. It originates from the idea of prisoners being sent to prisons that were situated up the Hudson River from New York City, notably Sing Sing. Given the context of being framed, dealing with cops, and getting a reprieve from the governor, it indicates a literal meaning related to incarceration. Therefore, the output should be 'l'.",i
+up the river,"In the given context, the expression 'up the river' is used literally. It refers to the location of Hussey's two fat manors, which are situated up the river.
+
+Therefore, the output is 'l'.",i
+on the square,i,i
+on the square,"The expression 'on the square' in the context 'He 's on the square.' holds a figurative meaning, so the output is 'i'.",i
+on the square,"In the given context, the expression 'on the square' is used to describe the hotel's physical location, specifically indicating that it is situated on a square—a flat, open public space typically found in urban areas.
+
+Thus, the expression holds a literal meaning.
+
+Output: `l`",i
+down in the dumps,i,i
+down in the dumps,l,i
+down in the dumps,"Output: **i**
+
+The expression ""down in the dumps"" is a figurative phrase meaning feeling sad or depressed, rather than literally being physically down in a refuse area.",i
+look the other way,"The expression ""look the other way"" in the given context holds a figurative meaning. Therefore, the output is 'i'.",i
+look the other way,"The expression 'look the other way' in this context holds figurative meaning. Therefore, the output is:
+
+i",i
+look the other way,"The expression 'look the other way' in the given context holds a figurative meaning. Therefore, the correct output is:
+
+i",i
+with a vengeance,"The expression 'with a vengeance' in this context holds figurative meaning, so the output is 'f'.",i
+bury the hatchet,The expression 'bury the hatchet' in the given context holds figurative meaning. Output 'i'.,i
+bury the hatchet,"The expression 'bury the hatchet' in the context given holds figurative meaning. The phrase is used to indicate that the two men resolved their differences and made peace. Therefore, the output is 'i'.",i
+over the top,i,i
+over the top,i,i
+over the top,i,i
+sweetness and light,i,i
+sweetness and light,The expression 'sweetness and light' in this context holds a figurative meaning. Output 'i'.,i
+put down roots,"The expression ""put down roots"" in the context ""She's had 8 quarters, so it's hard to put down roots."" holds a figurative meaning. It implies that due to frequent changes (likely moving or instability), it is difficult for her to establish a stable and permanent situation or relationship.
+
+Output: i",i
+put down roots,i,i
+flash in the pan,i,i
+flash in the pan,"The expression ""flash in the pan"" typically holds a figurative meaning in most contexts. It refers to something that shows potential or early promise but fails to deliver any lasting impact or success. 
+
+Given the context ""Flash in pan blew Gents to pieces,"" it seems to describe a sudden, brief event or effort that created a significant disruption but did not have lasting effects. Therefore, the expression ""flash in the pan"" is used figuratively here, indicating a brief and impactful occurrence rather than an actual flash in a physical pan.
+
+Hence, the output is ""i"".",i
+flash in the pan,"The expression 'flash in the pan' in the sentence 'I do n't , I think it was just a flash in the pan .' holds a figurative meaning. Therefore, the output should be 'i'.",i
+rough around the edges,i,i
+rough around the edges,i,i
+in the raw,'i',i
+in the raw,"The expression 'in the raw' in this context holds a literal meaning.
+
+Output: 'l'",i
+on the nose,'l',i
+on the nose,l,i
+on the nose,i,i
+in the fast lane,"To determine whether the expression ""in the fast lane"" holds a figurative or literal meaning, you need to assess the context in which it is used. 
+
+- **i**: if ""in the fast lane"" is used metaphorically to describe a busy, hectic, or high-energy lifestyle.
+  
+- **l**: if ""in the fast lane"" is used to describe the physical lane on a road where cars typically travel at higher speeds.
+
+For example:
+
+1. **Figurative Context**:
+   - ""Ever since she got that promotion, she's been living in the fast lane.""
+   - In this case, 'i' would be the output because it describes a high-paced lifestyle rather than a physical location on a road.
+
+2. **Literal Context**:
+   - ""He was caught speeding in the fast lane on the highway.""
+   - In this case, 'l' would be the output because it refers to the actual fast lane on the road. 
+
+Whenever the expression is used, identify whether it points to a metaphorical situation (fast-paced lifestyle, rapid changes, etc.) or an actual lane on the road to decide between outputs 'i' or 'l'.",i
+in the fast lane,Output: 'l',i
+in the fast lane,"The expression 'in the fast lane' in this context holds figurative meaning.
+
+Output: i",i
+on the skids,i,i
+on the skids,"The expression ""on the skids"" in this context holds a figurative meaning. It refers to a career in decline or experiencing difficulties rather than literally being on skids. Therefore, the output is:
+
+i",i
+on the skids,'i',i
+rock the boat,i,i
+rock the boat,i,i
+put the cart before the horse,i,i
+pack a punch,Output: i,i
+pack a punch,i,i
+pack a punch,i,i
+move heaven and earth,i,i
+move heaven and earth,'i',i
+move heaven and earth,i,i
+hold someone's hand,l,i
+hold someone's hand,l,i
+hold someone's hand,i,i
+on the mend,i,i
+on the mend,Output: i,i
+on the mend,"The expression 'on the mend' in the context '‘No news at all,’ she warned, ‘until I know how you’ve been … and whether you are on the mend.’’ holds literal meaning.
+
+Output: l",i
+on the back of,i,i
+on the back of,"The expression 'on the back of' in this context holds a figurative meaning. It implies that the firm generates most of its business as a result of or by depending on its existing large accounts. So, the output is:
+
+i",i
+on the back of,i,i
+set the wheels in motion,i,i
+set the wheels in motion,i,i
+set the wheels in motion,i,i
+head hunter,i,i
+head hunter,i,i
+head hunter,The expression 'head hunter' holds figurative meaning in this context. Output: i.,i
+heavy cross,"The expression 'heavy cross' in this context holds figurative meaning. Therefore, the output is 'i'.",i
+heavy cross,"The expression 'heavy cross' in this context holds figurative meaning. Therefore, the output is 'i'.",i
+heavy cross,i,i
+banana republic,i,i
+banana republic,i,i
+banana republic,i,i
+eager beaver,i,i
+eager beaver,i,i
+hot potato,i,i
+hot potato,'l',i
+hot potato,"The correct output is 'i' because the expression 'hot potato' is used figuratively to describe someone wanting to quickly get rid of the ball, similar to a hot potato that is too hot to hold onto.",i
+monkey business,l,i
+monkey business,l,i
+monkey business,i,i
+big cheese,i,i
+big cheese,i,i
+big cheese,"The expression 'big cheese' in this context holds a figurative meaning. Therefore, the output is 'i'.",i
+nest egg,Output: i,i
+nest egg,i,i
+big picture,i,i
+big picture,"The expression 'big picture' in this context is used figuratively because it refers to considering the overall or broader situation rather than focusing on details. 
+
+Output: i",i
+big picture,i,i
+big wig,"The expression 'big wig' holds a figurative meaning in this context, as it is used to refer to high-ranking or important politicians rather than individuals wearing large wigs.
+
+Output: 'i'",i
+big wig,"The expression 'big wig' in this context holds a figurative meaning. 
+
+So, the output is:
+
+```
+i
+```",i
+big wig,i,i
+black box,i,i
+black box,i,i
+black box,l,i
+flea market,l,i
+flea market,"The expression 'flea market' in the given context holds a **literal** meaning. Therefore, the output is:
+
+'l'",i
+flea market,l,i
+goose egg,l,i
+blind alley,"The expression 'blind alley' in the context 'The elders say when you chase a goat to a blind alley, it will turn and face you.' holds a figurative meaning. Therefore, the output is 'i'.",i
+blind alley,i,i
+blind alley,Output: **i**,i
+low profile,i,i
+low profile,i,i
+low profile,i,i
+grandfather clock,l,i
+grandfather clock,l,i
+grandfather clock,"The expression 'grandfather clock' in this context holds literal meaning. Therefore, the output is 'l'.",i
+graveyard shift,i,i
+graveyard shift,i,i
+gravy train,i,i
+gravy train,i,i
+gravy train,i,i
+rat run,"The expression 'rat run' in this context holds figurative meaning. Therefore, output 'i'.",i
+rock bottom,The expression 'rock bottom' in this context holds figurative meaning. Output: 'i'.,i
+rock bottom,i,i
+rock bottom,i,i
+pipe dream,i,i
+pipe dream,i,i
+pipe dream,i,i
+rocket science,i,i
+rocket science,i,i
+rocket science,i,i
+poison pill,i,i
+poison pill,i,i
+poison pill,i,i
+shrinking violet,i,i
+shrinking violet,i,i
+shrinking violet,i,i
+damp squib,Output: i,i
+dark horse,i,i
+dark horse,i,i
+dark horse,i,i
+sitting duck,"The expression 'sitting duck' holds figurative meaning in this context.
+
+Output: i",i
+smoking gun,i,i
+smoking gun,i,i
+double dutch,‘i’,i
+double dutch,i,i
+double dutch,i,i
+snake oil,i,i
+snake oil,i,i
+snake oil,i,i
+smoke screen,i,i
+smoke screen,i,i
+smoke screen,"The expression 'smoke screen' in the given context holds figurative meaning. Therefore, the output is 'i'.",i
+swan song,i,i
+swan song,The expression 'swan song' in this context holds figurative meaning. Output 'i'.,i
+swan song,i,i
+zebra crossing,l,i
+zebra crossing,l,i
+zebra crossing,l,i
+agony aunt,i,i
+brass ring,i,i
+brass ring,i,i
+brass ring,i,i
+off the hook,l,l
+off the hook,l,l
+off the hook,l,l
+stay the course,'l',l
+stay the course,'l',l
+stay the course,'l',l
+up the river,l,l
+up the river,l,l
+up the river,"The expression 'up the river' in this context refers to the physical location of the old mill being a few miles along the direction of the river. This description is based on a literal geographical reference rather than any figurative or metaphorical meaning. Therefore, the output is 'l'.",l
+on the square,l,l
+on the square,'l',l
+on the square,'l',l
+down in the dumps,"The expression 'down in the dumps' in the context ""After losing his job, he spent his days down in the dumps, searching for anything he could salvage"" holds literal meaning. So, the output is 'l'.",l
+down in the dumps,l,l
+down in the dumps,'l',l
+look the other way,l,l
+look the other way,'l',l
+look the other way,'l',l
+with a vengeance,"The expression 'with a vengeance' in the context 'When she realized she had been cheated on, her anger returned with a vengeance.' holds figurative meaning. Output: i",l
+bury the hatchet,l,l
+bury the hatchet,'l',l
+over the top,l,l
+over the top,l,l
+over the top,l,l
+sweetness and light,l,l
+sweetness and light,"The expression 'sweetness and light' in this context holds a **literal** meaning. The quote refers to the actual sweetness of the homemade lemonade and the light from the setting sun.
+
+So, the output is:
+
+**l**",l
+put down roots,'l',l
+put down roots,l,l
+flash in the pan,l,l
+flash in the pan,l,l
+flash in the pan,"The expression 'flash in the pan' in the context 'The oil was too hot, causing a dangerous flash in the pan.' is used literally. So, the output is 'l'.",l
+rough around the edges,l,l
+rough around the edges,'l',l
+in the raw,"The expression 'in the raw' in the given context holds a literal meaning because it describes the physical state of the coffee beans before they are processed. Therefore, the output is 'l'.",l
+in the raw,l,l
+on the nose,l,l
+on the nose,"Certainly! The expression 'on the nose' in the context 'She placed the glasses carefully on the nose' holds a **literal** meaning. Therefore, the output is:
+
+‘l’",l
+on the nose,l,l
+in the fast lane,l,l
+in the fast lane,l,l
+in the fast lane,'l',l
+on the skids,l,l
+on the skids,l,l
+on the skids,l,l
+rock the boat,l,l
+rock the boat,'l',l
+put the cart before the horse,i,l
+pack a punch,l,l
+pack a punch,‘i’,l
+pack a punch,l,l
+move heaven and earth,l,l
+move heaven and earth,l,l
+move heaven and earth,l,l
+hold someone's hand,l,l
+hold someone's hand,l,l
+hold someone's hand,l,l
+on the mend,l,l
+on the mend,"The expression 'on the mend' in the context 'Despite the serious car accident, she is on the mend and doing better every day.' holds a figurative meaning as it metaphorically describes her process of recovery. Thus, the correct output is 'i'.",l
+on the mend,i,l
+on the back of,'l',l
+on the back of,'l',l
+on the back of,"The expression 'on the back of' in the context 'A note was hastily scribbled on the back of a used envelope.' holds a literal meaning. 
+
+Output: l",l
+set the wheels in motion,'l',l
+set the wheels in motion,l,l
+set the wheels in motion,'l',l
+head hunter,'l',l
+head hunter,l,l
+head hunter,l,l
+heavy cross,l,l
+heavy cross,'l',l
+heavy cross,l,l
+banana republic,l,l
+banana republic,l,l
+banana republic,"The expression 'banana republic' in the context provided refers to a scene where there are 'vast plantations' and 'bunches of yellow fruit hanging from every tree.' This suggests that the term is used to describe a literal place defined by banana cultivation. Therefore, the expression holds **literal** meaning.
+
+Output: **l**",l
+eager beaver,l,l
+eager beaver,l,l
+hot potato,'l',l
+hot potato,l,l
+hot potato,l,l
+monkey business,'l',l
+monkey business,l,l
+monkey business,"The expression 'monkey business' in this context holds literal meaning. Therefore, the output is 'l'.",l
+big cheese,l,l
+big cheese,"The expression 'big cheese' in this context holds literal meaning because it is describing a physical cheese wheel that the vendor is displaying. Therefore, the output is 'l'.",l
+big cheese,"The expression 'big cheese' in the context 'She had difficulty slicing the big cheese because of its hard rind.' holds a literal meaning. Therefore, the output is 'l'.",l
+nest egg,l,l
+nest egg,"The expression 'nest egg' in the context 'In the early spring, you can often see a nest egg if you look closely at the trees in your backyard.' is used literally because it refers to an actual egg in a nest found in the trees. Hence, the output should be 'l'.",l
+big picture,'l',l
+big picture,l,l
+big picture,'l',l
+big wig,l,l
+big wig,l,l
+big wig,l,l
+black box,l,l
+black box,l,l
+black box,'l',l
+flea market,l,l
+flea market,i,l
+flea market,l,l
+goose egg,l,l
+blind alley,l,l
+blind alley,"The expression 'blind alley' is used in its literal meaning in this context: 'The old house was at the end of a blind alley, making it a quiet and isolated place.'. Hence, the output is 'l'.",l
+blind alley,"The expression 'blind alley' is used in the literal sense of an actual dead-end street or alleyway. Therefore, the output is 'l'.",l
+low profile,'l',l
+low profile,'l',l
+low profile,l,l
+grandfather clock,l,l
+grandfather clock,l,l
+grandfather clock,l,l
+graveyard shift,l,l
+graveyard shift,l,l
+gravy train,l,l
+gravy train,l,l
+gravy train,'l',l
+rat run,"The expression 'rat run' in the given context holds a literal meaning. Hence, the output is:
+
+l",l
+rock bottom,l,l
+rock bottom,'l',l
+rock bottom,'l',l
+pipe dream,l,l
+pipe dream,"Based on the context provided, the expression 'pipe dream' in ""After working long hours, he came home and fell asleep, having a pipe dream about a world made entirely of interconnected pipes"" is used in its **literal** sense. The mention of dreaming about ""a world made entirely of interconnected pipes"" suggests a direct reference to dreaming about actual pipes rather than an unrealistic or impractical fantasy.
+
+Output: **l**",l
+pipe dream,l,l
+rocket science,l,l
+rocket science,l,l
+rocket science,l,l
+poison pill,l,l
+poison pill,l,l
+poison pill,'l',l
+shrinking violet,l,l
+shrinking violet,l,l
+shrinking violet,'l',l
+damp squib,l,l
+dark horse,"In the context 'In the moonlight, the dark horse was barely visible against the forest backdrop.', the expression 'dark horse' holds a literal meaning. Therefore, the output is 'l'.",l
+dark horse,l,l
+dark horse,l,l
+sitting duck,l,l
+smoking gun,l,l
+smoking gun,'l',l
+double dutch,l,l
+double dutch,"The expression ""double dutch"" in the context ""She was so good at double dutch that she competed in a national competition"" holds a literal meaning. Double Dutch is a children's game in which players jump over two jump ropes that are being turned in opposite directions. Hence, the correct output is 'l'.",l
+double dutch,l,l
+snake oil,l,l
+snake oil,i,l
+snake oil,i,l
+smoke screen,'l',l
+smoke screen,l,l
+smoke screen,l,l
+swan song,i,l
+swan song,l,l
+swan song,i,l
+zebra crossing,l,l
+zebra crossing,l,l
+zebra crossing,l,l
+agony aunt,i,l
+brass ring,l,l
+brass ring,l,l
+brass ring,'l',l

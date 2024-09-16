@@ -1,0 +1,2067 @@
+idiom,sentence,label
+all hell broke loose,i,i
+all hell broke loose,i,i
+all hell broke loose,i,i
+off the hook,i,i
+off the hook,i,i
+off the hook,l,i
+against the grain,i,i
+against the grain,i,i
+play with fire,i,i
+play with fire,l,i
+play with fire,i,i
+make a killing,l,i
+make a killing,i,i
+make a killing,i,i
+carry the can,i,i
+carry the can,i,i
+carry the can,i,i
+in the doghouse,i,i
+in the doghouse,i,i
+in the doghouse,i,i
+behind the scenes,i,i
+behind the scenes,l,i
+behind the scenes,i,i
+go to the wall,i,i
+go to the wall,i,i
+go to the wall,i,i
+see the light of day,i,i
+see the light of day,i,i
+under the weather,l,i
+under the weather,l,i
+under the weather,l,i
+jump through hoops,i,i
+jump through hoops,i,i
+jump through hoops,i,i
+on the horn,i,i
+on the horn,i,i
+to the bone,i,i
+to the bone,i,i
+push the envelope,i,i
+push the envelope,i,i
+look on the bright side,i,i
+look on the bright side,i,i
+up to here,i,i
+up to here,i,i
+up to here,i,i
+night and day,l,i
+night and day,l,i
+head for the hills,l,i
+head for the hills,i,i
+head for the hills,i,i
+pass the buck,i,i
+pass the buck,i,i
+rise from the ashes,l,i
+rise from the ashes,l,i
+rise from the ashes,i,i
+meat and potatoes,i,i
+meat and potatoes,l,i
+meat and potatoes,i,i
+in bed with,i,i
+in bed with,i,i
+in bed with,i,i
+in the pink,i,i
+in the pink,i,i
+in the pink,l,i
+go to town,i,i
+go to town,l,i
+go to town,i,i
+heart of gold,i,i
+heart of gold,i,i
+heart of gold,i,i
+par for the course,i,i
+par for the course,i,i
+par for the course,i,i
+out of line,l,i
+out of line,i,i
+out of line,i,i
+stay the course,l,i
+stay the course,i,i
+stay the course,i,i
+smoke and mirrors,i,i
+smoke and mirrors,i,i
+get to the bottom of,i,i
+get to the bottom of,i,i
+get to the bottom of,i,i
+by the book,i,i
+by the book,i,i
+in your face,i,i
+in your face,i,i
+in your face,i,i
+in the black,i,i
+in the black,i,i
+in the black,l,i
+hit the nail on the head,i,i
+hit the nail on the head,i,i
+in the driving seat,i,i
+in the driving seat,i,i
+in the driving seat,i,i
+join the club,l,i
+join the club,i,i
+join the club,i,i
+walk the plank,i,i
+walk the plank,i,i
+eat humble pie,i,i
+eat humble pie,i,i
+eat humble pie,i,i
+up the river,i,i
+up the river,i,i
+up the river,i,i
+circle the wagons,i,i
+look the part,i,i
+look the part,l,i
+look the part,i,i
+moment of truth,i,i
+all bets are off,i,i
+all bets are off,i,i
+knock someone's socks off,i,i
+on the side of the angels,i,i
+on the side of the angels,i,i
+on the side of the angels,i,i
+jump on the bandwagon,i,i
+jump on the bandwagon,i,i
+jump on the bandwagon,i,i
+turn the other cheek,i,i
+raise the roof,i,i
+raise the roof,i,i
+raise the roof,i,i
+do the right thing,i,i
+do the right thing,Figurative (i),i
+do the right thing,f,i
+on the square,i,i
+on the square,i,i
+on the square,l,i
+pick up the pieces,i,i
+pick up the pieces,l,i
+pick up the pieces,i,i
+touch and go,i,i
+off and running,i,i
+off and running,i,i
+off and running,i,i
+horses for courses,i,i
+horses for courses,i,i
+horses for courses,l,i
+wipe the slate clean,i,i
+wipe the slate clean,i,i
+wipe the slate clean,i,i
+hit the jackpot,Both literal and figurative. 'l' for literal as it is referring to winning big in gambling or a game of chance and 'i' for figurative as it is referring to achieving a great success or accomplishment.,i
+hit the jackpot,i,i
+hit the jackpot,i,i
+round the bend,i,i
+round the bend,i,i
+round the bend,i,i
+go for the jugular,i,i
+go for the jugular,i,i
+go for the jugular,i,i
+nip and tuck,i,i
+nip and tuck,i,i
+nip and tuck,i,i
+throw the baby out with the bathwater,i,i
+throw the baby out with the bathwater,i,i
+out of order,fugurative (i),i
+out of order,i,i
+out of order,l,i
+muddy the waters,i,i
+muddy the waters,i,i
+muddy the waters,i,i
+move the goalposts,i,i
+move the goalposts,i,i
+move the goalposts,i,i
+hair of the dog,i,i
+hair of the dog,l,i
+hair of the dog,l,i
+have someone's number, i,i
+neither here nor there,i,i
+neither here nor there,i,i
+neither here nor there,i,i
+out of the woods,i,i
+out of the woods,i,i
+out of the woods,i,i
+sit on the fence,i,i
+sit on the fence,i,i
+sit on the fence,i,i
+keep the peace,i,i
+keep the peace,i,i
+six feet under,i,i
+six feet under,i,i
+six feet under,l,i
+dead and buried,i,i
+dead and buried,i,i
+dead and buried,i,i
+down in the dumps,i,i
+down in the dumps,i,i
+down in the dumps,i,i
+know the score,i,i
+know the score,i,i
+know the score,i,i
+oil and water,i,i
+oil and water,i,i
+oil and water,i,i
+add fuel to the fire,i,i
+add fuel to the fire,i,i
+add fuel to the fire,i,i
+power behind the throne,i,i
+power behind the throne,i,i
+power behind the throne,i,i
+blood and guts,l,i
+blood and guts,i,i
+blood and guts,i,i
+strike while the iron is hot,i,i
+strike while the iron is hot,i,i
+on the hop,i,i
+on the hop,i,i
+on the hop,i,i
+all over the map,i,i
+all over the map,Figurative (i),i
+all over the map,i,i
+let the cat out of the bag,i,i
+let the cat out of the bag,i,i
+let the cat out of the bag,i,i
+blaze a trail,i,i
+blaze a trail,i,i
+blaze a trail,i,i
+on the bounce,i,i
+on the bounce,i,i
+on the bounce,i,i
+at a canter,l,i
+at a canter,l,i
+at a canter,l,i
+out to lunch,i,i
+out to lunch,i,i
+out to lunch,i,i
+twist someone's arm,i,i
+twist someone's arm,i,i
+twist someone's arm,i,i
+swings and roundabouts,i,i
+swings and roundabouts,i,i
+swings and roundabouts,i,i
+on the ball,i,i
+on the ball,i,i
+rob Peter to pay Paul,i,i
+rob Peter to pay Paul,i,i
+rob Peter to pay Paul,i,i
+ring a bell,i,i
+ring a bell,i,i
+ring a bell,i,i
+to die for,i,i
+to die for,i,i
+to die for,i,i
+everything but the kitchen sink,i,i
+spend a penny,l,i
+spend a penny,l,i
+spend a penny,i,i
+in black and white,l,i
+in black and white,i,i
+in black and white,i,i
+doom and gloom,i,i
+doom and gloom,i,i
+doom and gloom,i,i
+keep tabs on,i,i
+keep tabs on,i,i
+keep tabs on,l,i
+get the picture,i,i
+get the picture,i,i
+get the picture,i,i
+look the other way,i,i
+look the other way,i,i
+look the other way,i,i
+burst someone's bubble,i,i
+burst someone's bubble,i,i
+burst someone's bubble,i,i
+fall in line,i,i
+fall in line,l,i
+fall in line,i,i
+water under the bridge,i,i
+water under the bridge,i,i
+water under the bridge,i,i
+keep a lid on,i,i
+keep a lid on,i,i
+keep a lid on,i,i
+down the drain,i,i
+down the drain,i,i
+down the drain,i,i
+make the cut,l,i
+make the cut,i,i
+make the cut,l,i
+free and easy,i,i
+free and easy,i,i
+free and easy,i,i
+with a vengeance,i,i
+cut both ways,i,i
+cut both ways,i,i
+cut both ways,i,i
+sing the praises of,i,i
+sing the praises of,i,i
+sing the praises of,i,i
+hold the line,i,i
+pull the plug,l,i
+pull the plug,l,i
+pull the plug,i,i
+make a move,i,i
+make a move,i,i
+make a move,l,i
+make a meal of,i,i
+make a meal of,i,i
+make a meal of,i,i
+the icing on the cake,i,i
+the icing on the cake,i,i
+the icing on the cake,i,i
+in the red,i,i
+in the red,i,i
+in the red,i,i
+feel the pinch,i,i
+feel the pinch,i,i
+feel the pinch,i,i
+under the microscope,i,i
+under the microscope,i,i
+under the microscope,i,i
+pay the piper,i,i
+pay the piper,i,i
+pay the piper,i,i
+on the trot,i,i
+on the trot,i,i
+on the trot,i,i
+peaches and cream,f,i
+peaches and cream,l,i
+toe the line,i,i
+toe the line,i,i
+grasp the nettle,i,i
+grasp the nettle,i,i
+grasp the nettle,i,i
+high and mighty,i,i
+high and mighty,i,i
+high and mighty,i,i
+in the hole,i,i
+in the hole,i,i
+in the hole,i,i
+take the fall,i,i
+take the fall,i,i
+take the fall,i,i
+in the offing,i,i
+in the offing,l,i
+in the offing,i,i
+ride roughshod over,i,i
+ride roughshod over,i,i
+ride roughshod over,i,i
+crash and burn,i,i
+crash and burn,i,i
+crash and burn,i,i
+dyed in the wool,i,i
+dyed in the wool,i,i
+dyed in the wool,i,i
+fight fire with fire,i,i
+fight fire with fire,i,i
+fight fire with fire,i,i
+all over the place,l,i
+all over the place,i,i
+all over the place,i,i
+grind to a halt,i,i
+grind to a halt,i,i
+grind to a halt,i,i
+in a nutshell,i,i
+in a nutshell,i,i
+rise and shine,i,i
+take a back seat,i,i
+take a bath,l,i
+take a bath,i,i
+take a bath,l,i
+bury the hatchet,i,i
+bury the hatchet,i,i
+in the soup,l,i
+in the soup,i,i
+in the soup,i,i
+grease the wheels,i,i
+grease the wheels,i,i
+grease the wheels,i,i
+apples and oranges,i,i
+apples and oranges,i,i
+follow in someone's footsteps,i,i
+follow in someone's footsteps,i,i
+follow in someone's footsteps,i,i
+under the wire,l,i
+under the wire,i,i
+under the wire,i,i
+out of the blue,l,i
+out of the blue,i,i
+out of the blue,i,i
+over the moon,i,i
+over the moon,i,i
+throw down the gauntlet,i,i
+throw down the gauntlet,i,i
+take the bull by the horns,i,i
+take the bull by the horns,i,i
+take the bull by the horns,i,i
+over the top,i,i
+over the top,i,i
+over the top,i,i
+sweetness and light,i,i
+sweetness and light,i,i
+behind someone's back,i,i
+behind someone's back,i,i
+on the ropes,i,i
+take the cake,i,i
+dig up dirt,i,i
+dig up dirt,i,i
+dig up dirt,i,i
+left and right,l,i
+dead in the water,i,i
+dead in the water,l,i
+dead in the water,i,i
+take no prisoners,l,i
+run out of steam,i,i
+take a hike,i,i
+take a hike,i,i
+take a hike,i,i
+go the extra mile,i,i
+under a cloud,i,i
+under a cloud,i,i
+under a cloud,i,i
+in someone's pocket,i,i
+in someone's pocket,i,i
+in someone's pocket,i,i
+on the shelf,i,i
+on the shelf,i,i
+on the shelf,i,i
+pound the pavement,l,i
+cut and thrust,i,i
+cut and thrust,i,i
+song and dance,i,i
+song and dance,i,i
+song and dance,i,i
+turn the tables,i,i
+turn the tables,i,i
+over the hill,i,i
+over the hill,i,i
+over the hill,i,i
+out of the loop,i,i
+drop the ball,i,i
+the buck stops here,f,i
+the buck stops here,i,i
+the buck stops here,i,i
+on the rocks,i,i
+on the rocks,i,i
+on the rocks,i,i
+break someone's heart,i,i
+break someone's heart,i,i
+break someone's heart,i,i
+steal someone's thunder,i,i
+slap on the wrist,i,i
+slap on the wrist,i,i
+on the make,i,i
+on the make,i,i
+on the make,i,i
+things that go bump in the night,l,i
+push the boat out,i,i
+push the boat out,i,i
+push the boat out,l,i
+smell a rat,i,i
+smell a rat,i,i
+smell a rat,i,i
+shoot the messenger,i,i
+shoot the messenger,i,i
+shoot the messenger,i,i
+wake up and smell the coffee,i,i
+fun and games,i,i
+fun and games,i,i
+fun and games,i,i
+cast the first stone,I,i
+cast the first stone,i,i
+kick the bucket,i,i
+kick the bucket,i,i
+kick the bucket,i,i
+fly a kite,i,i
+fly a kite,i,i
+fly a kite,l,i
+in the clear,i,i
+in the clear,i,i
+have a few,l,i
+have a few,i,i
+have a few,l,i
+to the hilt,i,i
+to the hilt,i,i
+to the hilt,i,i
+open the floodgates,i,i
+open the floodgates,i,i
+open the floodgates,i,i
+throw the book at,i,i
+throw the book at,i,i
+throw the book at,l,i
+when the chips are down,i,i
+when the chips are down,i,i
+between a rock and a hard place,i,i
+between a rock and a hard place,i,i
+put down roots,i,i
+put down roots,l,i
+in your dreams,i,i
+in your dreams,i,i
+short and sweet,i,i
+cut and dried,i,i
+cut and dried,i,i
+cut and dried,i,i
+six of the best,i,i
+six of the best,i,i
+six of the best,f,i
+behind closed doors,i,i
+behind closed doors,i,i
+behind closed doors,l,i
+clear the decks,i,i
+clear the decks,i,i
+clear the decks,i,i
+on the game,i,i
+on the game,i,i
+on the game,i,i
+with open arms,i,i
+with open arms,i,i
+flash in the pan,i,i
+flash in the pan,l,i
+flash in the pan,i,i
+rough around the edges,i,i
+rough around the edges,i,i
+fly off the handle,i,i
+fly off the handle,i,i
+see the light,i,i
+see the light,i,i
+see the light,i,i
+pour cold water on,i,i
+pour cold water on,i,i
+pour cold water on,i,i
+fire in the belly,i,i
+get a grip,i,i
+get a grip,i,i
+get a grip,i,i
+in the loop,l,i
+in the loop,l,i
+in the loop,l,i
+fly in the face of,i,i
+fly in the face of,i,i
+get the boot,l,i
+get the boot,i,i
+on and off,i,i
+on and off,l,i
+on and off,i,i
+cook the books,i,i
+cook the books,f,i
+cook the books,i,i
+on the same page,i,i
+on the same page,i,i
+run a mile,i,i
+run a mile,i,i
+run a mile,i,i
+on thin ice,i,i
+on thin ice,l,i
+close to home,Figurative (i),i
+close to home,l,i
+close to home,i,i
+in the bag,i,i
+in the bag,i,i
+in the raw,i,i
+in the raw,l,i
+cut the mustard,i,i
+force someone's hand,i,i
+force someone's hand,l,i
+in the final analysis,i,i
+in the final analysis,i,i
+in the final analysis,i,i
+up in the air,i,i
+up in the air,i,i
+fall from grace,Figurative (i),i
+fall from grace,i,i
+fall from grace,i,i
+full of beans,i,i
+full of beans,i,i
+full of beans,i,i
+press the panic button,l,i
+press the panic button,i,i
+press the panic button,i,i
+have a heart,i,i
+have a heart,i,i
+have a heart,i,i
+on the fly,l,i
+on the fly,l,i
+get stuck in,f,i
+get stuck in,l,i
+get stuck in,i,i
+out of the box,i,i
+out of the box,l,i
+out of the box,l,i
+on the warpath,i,i
+on the warpath,i,i
+on the warpath,i,i
+take a dive,i,i
+take a dive,i,i
+take a dive,i,i
+scratch the surface,i,i
+scratch the surface,i,i
+scratch the surface,i,i
+hammer and tongs,i,i
+hammer and tongs,i,i
+hammer and tongs,i,i
+make a clean break,i,i
+make a clean break,i,i
+make a clean break,i,i
+at sixes and sevens,i,i
+nuts and bolts,l,i
+nuts and bolts,f,i
+nuts and bolts,l,i
+the ball is in someone's court,i,i
+the ball is in someone's court,i,i
+get a life,i,i
+get a life,i,i
+get a life,i,i
+on the nose,l,i
+on the nose,l,i
+on the nose,i,i
+on a shoestring,i,i
+in the driver's seat,i,i
+in the driver's seat,i,i
+wet behind the ears,i,i
+wet behind the ears,i,i
+wet behind the ears,i,i
+up a tree,i,i
+up a tree,i,i
+up a tree,i,i
+pick someone's brain,i,i
+fill someone's shoes,i,i
+save someone's skin,l,i
+save someone's skin,i,i
+walk all over,i,i
+walk all over,i,i
+walk all over,i,i
+hot and heavy,l,i
+hot and heavy,i,i
+hot and heavy,l,i
+strike a chord,i,i
+strike a chord,i,i
+strike a chord,i,i
+batten down the hatches,i,i
+batten down the hatches,i,i
+batten down the hatches,i,i
+cap in hand,i,i
+cap in hand,i,i
+cap in hand,i,i
+kicking and screaming,i,i
+kicking and screaming,i,i
+kicking and screaming,i,i
+sick and tired,i,i
+sick and tired,i,i
+on the cards,i,i
+on the cards,i,i
+face the music,i,i
+face the music,i,i
+come in from the cold,i,i
+come in from the cold,i,i
+come in from the cold,i,i
+head over heels,i,i
+head over heels,l,i
+head over heels,l,i
+reach for the stars,i,i
+for a song,l,i
+for a song,i,i
+for a song,l,i
+down the tubes,i,i
+down the tubes,i,i
+down the tubes,i,i
+no strings attached,l,i
+no strings attached,f,i
+no strings attached,i,i
+spit it out,i,i
+spit it out,i,i
+spit it out,i,i
+don't hold your breath,i,i
+don't hold your breath,i,i
+don't hold your breath,i,i
+stand up and be counted,i,i
+stand up and be counted,i,i
+far and away,i,i
+far and away,i,i
+far and away,i,i
+sink or swim,i,i
+sink or swim,i,i
+sink or swim,i,i
+hit the bottle,i,i
+hit the bottle,i,i
+hit the bottle,i,i
+turn over a new leaf,i,i
+turn over a new leaf,i,i
+put the boot in,i,i
+put the boot in,i,i
+make a splash,i,i
+make a splash,i,i
+draw a line in the sand,i,i
+push someone's buttons,i,i
+push someone's buttons,i,i
+separate the wheat from the chaff,l,i
+separate the wheat from the chaff,i,i
+get to grips with,l,i
+get under someone's skin,i,i
+get under someone's skin,i,i
+get under someone's skin,i,i
+up to speed,i,i
+up to speed,Figuratively (i),i
+go with the flow,i,i
+go with the flow,i,i
+rule the roost,i,i
+rule the roost,i,i
+rule the roost,i,i
+in the fast lane,i,i
+in the fast lane,i,i
+in the fast lane,i,i
+break the back of,i,i
+break the back of,i,i
+break the back of,i,i
+put words in someone's mouth,i,i
+put words in someone's mouth,i,i
+put words in someone's mouth,i,i
+shut the door on,i,i
+shut the door on,i,i
+shut the door on,l,i
+kiss of death,i,i
+kiss of death,i,i
+kiss of death,i,i
+on the skids,i,i
+on the skids,i,i
+on the skids,i,i
+light at the end of the tunnel,i,i
+light at the end of the tunnel,i,i
+light at the end of the tunnel,i,i
+on a roll,i,i
+on a roll,i,i
+rock the boat,i,i
+rock the boat,i,i
+below the belt,i,i
+below the belt,l,i
+below the belt,i,i
+see eye to eye,i,i
+see eye to eye,i,i
+get it up,l,i
+get it up,l,i
+get it up,l,i
+get away with murder,i,i
+get away with murder,i,i
+get away with murder,i,i
+one of those things,i,i
+one of those things,i,i
+joined at the hip,i,i
+joined at the hip,i,i
+have a ball,I,i
+have a ball,i,i
+under the sun,i,i
+under the sun,i,i
+under the sun,i,i
+on the wagon,l,i
+on the wagon,i,i
+on the wagon,i,i
+call a spade a spade,i,i
+call a spade a spade,i,i
+call a spade a spade,i,i
+spill the beans,i,i
+spill the beans,i,i
+on the button,l,i
+on the button,l,i
+on the button,l,i
+black and blue,l,i
+black and blue,i,i
+black and blue,l,i
+put the cart before the horse,i,i
+bells and whistles,i,i
+bells and whistles,i,i
+in cold blood,i,i
+in cold blood,i,i
+carrot and stick,i,i
+carrot and stick,i,i
+down the road,l,i
+down the road,l,i
+down the road,l,i
+heads will roll,i,i
+heads will roll,i,i
+at the end of the day,i,i
+at the end of the day,i,i
+at the end of the day,i,i
+heart and soul,i,i
+heart and soul,i,i
+heart and soul,i,i
+pack a punch,l,i
+pack a punch,i,i
+pack a punch,i,i
+eat someone alive,i,i
+eat someone alive,l,i
+eat someone alive,i,i
+tie the knot,l,i
+tie the knot,l,i
+tie the knot,i,i
+step on it,i,i
+step on it,l,i
+out of the picture,i,i
+out of the picture,This expression is used figuratively in the sentence. Answer: i.,i
+break the ice,i,i
+break the ice,i,i
+break the ice,i,i
+pop the question,l,i
+pop the question,l,i
+pop the question,Figurative (i),i
+full speed ahead,l,i
+full speed ahead,i,i
+full speed ahead,l,i
+point the finger,i,i
+point the finger,i,i
+sign on the dotted line,i,i
+sign on the dotted line,i,i
+sign on the dotted line,i,i
+up the ante,i,i
+up the ante,i,i
+up the ante,i,i
+bring home the bacon,i,i
+bring home the bacon,i,i
+bring home the bacon,i,i
+with a view to,i,i
+with a view to,l,i
+with a view to,l,i
+move heaven and earth,i,i
+move heaven and earth,i,i
+move heaven and earth,i,i
+across the board,i,i
+across the board,l,i
+tip the scales,i,i
+tip the scales,l,i
+face to face,l,i
+face to face,l,i
+face to face,l,i
+hold someone's hand,l,i
+hold someone's hand,i,i
+hold someone's hand,f,i
+cut from the same cloth,i,i
+cut from the same cloth,i,i
+cut from the same cloth,i,i
+licence to print money,i,i
+licence to print money,i,i
+licence to print money,i,i
+on the mend,i,i
+on the mend,i,i
+on the mend,i,i
+go all the way,i,i
+go all the way,i,i
+go all the way,l,i
+come with the territory,i,i
+come with the territory,i,i
+the bee's knees,i,i
+the bee's knees,i,i
+the bee's knees,i,i
+on the back of,l,i
+on the back of,figurative,i
+on the back of,i,i
+get a rise out of,i,i
+get off the ground,i,i
+get off the ground,i,i
+get off the ground,i,i
+under the table,i,i
+under the table,i,i
+under the table,i,i
+do someone proud,i,i
+do someone proud,i,i
+do someone proud,i,i
+down to the wire,i,i
+down to the wire,i,i
+down to the wire,i,i
+go the distance,i,i
+go the distance,i,i
+go the distance,i,i
+fast and furious,i,i
+fast and furious,i,i
+fast and furious,l,i
+watch this space,i,i
+watch this space,i,i
+set the wheels in motion,i,i
+set the wheels in motion,l,i
+set the wheels in motion,i,i
+to the tune of,i,i
+to the tune of,i,i
+to the tune of,l,i
+on the back burner,i,i
+on the back burner,i,i
+on the back burner,i,i
+turn the screw,i,i
+turn the screw,i,i
+turn the screw,i,i
+glass ceiling,i,i
+glass ceiling,i,i
+glass ceiling,i,i
+grass root,i,i
+grass root,i,i
+grass root,l,i
+head hunter,l,i
+head hunter,l,i
+head hunter,l,i
+heavy cross,i,i
+heavy cross,i,i
+heavy cross,i,i
+banana republic,i,i
+banana republic,i,i
+banana republic,i,i
+crocodile tear,i,i
+crocodile tear,i,i
+crocodile tear,i,i
+eager beaver,i,i
+eager beaver,i,i
+cutting edge,i,i
+cutting edge,i,i
+cutting edge,i,i
+melting pot,Figurative (i),i
+melting pot,i,i
+melting pot,i,i
+hot potato,i,i
+hot potato,i,i
+hot potato,i,i
+monkey business,i,i
+monkey business,i,i
+monkey business,i,i
+big cheese,i,i
+big cheese,i,i
+big cheese,i,i
+nest egg,i,i
+nest egg,i,i
+big picture,i,i
+big picture,i,i
+big picture,i,i
+night owl,l,i
+night owl,i,i
+night owl,l,i
+fashion plate,l,i
+fashion plate,i,i
+fashion plate,l,i
+big wig,i,i
+big wig,i,i
+big wig,i,i
+flower child,i,i
+flower child,i,i
+flower child,i,i
+panda car,l,i
+black box,i,i
+black box,i,i
+black box,l,i
+flea market,l,i
+flea market,l,i
+flea market,l,i
+goose egg,l,i
+blind alley,i,i
+blind alley,i,i
+blind alley,i,i
+low profile,i,i
+low profile,i,i
+low profile,i,i
+blue blood,i,i
+blue blood,i,i
+blue blood,i,i
+grandfather clock,l,i
+grandfather clock,l,i
+grandfather clock,l,i
+guinea pig,l,i
+guinea pig,l,i
+guinea pig,l,i
+graveyard shift,i,i
+graveyard shift,l,i
+gravy train,i,i
+gravy train,i,i
+gravy train,i,i
+rat run,i,i
+rock bottom,i,i
+rock bottom,i,i
+rock bottom,i,i
+pipe dream,i,i
+pipe dream,i,i
+pipe dream,i,i
+rocket science,i,i
+rocket science,i,i
+rocket science,i,i
+poison pill,i,i
+poison pill,f,i
+poison pill,i,i
+shrinking violet,Figurative (i),i
+shrinking violet,i,i
+shrinking violet,i,i
+silver bullet,i,i
+silver bullet,i,i
+silver bullet,i,i
+damp squib,i,i
+dark horse,i,i
+dark horse,i,i
+dark horse,i,i
+ivory tower,i,i
+ivory tower,i,i
+ivory tower,i,i
+kangaroo court,i,i
+kangaroo court,i,i
+kangaroo court,i,i
+sitting duck,i,i
+double cross,i,i
+double cross,i,i
+double cross,i,i
+smoking gun,i,i
+smoking gun,i,i
+double dutch,i,i
+double dutch,i,i
+double dutch,i,i
+snake oil,i,i
+snake oil,i,i
+snake oil,i,i
+smoke screen,i,i
+smoke screen,i,i
+smoke screen,i,i
+swan song,i,i
+swan song,i,i
+swan song,i,i
+old flame,i,i
+old flame,i,i
+old flame,i,i
+zebra crossing,l,i
+zebra crossing,l,i
+zebra crossing,l,i
+silver lining,i,i
+top dog,i,i
+bad hat,i,i
+bad hat,i,i
+bad hat,i,i
+acid test,i,i
+acid test,i,i
+acid test,i,i
+big fish,i,i
+agony aunt,l,i
+brass ring,i,i
+brass ring,i,i
+brass ring,i,i
+busy bee,i,i
+closed book,i,i
+closed book,i,i
+closed book,i,i
+all hell broke loose,i,l
+all hell broke loose,l,l
+all hell broke loose,i,l
+off the hook,l,l
+off the hook,l,l
+off the hook,l,l
+against the grain,l,l
+against the grain,l,l
+play with fire,l,l
+play with fire,l,l
+play with fire,l,l
+make a killing,i,l
+make a killing,l,l
+make a killing,i,l
+carry the can,l,l
+carry the can,l,l
+carry the can,l,l
+in the doghouse,l,l
+in the doghouse,l,l
+in the doghouse,l,l
+behind the scenes,l,l
+behind the scenes,l,l
+behind the scenes,l,l
+go to the wall,l,l
+go to the wall,l,l
+go to the wall,l,l
+see the light of day,l,l
+see the light of day,l,l
+under the weather,l,l
+under the weather,l,l
+under the weather,l,l
+jump through hoops,l,l
+jump through hoops,l,l
+jump through hoops,l,l
+on the horn,l,l
+on the horn,l,l
+to the bone,l,l
+to the bone,l,l
+push the envelope,l,l
+push the envelope,l,l
+look on the bright side,l,l
+look on the bright side,i,l
+up to here,l,l
+up to here,l,l
+up to here,l,l
+night and day,l,l
+night and day,i,l
+head for the hills,l,l
+head for the hills,l,l
+head for the hills,l,l
+pass the buck,l,l
+pass the buck,l,l
+rise from the ashes,l,l
+rise from the ashes,i,l
+rise from the ashes,l,l
+meat and potatoes,i,l
+meat and potatoes,l,l
+meat and potatoes,l,l
+in bed with,i,l
+in bed with,i,l
+in bed with,l,l
+in the pink,l,l
+in the pink,i,l
+in the pink,i,l
+go to town,l,l
+go to town,l,l
+go to town,l,l
+heart of gold,l,l
+heart of gold,l,l
+heart of gold,l,l
+par for the course,l,l
+par for the course,l,l
+par for the course,l,l
+out of line,l,l
+out of line,l,l
+out of line,l,l
+stay the course,l,l
+stay the course,i,l
+stay the course,i,l
+smoke and mirrors,i,l
+smoke and mirrors,i,l
+get to the bottom of,l,l
+get to the bottom of,l,l
+get to the bottom of,l,l
+by the book,l,l
+by the book,l,l
+in your face,l,l
+in your face,l,l
+in your face,l,l
+in the black,i,l
+in the black,l,l
+in the black,l,l
+hit the nail on the head,l,l
+hit the nail on the head,l,l
+in the driving seat,l,l
+in the driving seat,l,l
+in the driving seat,l,l
+join the club,l,l
+join the club,l,l
+join the club,i,l
+walk the plank,l,l
+walk the plank,l,l
+eat humble pie,l,l
+eat humble pie,l,l
+eat humble pie,l,l
+up the river,l,l
+up the river,l,l
+up the river,l,l
+circle the wagons,l,l
+look the part,l,l
+look the part,l,l
+look the part,i,l
+moment of truth,i,l
+all bets are off,i,l
+all bets are off,l,l
+knock someone's socks off,i,l
+on the side of the angels,i,l
+on the side of the angels,i,l
+on the side of the angels,i,l
+jump on the bandwagon,i,l
+jump on the bandwagon,i,l
+jump on the bandwagon,l,l
+turn the other cheek,l,l
+raise the roof,l,l
+raise the roof,l,l
+raise the roof,l,l
+do the right thing,i,l
+do the right thing,i,l
+do the right thing,i,l
+on the square,l,l
+on the square,l,l
+on the square,l,l
+pick up the pieces,l,l
+pick up the pieces,l,l
+pick up the pieces,l,l
+touch and go,l,l
+off and running,l,l
+off and running,l,l
+off and running,i,l
+horses for courses,l,l
+horses for courses,l,l
+horses for courses,l,l
+wipe the slate clean,l,l
+wipe the slate clean,l,l
+wipe the slate clean,i,l
+hit the jackpot,l,l
+hit the jackpot,l,l
+hit the jackpot,l,l
+round the bend,l,l
+round the bend,i,l
+round the bend,l,l
+go for the jugular,l,l
+go for the jugular,l,l
+go for the jugular,l,l
+nip and tuck,l,l
+nip and tuck,l,l
+nip and tuck,l,l
+throw the baby out with the bathwater,i,l
+throw the baby out with the bathwater,i,l
+out of order,l,l
+out of order,l,l
+out of order,l,l
+muddy the waters,l,l
+muddy the waters,l,l
+muddy the waters,l,l
+move the goalposts,l,l
+move the goalposts,l,l
+move the goalposts,l,l
+hair of the dog,l,l
+hair of the dog,l,l
+hair of the dog,l,l
+have someone's number,l,l
+neither here nor there,i,l
+neither here nor there,i,l
+neither here nor there,i,l
+out of the woods,l,l
+out of the woods,l,l
+out of the woods,l,l
+sit on the fence,l,l
+sit on the fence,l,l
+sit on the fence,l,l
+keep the peace,i,l
+keep the peace,l,l
+six feet under,l,l
+six feet under,l,l
+six feet under,l,l
+dead and buried,l,l
+dead and buried,i,l
+dead and buried,l,l
+down in the dumps,i,l
+down in the dumps,l,l
+down in the dumps,l,l
+know the score,l,l
+know the score,l,l
+know the score,literal,l
+oil and water,l,l
+oil and water,l,l
+oil and water,l,l
+add fuel to the fire,l,l
+add fuel to the fire,l,l
+add fuel to the fire,l,l
+power behind the throne,i,l
+power behind the throne,i,l
+power behind the throne,i,l
+blood and guts,l,l
+blood and guts,l,l
+blood and guts,l,l
+strike while the iron is hot,l,l
+strike while the iron is hot,l,l
+on the hop,l,l
+on the hop,l,l
+on the hop,l,l
+all over the map,i,l
+all over the map,Figurative: i,l
+all over the map,i,l
+let the cat out of the bag,l,l
+let the cat out of the bag,l,l
+let the cat out of the bag,i,l
+blaze a trail,l,l
+blaze a trail,l,l
+blaze a trail,l,l
+on the bounce,l,l
+on the bounce,l,l
+on the bounce,l,l
+at a canter,l,l
+at a canter,l,l
+at a canter,l,l
+out to lunch,l,l
+out to lunch,l,l
+out to lunch,l,l
+twist someone's arm,l,l
+twist someone's arm,l,l
+twist someone's arm,l,l
+swings and roundabouts,l,l
+swings and roundabouts,l,l
+swings and roundabouts,l,l
+on the ball,l,l
+on the ball,l,l
+rob Peter to pay Paul,l,l
+rob Peter to pay Paul,i,l
+rob Peter to pay Paul,i,l
+ring a bell,l,l
+ring a bell,l,l
+ring a bell,l,l
+to die for,i,l
+to die for,l,l
+to die for,l,l
+everything but the kitchen sink,i,l
+spend a penny,l,l
+spend a penny,l,l
+spend a penny,l,l
+in black and white,l,l
+in black and white,l,l
+in black and white,l,l
+doom and gloom,i,l
+doom and gloom,i,l
+doom and gloom,i,l
+keep tabs on,l,l
+keep tabs on,i,l
+keep tabs on,l,l
+get the picture,l,l
+get the picture,l,l
+get the picture,l,l
+look the other way,l,l
+look the other way,l,l
+look the other way,l,l
+burst someone's bubble,i,l
+burst someone's bubble,l,l
+burst someone's bubble,l,l
+fall in line,l,l
+fall in line,l,l
+fall in line,l,l
+water under the bridge,l,l
+water under the bridge,i,l
+water under the bridge,l,l
+keep a lid on,l,l
+keep a lid on,l,l
+keep a lid on,l,l
+down the drain,l,l
+down the drain,l,l
+down the drain,l,l
+make the cut,l,l
+make the cut,l,l
+make the cut,l,l
+free and easy,i,l
+free and easy,l,l
+free and easy,i,l
+with a vengeance,i,l
+cut both ways,f,l
+cut both ways,l,l
+cut both ways,l,l
+sing the praises of,i,l
+sing the praises of,i,l
+sing the praises of,l,l
+hold the line,l,l
+pull the plug,l,l
+pull the plug,l,l
+pull the plug,l,l
+make a move,l,l
+make a move,l,l
+make a move,l,l
+make a meal of,l,l
+make a meal of,figurative (i),l
+make a meal of,i,l
+the icing on the cake,l,l
+the icing on the cake,i,l
+the icing on the cake,l,l
+in the red,i,l
+in the red,l,l
+in the red,i,l
+feel the pinch,l,l
+feel the pinch,l,l
+feel the pinch,l,l
+under the microscope,l,l
+under the microscope,l,l
+under the microscope,l,l
+pay the piper,i,l
+pay the piper,i,l
+pay the piper,i,l
+on the trot,l,l
+on the trot,l,l
+on the trot,i,l
+peaches and cream,l,l
+peaches and cream,l,l
+toe the line,l,l
+toe the line,l,l
+grasp the nettle,l,l
+grasp the nettle,l,l
+grasp the nettle,l,l
+high and mighty,i,l
+high and mighty,l,l
+high and mighty,i,l
+in the hole,l,l
+in the hole,l,l
+in the hole,l,l
+take the fall,l,l
+take the fall,l,l
+take the fall,l,l
+in the offing,l,l
+in the offing,l,l
+in the offing,l,l
+ride roughshod over,l,l
+ride roughshod over,i,l
+ride roughshod over,i,l
+crash and burn,l,l
+crash and burn,l,l
+crash and burn,l,l
+dyed in the wool,l,l
+dyed in the wool,l,l
+dyed in the wool,l,l
+fight fire with fire,l,l
+fight fire with fire,i,l
+fight fire with fire,l,l
+all over the place,l,l
+all over the place,l,l
+all over the place,l,l
+grind to a halt,l,l
+grind to a halt,l,l
+grind to a halt,l,l
+in a nutshell,l,l
+in a nutshell,l,l
+rise and shine,l,l
+take a back seat,i,l
+take a bath,l,l
+take a bath,l,l
+take a bath,l,l
+bury the hatchet,i,l
+bury the hatchet,l,l
+in the soup,l,l
+in the soup,l,l
+in the soup,l,l
+grease the wheels,l,l
+grease the wheels,l,l
+grease the wheels,l,l
+apples and oranges,l,l
+apples and oranges,l,l
+follow in someone's footsteps,i,l
+follow in someone's footsteps,l,l
+follow in someone's footsteps,l,l
+under the wire,l,l
+under the wire,l,l
+under the wire,l,l
+out of the blue,l,l
+out of the blue,l,l
+out of the blue,l,l
+over the moon,l,l
+over the moon,l,l
+throw down the gauntlet,l,l
+throw down the gauntlet,i,l
+take the bull by the horns,l,l
+take the bull by the horns,i,l
+take the bull by the horns,i,l
+over the top,l,l
+over the top,l,l
+over the top,l,l
+sweetness and light,i,l
+sweetness and light,i,l
+behind someone's back,l,l
+behind someone's back,l,l
+on the ropes,l,l
+take the cake,l,l
+dig up dirt,l,l
+dig up dirt,l,l
+dig up dirt,l,l
+left and right,l,l
+dead in the water,l,l
+dead in the water,l,l
+dead in the water,l,l
+take no prisoners,i,l
+run out of steam,l,l
+take a hike,l,l
+take a hike,l,l
+take a hike,l,l
+go the extra mile,l,l
+under a cloud,l,l
+under a cloud,l,l
+under a cloud,l,l
+in someone's pocket,l,l
+in someone's pocket,l,l
+in someone's pocket,l,l
+on the shelf,l,l
+on the shelf,l,l
+on the shelf,l,l
+pound the pavement,l,l
+cut and thrust,l,l
+cut and thrust,l,l
+song and dance,i,l
+song and dance,l,l
+song and dance,i,l
+turn the tables,l,l
+turn the tables,l,l
+over the hill,l,l
+over the hill,l,l
+over the hill,l,l
+out of the loop,l,l
+drop the ball,l,l
+the buck stops here,l,l
+the buck stops here,l,l
+the buck stops here,i,l
+on the rocks,l,l
+on the rocks,l,l
+on the rocks,l,l
+break someone's heart,l,l
+break someone's heart,l,l
+break someone's heart,l,l
+steal someone's thunder,i,l
+slap on the wrist,l,l
+slap on the wrist,l,l
+on the make,l,l
+on the make,l,l
+on the make,l,l
+things that go bump in the night,l,l
+push the boat out,l,l
+push the boat out,l,l
+push the boat out,i,l
+smell a rat,l,l
+smell a rat,l,l
+smell a rat,l,l
+shoot the messenger,l,l
+shoot the messenger,i,l
+shoot the messenger,l,l
+wake up and smell the coffee,l,l
+fun and games,l,l
+fun and games,i,l
+fun and games,l,l
+cast the first stone,l,l
+cast the first stone,l,l
+kick the bucket,l,l
+kick the bucket,l,l
+kick the bucket,l,l
+fly a kite,l,l
+fly a kite,l,l
+fly a kite,l,l
+in the clear,l,l
+in the clear,l,l
+have a few,l,l
+have a few,l,l
+have a few,l,l
+to the hilt,l,l
+to the hilt,'l',l
+to the hilt,l,l
+open the floodgates,l,l
+open the floodgates,l,l
+open the floodgates,l,l
+throw the book at,l,l
+throw the book at,i,l
+throw the book at,i,l
+when the chips are down,i,l
+when the chips are down,i,l
+between a rock and a hard place,l,l
+between a rock and a hard place,l,l
+put down roots,l,l
+put down roots,l,l
+in your dreams,i,l
+in your dreams,l,l
+short and sweet,i,l
+cut and dried,l,l
+cut and dried,l,l
+cut and dried,l,l
+six of the best,i,l
+six of the best,l,l
+six of the best,l,l
+behind closed doors,l,l
+behind closed doors,l,l
+behind closed doors,l,l
+clear the decks,i,l
+clear the decks,l,l
+clear the decks,l,l
+on the game,l,l
+on the game,l,l
+on the game,i,l
+with open arms,i,l
+with open arms,l,l
+flash in the pan,l,l
+flash in the pan,l,l
+flash in the pan,l,l
+rough around the edges,l,l
+rough around the edges,l,l
+fly off the handle,l,l
+fly off the handle,l,l
+see the light,l,l
+see the light,l,l
+see the light,l,l
+pour cold water on,l,l
+pour cold water on,l,l
+pour cold water on,l,l
+fire in the belly,l,l
+get a grip,l,l
+get a grip,l,l
+get a grip,l,l
+in the loop,l,l
+in the loop,l,l
+in the loop,I (figurative),l
+fly in the face of,l,l
+fly in the face of,l,l
+get the boot,l,l
+get the boot,l,l
+on and off,l,l
+on and off,l,l
+on and off,l,l
+cook the books,l,l
+cook the books,i,l
+cook the books,l,l
+on the same page,l,l
+on the same page,l,l
+run a mile,l,l
+run a mile,l,l
+run a mile,l,l
+on thin ice,l,l
+on thin ice,l,l
+close to home,l,l
+close to home,l,l
+close to home,i,l
+in the bag,l,l
+in the bag,l,l
+in the raw,l,l
+in the raw,l,l
+cut the mustard,l,l
+force someone's hand,l,l
+force someone's hand,l,l
+in the final analysis,i,l
+in the final analysis,l,l
+in the final analysis,l,l
+up in the air,l,l
+up in the air,l,l
+fall from grace,l,l
+fall from grace,i,l
+fall from grace,l,l
+full of beans,l,l
+full of beans,l,l
+full of beans,l,l
+press the panic button,l,l
+press the panic button,l,l
+press the panic button,l,l
+have a heart,l,l
+have a heart,i,l
+have a heart,l,l
+on the fly,l,l
+on the fly,l,l
+get stuck in,l,l
+get stuck in,l,l
+get stuck in,l,l
+out of the box,l,l
+out of the box,l,l
+out of the box,l,l
+on the warpath,i,l
+on the warpath,l,l
+on the warpath,l,l
+take a dive,l,l
+take a dive,l,l
+take a dive,l,l
+scratch the surface,l,l
+scratch the surface,l,l
+scratch the surface,l,l
+hammer and tongs,l,l
+hammer and tongs,i,l
+hammer and tongs,l,l
+make a clean break,l,l
+make a clean break,l,l
+make a clean break,i,l
+at sixes and sevens,i,l
+nuts and bolts,l,l
+nuts and bolts,l,l
+nuts and bolts,l,l
+the ball is in someone's court,l,l
+the ball is in someone's court,i,l
+get a life,i,l
+get a life,i,l
+get a life,l,l
+on the nose,l,l
+on the nose,l,l
+on the nose,l,l
+on a shoestring,l,l
+in the driver's seat,l,l
+in the driver's seat,l,l
+wet behind the ears,l,l
+wet behind the ears,l,l
+wet behind the ears,l,l
+up a tree,l,l
+up a tree,l,l
+up a tree,l,l
+pick someone's brain,i,l
+fill someone's shoes,l,l
+save someone's skin,l,l
+save someone's skin,l,l
+walk all over,l,l
+walk all over,i,l
+walk all over,l,l
+hot and heavy,l,l
+hot and heavy,l,l
+hot and heavy,l,l
+strike a chord,l,l
+strike a chord,l,l
+strike a chord,i,l
+batten down the hatches,l,l
+batten down the hatches,l,l
+batten down the hatches,l,l
+cap in hand,l,l
+cap in hand,l,l
+cap in hand,l,l
+kicking and screaming,l,l
+kicking and screaming,i,l
+kicking and screaming,i,l
+sick and tired,l,l
+sick and tired,i,l
+on the cards,l,l
+on the cards,l,l
+face the music,i,l
+face the music,l,l
+come in from the cold,l,l
+come in from the cold,l,l
+come in from the cold,l,l
+head over heels,l,l
+head over heels,l,l
+head over heels,l,l
+reach for the stars,i,l
+for a song,i,l
+for a song,l,l
+for a song,l,l
+down the tubes,l,l
+down the tubes,l,l
+down the tubes,l,l
+no strings attached,l,l
+no strings attached,i,l
+no strings attached,i,l
+spit it out,l,l
+spit it out,l,l
+spit it out,l,l
+don't hold your breath,l,l
+don't hold your breath,l,l
+don't hold your breath,l,l
+stand up and be counted,l,l
+stand up and be counted,l,l
+far and away,i,l
+far and away,i,l
+far and away,l,l
+sink or swim,i,l
+sink or swim,i,l
+sink or swim,l,l
+hit the bottle,l,l
+hit the bottle,l,l
+hit the bottle,l,l
+turn over a new leaf,l,l
+turn over a new leaf,l,l
+put the boot in,l,l
+put the boot in,l,l
+make a splash,l,l
+make a splash,l,l
+draw a line in the sand,l,l
+push someone's buttons,l,l
+push someone's buttons,l,l
+separate the wheat from the chaff,l,l
+separate the wheat from the chaff,l,l
+get to grips with,l,l
+get under someone's skin,l,l
+get under someone's skin,l,l
+get under someone's skin,l,l
+up to speed,l,l
+up to speed,l,l
+go with the flow,l,l
+go with the flow,l,l
+rule the roost,I,l
+rule the roost,i,l
+rule the roost,i,l
+in the fast lane,l,l
+in the fast lane,l,l
+in the fast lane,l,l
+break the back of,i,l
+break the back of,l,l
+break the back of,i,l
+put words in someone's mouth,l,l
+put words in someone's mouth,l,l
+put words in someone's mouth,i,l
+shut the door on,l,l
+shut the door on,i,l
+shut the door on,l,l
+kiss of death,i,l
+kiss of death,i,l
+kiss of death,l,l
+on the skids,l,l
+on the skids,l,l
+on the skids,l,l
+light at the end of the tunnel,l,l
+light at the end of the tunnel,l,l
+light at the end of the tunnel,l,l
+on a roll,l,l
+on a roll,l,l
+rock the boat,i,l
+rock the boat,l,l
+below the belt,l,l
+below the belt,l,l
+below the belt,l,l
+see eye to eye,l,l
+see eye to eye,l,l
+get it up,l,l
+get it up,l,l
+get it up,l,l
+get away with murder,i,l
+get away with murder,i,l
+get away with murder,i,l
+one of those things,l,l
+one of those things,i,l
+joined at the hip,l,l
+joined at the hip,l,l
+have a ball,l,l
+have a ball,l,l
+under the sun,l,l
+under the sun,l,l
+under the sun,l,l
+on the wagon,l,l
+on the wagon,l,l
+on the wagon,l,l
+call a spade a spade,i,l
+call a spade a spade,i,l
+call a spade a spade,i,l
+spill the beans,l,l
+spill the beans,l,l
+on the button,l,l
+on the button,l,l
+on the button,l,l
+black and blue,l,l
+black and blue,l,l
+black and blue,i,l
+put the cart before the horse,i,l
+bells and whistles,l,l
+bells and whistles,i,l
+in cold blood,l,l
+in cold blood,l,l
+carrot and stick,l,l
+carrot and stick,l,l
+down the road,l,l
+down the road,l,l
+down the road,l,l
+heads will roll,l,l
+heads will roll,i,l
+at the end of the day,l,l
+at the end of the day,l,l
+at the end of the day,i,l
+heart and soul,i,l
+heart and soul,i,l
+heart and soul,i,l
+pack a punch,l,l
+pack a punch,i,l
+pack a punch,l,l
+eat someone alive,l,l
+eat someone alive,l,l
+eat someone alive,l,l
+tie the knot,l,l
+tie the knot,l,l
+tie the knot,l,l
+step on it,l,l
+step on it,l,l
+out of the picture,i,l
+out of the picture,l,l
+break the ice,l,l
+break the ice,l,l
+break the ice,l,l
+pop the question,l,l
+pop the question,i,l
+pop the question,i,l
+full speed ahead,l,l
+full speed ahead,l,l
+full speed ahead,l,l
+point the finger,i,l
+point the finger,l,l
+sign on the dotted line,l,l
+sign on the dotted line,l,l
+sign on the dotted line,l,l
+up the ante,i,l
+up the ante,i,l
+up the ante,i,l
+bring home the bacon,l,l
+bring home the bacon,l,l
+bring home the bacon,l,l
+with a view to,l,l
+with a view to,l,l
+with a view to,l,l
+move heaven and earth,i,l
+move heaven and earth,i,l
+move heaven and earth,i,l
+across the board,l,l
+across the board,l,l
+tip the scales,l,l
+tip the scales,l,l
+face to face,l,l
+face to face,l,l
+face to face,l,l
+hold someone's hand,l,l
+hold someone's hand,l,l
+hold someone's hand,l,l
+cut from the same cloth,l,l
+cut from the same cloth,l,l
+cut from the same cloth,l,l
+licence to print money,l,l
+licence to print money,i,l
+licence to print money,i,l
+on the mend,l,l
+on the mend,l,l
+on the mend,i,l
+go all the way,l,l
+go all the way,i,l
+go all the way,i,l
+come with the territory,l,l
+come with the territory,i,l
+the bee's knees,l,l
+the bee's knees,l,l
+the bee's knees,l,l
+on the back of,l,l
+on the back of,l,l
+on the back of,l,l
+get a rise out of,l,l
+get off the ground,l,l
+get off the ground,l,l
+get off the ground,l,l
+under the table,l,l
+under the table,l,l
+under the table,l,l
+do someone proud,i,l
+do someone proud,l,l
+do someone proud,i,l
+down to the wire,l,l
+down to the wire,l,l
+down to the wire,l,l
+go the distance,i,l
+go the distance,l,l
+go the distance,l,l
+fast and furious,i,l
+fast and furious,i,l
+fast and furious,i,l
+watch this space,l,l
+watch this space,l,l
+set the wheels in motion,l,l
+set the wheels in motion,l,l
+set the wheels in motion,l,l
+to the tune of,i,l
+to the tune of,l,l
+to the tune of,l,l
+on the back burner,l,l
+on the back burner,l,l
+on the back burner,l,l
+turn the screw,l,l
+turn the screw,l,l
+turn the screw,l,l
+glass ceiling,l,l
+glass ceiling,l,l
+glass ceiling,l,l
+grass root,l,l
+grass root,l,l
+grass root,l,l
+head hunter,l,l
+head hunter,l,l
+head hunter,l,l
+heavy cross,l,l
+heavy cross,l,l
+heavy cross,l,l
+banana republic,l,l
+banana republic,l,l
+banana republic,l,l
+crocodile tear,l,l
+crocodile tear,l,l
+crocodile tear,l,l
+eager beaver,l,l
+eager beaver,l,l
+cutting edge,l,l
+cutting edge,l,l
+cutting edge,l,l
+melting pot,l,l
+melting pot,l,l
+melting pot,l,l
+hot potato,l,l
+hot potato,l,l
+hot potato,l,l
+monkey business,l,l
+monkey business,i,l
+monkey business,l,l
+big cheese,l,l
+big cheese,l,l
+big cheese,l,l
+nest egg,l,l
+nest egg,l,l
+big picture,l,l
+big picture,l,l
+big picture,i,l
+night owl,l,l
+night owl,l,l
+night owl,l,l
+fashion plate,l,l
+fashion plate,l,l
+fashion plate,l,l
+big wig,l,l
+big wig,l,l
+big wig,l,l
+flower child,l,l
+flower child,l,l
+flower child,Figurative,l
+panda car,l,l
+black box,l,l
+black box,l,l
+black box,l,l
+flea market,l,l
+flea market,l,l
+flea market,l,l
+goose egg,l,l
+blind alley,l,l
+blind alley,l,l
+blind alley,l,l
+low profile,l,l
+low profile,l,l
+low profile,l,l
+blue blood,l,l
+blue blood,l,l
+blue blood,l,l
+grandfather clock,l,l
+grandfather clock,l,l
+grandfather clock,l,l
+guinea pig,l,l
+guinea pig,l,l
+guinea pig,l,l
+graveyard shift,l,l
+graveyard shift,l,l
+gravy train,l,l
+gravy train,l,l
+gravy train,l,l
+rat run,l,l
+rock bottom,l,l
+rock bottom,l,l
+rock bottom,l,l
+pipe dream,l,l
+pipe dream,i,l
+pipe dream,l,l
+rocket science,l,l
+rocket science,l,l
+rocket science,l,l
+poison pill,l,l
+poison pill,l,l
+poison pill,l,l
+shrinking violet,l,l
+shrinking violet,i,l
+shrinking violet,l,l
+silver bullet,l,l
+silver bullet,l,l
+silver bullet,l,l
+damp squib,l,l
+dark horse,l,l
+dark horse,l,l
+dark horse,i,l
+ivory tower,l,l
+ivory tower,l,l
+ivory tower,l,l
+kangaroo court,l,l
+kangaroo court,i,l
+kangaroo court,l,l
+sitting duck,l,l
+double cross,l,l
+double cross,l,l
+double cross,l,l
+smoking gun,l,l
+smoking gun,l,l
+double dutch,l,l
+double dutch,l,l
+double dutch,l,l
+snake oil,l,l
+snake oil,l,l
+snake oil,l,l
+smoke screen,l,l
+smoke screen,l,l
+smoke screen,l,l
+swan song,i,l
+swan song,i,l
+swan song,i,l
+old flame,l,l
+old flame,l,l
+old flame,l,l
+zebra crossing,l,l
+zebra crossing,l,l
+zebra crossing,l,l
+silver lining,l,l
+top dog,i,l
+bad hat,l,l
+bad hat,l,l
+bad hat,Figurative (i),l
+acid test,l,l
+acid test,l,l
+acid test,l,l
+big fish,l,l
+agony aunt,l,l
+brass ring,l,l
+brass ring,l,l
+brass ring,l,l
+busy bee,l,l
+closed book,l,l
+closed book,l,l
+closed book,l,l

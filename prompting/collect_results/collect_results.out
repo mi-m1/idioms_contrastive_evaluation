@@ -1,0 +1,540 @@
+(array([0.5, 0. ]), array([1., 0.]), array([0.66666667, 0.        ]), array([1033, 1033]))
+merged_preds/merged_flant5large_p2.csv
+{'precision': array([0.5, 0. ]), 'recall': array([1., 0.]), 'fscore': array([0.66666667, 0.        ]), 'support': array([1033, 1033]), 'f1': array([0.66666667, 0.        ]), 'macro f1': 0.3333333333333333, 'accuracy': 0.5}
+flant5large_p2
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        i     l
+2062              busy bee        i     l
+2063           closed book        i     l
+2064           closed book        i     l
+2065           closed book        i     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.5, 'recall': 1.0, 'f1-score': 0.6666666666666666, 'support': 1033.0}, 'l': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 1033.0}, 'accuracy': 0.5, 'macro avg': {'precision': 0.25, 'recall': 0.5, 'f1-score': 0.3333333333333333, 'support': 2066.0}, 'weighted avg': {'precision': 0.25, 'recall': 0.5, 'f1-score': 0.3333333333333333, 'support': 2066.0}}
+(array([0.60171045, 0.88811189]), array([0.9535334 , 0.36882865]), array([0.73782772, 0.52120383]), array([1033, 1033]))
+merged_preds/merged_flant5xl_p2.csv
+{'precision': array([0.60171045, 0.88811189]), 'recall': array([0.9535334 , 0.36882865]), 'fscore': array([0.73782772, 0.52120383]), 'support': array([1033, 1033]), 'f1': array([0.73782772, 0.52120383]), 'macro f1': 0.6295157728625811, 'accuracy': 0.6611810261374637}
+flant5xl_p2
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        i     l
+2063           closed book        l     l
+2064           closed book        l     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.6017104459376909, 'recall': 0.9535333978702807, 'f1-score': 0.7378277153558053, 'support': 1033.0}, 'l': {'precision': 0.8881118881118881, 'recall': 0.3688286544046467, 'f1-score': 0.521203830369357, 'support': 1033.0}, 'accuracy': 0.6611810261374637, 'macro avg': {'precision': 0.7449111670247894, 'recall': 0.6611810261374637, 'f1-score': 0.6295157728625811, 'support': 2066.0}, 'weighted avg': {'precision': 0.7449111670247895, 'recall': 0.6611810261374637, 'f1-score': 0.6295157728625811, 'support': 2066.0}}
+(array([0.50220264, 0.69565217]), array([0.99322362, 0.01548887]), array([0.66710013, 0.03030303]), array([1033, 1033]))
+merged_preds/merged_flant5xl_p1.csv
+{'precision': array([0.50220264, 0.69565217]), 'recall': array([0.99322362, 0.01548887]), 'fscore': array([0.66710013, 0.03030303]), 'support': array([1033, 1033]), 'f1': array([0.66710013, 0.03030303]), 'macro f1': 0.348701580171021, 'accuracy': 0.5043562439496612}
+flant5xl_p1
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        i     l
+2062              busy bee        i     l
+2063           closed book        i     l
+2064           closed book        i     l
+2065           closed book        i     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.5022026431718062, 'recall': 0.9932236205227493, 'f1-score': 0.6671001300390117, 'support': 1033.0}, 'l': {'precision': 0.6956521739130435, 'recall': 0.015488867376573089, 'f1-score': 0.030303030303030304, 'support': 1033.0}, 'accuracy': 0.5043562439496612, 'macro avg': {'precision': 0.5989274085424248, 'recall': 0.5043562439496612, 'f1-score': 0.348701580171021, 'support': 2066.0}, 'weighted avg': {'precision': 0.5989274085424248, 'recall': 0.5043562439496612, 'f1-score': 0.348701580171021, 'support': 2066.0}}
+(array([0.58323699, 0.93113772]), array([0.9767667 , 0.30106486]), array([0.73036554, 0.45501097]), array([1033, 1033]))
+merged_preds/merged_mistral7binstructv0.3_p1.csv
+{'precision': array([0.58323699, 0.93113772]), 'recall': array([0.9767667 , 0.30106486]), 'fscore': array([0.73036554, 0.45501097]), 'support': array([1033, 1033]), 'f1': array([0.73036554, 0.45501097]), 'macro f1': 0.5926882588156116, 'accuracy': 0.6389157792836399}
+mistral7binstructv0.3_p1
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        i     l
+2063           closed book        i     l
+2064           closed book        l     l
+2065           closed book        i     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.5832369942196531, 'recall': 0.9767666989351403, 'f1-score': 0.7303655446977922, 'support': 1033.0}, 'l': {'precision': 0.9311377245508982, 'recall': 0.3010648596321394, 'f1-score': 0.4550109729334309, 'support': 1033.0}, 'micro avg': {'precision': 0.6395348837209303, 'recall': 0.6389157792836399, 'f1-score': 0.639225181598063, 'support': 2066.0}, 'macro avg': {'precision': 0.7571873593852756, 'recall': 0.6389157792836399, 'f1-score': 0.5926882588156116, 'support': 2066.0}, 'weighted avg': {'precision': 0.7571873593852757, 'recall': 0.6389157792836399, 'f1-score': 0.5926882588156116, 'support': 2066.0}}
+(array([0.57795371, 0.80188679]), array([0.91868345, 0.32913843]), array([0.70953271, 0.46671242]), array([1033, 1033]))
+merged_preds/merged_flant5xl_p3.csv
+{'precision': array([0.57795371, 0.80188679]), 'recall': array([0.91868345, 0.32913843]), 'fscore': array([0.70953271, 0.46671242]), 'support': array([1033, 1033]), 'f1': array([0.70953271, 0.46671242]), 'macro f1': 0.5881225665334607, 'accuracy': 0.6239109390125847}
+flant5xl_p3
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        i     l
+2063           closed book        l     l
+2064           closed book        l     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.5779537149817296, 'recall': 0.9186834462729913, 'f1-score': 0.7095327102803738, 'support': 1033.0}, 'l': {'precision': 0.8018867924528302, 'recall': 0.3291384317521781, 'f1-score': 0.46671242278654773, 'support': 1033.0}, 'accuracy': 0.6239109390125847, 'macro avg': {'precision': 0.6899202537172799, 'recall': 0.6239109390125847, 'f1-score': 0.5881225665334607, 'support': 2066.0}, 'weighted avg': {'precision': 0.6899202537172799, 'recall': 0.6239109390125847, 'f1-score': 0.5881225665334608, 'support': 2066.0}}
+(array([0.90854871, 0.89089184]), array([0.88480155, 0.9090029 ]), array([0.8965179 , 0.89985625]), array([1033, 1033]))
+merged_preds/merged_gpt4_p1.csv
+{'precision': array([0.90854871, 0.89089184]), 'recall': array([0.88480155, 0.9090029 ]), 'fscore': array([0.8965179 , 0.89985625]), 'support': array([1033, 1033]), 'f1': array([0.8965179 , 0.89985625]), 'macro f1': 0.8981870769632794, 'accuracy': 0.8969022265246854}
+gpt4_p1
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        l     l
+2063           closed book        l     l
+2064           closed book        l     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.9085487077534792, 'recall': 0.8848015488867377, 'f1-score': 0.8965179009318294, 'support': 1033.0}, 'l': {'precision': 0.8908918406072106, 'recall': 0.9090029041626331, 'f1-score': 0.8998562529947293, 'support': 1033.0}, 'micro avg': {'precision': 0.8995145631067961, 'recall': 0.8969022265246854, 'f1-score': 0.8982064953950558, 'support': 2066.0}, 'macro avg': {'precision': 0.899720274180345, 'recall': 0.8969022265246853, 'f1-score': 0.8981870769632794, 'support': 2066.0}, 'weighted avg': {'precision': 0.8997202741803448, 'recall': 0.8969022265246854, 'f1-score': 0.8981870769632793, 'support': 2066.0}}
+(array([0.82149712, 0.84646465]), array([0.8286544 , 0.81122943]), array([0.82506024, 0.82847257]), array([1033, 1033]))
+merged_preds/merged_gpt35turbo_p1.csv
+{'precision': array([0.82149712, 0.84646465]), 'recall': array([0.8286544 , 0.81122943]), 'fscore': array([0.82506024, 0.82847257]), 'support': array([1033, 1033]), 'f1': array([0.82506024, 0.82847257]), 'macro f1': 0.8267664032303212, 'accuracy': 0.8199419167473379}
+gpt35turbo_p1
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        l     l
+2063           closed book        l     l
+2064           closed book        l     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.8214971209213052, 'recall': 0.8286544046466602, 'f1-score': 0.8250602409638554, 'support': 1033.0}, 'l': {'precision': 0.8464646464646465, 'recall': 0.8112294288480155, 'f1-score': 0.8284725654967869, 'support': 1033.0}, 'micro avg': {'precision': 0.8336614173228346, 'recall': 0.8199419167473379, 'f1-score': 0.8267447535383114, 'support': 2066.0}, 'macro avg': {'precision': 0.8339808836929758, 'recall': 0.8199419167473379, 'f1-score': 0.8267664032303212, 'support': 2066.0}, 'weighted avg': {'precision': 0.8339808836929758, 'recall': 0.8199419167473379, 'f1-score': 0.8267664032303212, 'support': 2066.0}}
+(array([0.64216005, 0.93333333]), array([0.95546951, 0.4607938 ]), array([0.76809339, 0.61697991]), array([1033, 1033]))
+merged_preds/merged_mistral7binstructv0.3_p3.csv
+{'precision': array([0.64216005, 0.93333333]), 'recall': array([0.95546951, 0.4607938 ]), 'fscore': array([0.76809339, 0.61697991]), 'support': array([1033, 1033]), 'f1': array([0.76809339, 0.61697991]), 'macro f1': 0.6925366472408341, 'accuracy': 0.7081316553727008}
+mistral7binstructv0.3_p3
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        i     l
+2063           closed book        i     l
+2064           closed book        l     l
+2065           closed book        i     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.6421600520494469, 'recall': 0.9554695062923524, 'f1-score': 0.7680933852140077, 'support': 1033.0}, 'l': {'precision': 0.9333333333333333, 'recall': 0.46079380445304935, 'f1-score': 0.6169799092676604, 'support': 1033.0}, 'micro avg': {'precision': 0.714704445530044, 'recall': 0.7081316553727008, 'f1-score': 0.711402868952103, 'support': 2066.0}, 'macro avg': {'precision': 0.7877466926913901, 'recall': 0.7081316553727008, 'f1-score': 0.6925366472408341, 'support': 2066.0}, 'weighted avg': {'precision': 0.7877466926913902, 'recall': 0.7081316553727008, 'f1-score': 0.6925366472408341, 'support': 2066.0}}
+(array([1.       , 0.5004845]), array([0.00193611, 1.        ]), array([0.00386473, 0.66709719]), array([1033, 1033]))
+merged_preds/merged_flant5small_p3.csv
+{'precision': array([1.       , 0.5004845]), 'recall': array([0.00193611, 1.        ]), 'fscore': array([0.00386473, 0.66709719]), 'support': array([1033, 1033]), 'f1': array([0.00386473, 0.66709719]), 'macro f1': 0.3354809625646762, 'accuracy': 0.5009680542110359}
+flant5small_p3
+                     idiom sentence label
+0     all hell broke loose        l     i
+1     all hell broke loose        l     i
+2     all hell broke loose        l     i
+3             off the hook        l     i
+4             off the hook        l     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        l     l
+2063           closed book        l     l
+2064           closed book        l     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 1.0, 'recall': 0.001936108422071636, 'f1-score': 0.003864734299516908, 'support': 1033.0}, 'l': {'precision': 0.500484496124031, 'recall': 1.0, 'f1-score': 0.6670971908298354, 'support': 1033.0}, 'accuracy': 0.5009680542110359, 'macro avg': {'precision': 0.7502422480620154, 'recall': 0.5009680542110359, 'f1-score': 0.3354809625646762, 'support': 2066.0}, 'weighted avg': {'precision': 0.7502422480620156, 'recall': 0.5009680542110359, 'f1-score': 0.3354809625646762, 'support': 2066.0}}
+(array([0.50121655, 0.72727273]), array([0.99709584, 0.00774443]), array([0.66709845, 0.01532567]), array([1033, 1033]))
+merged_preds/merged_flant5large_p3.csv
+{'precision': array([0.50121655, 0.72727273]), 'recall': array([0.99709584, 0.00774443]), 'fscore': array([0.66709845, 0.01532567]), 'support': array([1033, 1033]), 'f1': array([0.66709845, 0.01532567]), 'macro f1': 0.34121205804696964, 'accuracy': 0.5024201355275896}
+flant5large_p3
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        i     l
+2062              busy bee        i     l
+2063           closed book        i     l
+2064           closed book        i     l
+2065           closed book        i     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.5012165450121655, 'recall': 0.9970958373668926, 'f1-score': 0.667098445595855, 'support': 1033.0}, 'l': {'precision': 0.7272727272727273, 'recall': 0.007744433688286544, 'f1-score': 0.01532567049808429, 'support': 1033.0}, 'accuracy': 0.5024201355275896, 'macro avg': {'precision': 0.6142446361424464, 'recall': 0.5024201355275896, 'f1-score': 0.34121205804696964, 'support': 2066.0}, 'weighted avg': {'precision': 0.6142446361424464, 'recall': 0.5024201355275896, 'f1-score': 0.3412120580469697, 'support': 2066.0}}
+(array([0.61279461, 0.58553191]), array([0.5285576, 0.6660213]), array([0.56756757, 0.62318841]), array([1033, 1033]))
+merged_preds/merged_llama38binstruct_p2.csv
+{'precision': array([0.61279461, 0.58553191]), 'recall': array([0.5285576, 0.6660213]), 'fscore': array([0.56756757, 0.62318841]), 'support': array([1033, 1033]), 'f1': array([0.56756757, 0.62318841]), 'macro f1': 0.5953779866823345, 'accuracy': 0.5972894482090997}
+llama38binstruct_p2
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        l     i
+3             off the hook        l     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        i     l
+2063           closed book        l     l
+2064           closed book        l     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.6127946127946128, 'recall': 0.5285575992255567, 'f1-score': 0.5675675675675677, 'support': 1033.0}, 'l': {'precision': 0.585531914893617, 'recall': 0.6660212971926428, 'f1-score': 0.6231884057971014, 'support': 1033.0}, 'accuracy': 0.5972894482090997, 'macro avg': {'precision': 0.5991632638441149, 'recall': 0.5972894482090998, 'f1-score': 0.5953779866823345, 'support': 2066.0}, 'weighted avg': {'precision': 0.5991632638441149, 'recall': 0.5972894482090997, 'f1-score': 0.5953779866823344, 'support': 2066.0}}
+(array([0.84916201, 0.88911704]), array([0.88286544, 0.83833495]), array([0.86568581, 0.86297957]), array([1033, 1033]))
+merged_preds/merged_gpt4_p2.csv
+{'precision': array([0.84916201, 0.88911704]), 'recall': array([0.88286544, 0.83833495]), 'fscore': array([0.86568581, 0.86297957]), 'support': array([1033, 1033]), 'f1': array([0.86568581, 0.86297957]), 'macro f1': 0.8643326903535774, 'accuracy': 0.8606001936108422}
+gpt4_p2
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        l     l
+2063           closed book        l     l
+2064           closed book        l     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.8491620111731844, 'recall': 0.882865440464666, 'f1-score': 0.8656858092074039, 'support': 1033.0}, 'l': {'precision': 0.8891170431211499, 'recall': 0.8383349467570184, 'f1-score': 0.8629795714997509, 'support': 1033.0}, 'micro avg': {'precision': 0.8681640625, 'recall': 0.8606001936108422, 'f1-score': 0.8643655809431209, 'support': 2066.0}, 'macro avg': {'precision': 0.8691395271471671, 'recall': 0.8606001936108422, 'f1-score': 0.8643326903535774, 'support': 2066.0}, 'weighted avg': {'precision': 0.8691395271471671, 'recall': 0.8606001936108422, 'f1-score': 0.8643326903535775, 'support': 2066.0}}
+(array([0.50527903, 0.63636364]), array([0.97289448, 0.04743466]), array([0.66512244, 0.08828829]), array([1033, 1033]))
+merged_preds/merged_flant5large_p1.csv
+{'precision': array([0.50527903, 0.63636364]), 'recall': array([0.97289448, 0.04743466]), 'fscore': array([0.66512244, 0.08828829]), 'support': array([1033, 1033]), 'f1': array([0.66512244, 0.08828829]), 'macro f1': 0.3767053618807424, 'accuracy': 0.510164569215876}
+flant5large_p1
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        i     l
+2062              busy bee        i     l
+2063           closed book        i     l
+2064           closed book        i     l
+2065           closed book        i     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.5052790346907994, 'recall': 0.972894482090997, 'f1-score': 0.6651224354731965, 'support': 1033.0}, 'l': {'precision': 0.6363636363636364, 'recall': 0.04743465634075508, 'f1-score': 0.08828828828828829, 'support': 1033.0}, 'accuracy': 0.510164569215876, 'macro avg': {'precision': 0.5708213355272178, 'recall': 0.510164569215876, 'f1-score': 0.3767053618807424, 'support': 2066.0}, 'weighted avg': {'precision': 0.5708213355272178, 'recall': 0.510164569215876, 'f1-score': 0.3767053618807424, 'support': 2066.0}}
+(array([1.        , 0.50145631]), array([0.00580833, 1.        ]), array([0.01154957, 0.66795991]), array([1033, 1033]))
+merged_preds/merged_flant5small_p1.csv
+{'precision': array([1.        , 0.50145631]), 'recall': array([0.00580833, 1.        ]), 'fscore': array([0.01154957, 0.66795991]), 'support': array([1033, 1033]), 'f1': array([0.01154957, 0.66795991]), 'macro f1': 0.33975473818212254, 'accuracy': 0.5029041626331074}
+flant5small_p1
+                     idiom sentence label
+0     all hell broke loose        l     i
+1     all hell broke loose        l     i
+2     all hell broke loose        l     i
+3             off the hook        l     i
+4             off the hook        l     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        l     l
+2063           closed book        l     l
+2064           closed book        l     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 1.0, 'recall': 0.005808325266214908, 'f1-score': 0.01154956689124158, 'support': 1033.0}, 'l': {'precision': 0.5014563106796116, 'recall': 1.0, 'f1-score': 0.6679599094730035, 'support': 1033.0}, 'accuracy': 0.5029041626331074, 'macro avg': {'precision': 0.7507281553398057, 'recall': 0.5029041626331074, 'f1-score': 0.33975473818212254, 'support': 2066.0}, 'weighted avg': {'precision': 0.7507281553398057, 'recall': 0.5029041626331074, 'f1-score': 0.3397547381821226, 'support': 2066.0}}
+(array([0. , 0.5]), array([0., 1.]), array([0.        , 0.66666667]), array([1033, 1033]))
+merged_preds/merged_flant5small_p2.csv
+{'precision': array([0. , 0.5]), 'recall': array([0., 1.]), 'fscore': array([0.        , 0.66666667]), 'support': array([1033, 1033]), 'f1': array([0.        , 0.66666667]), 'macro f1': 0.3333333333333333, 'accuracy': 0.5}
+flant5small_p2
+                     idiom sentence label
+0     all hell broke loose        l     i
+1     all hell broke loose        l     i
+2     all hell broke loose        l     i
+3             off the hook        l     i
+4             off the hook        l     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        l     l
+2063           closed book        l     l
+2064           closed book        l     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 1033.0}, 'l': {'precision': 0.5, 'recall': 1.0, 'f1-score': 0.6666666666666666, 'support': 1033.0}, 'accuracy': 0.5, 'macro avg': {'precision': 0.25, 'recall': 0.5, 'f1-score': 0.3333333333333333, 'support': 2066.0}, 'weighted avg': {'precision': 0.25, 'recall': 0.5, 'f1-score': 0.3333333333333333, 'support': 2066.0}}
+(array([0.63333333, 0.9233871 ]), array([0.95643756, 0.44336883]), array([0.76205168, 0.59908437]), array([1033, 1033]))
+merged_preds/merged_gpt35turbo_p3.csv
+{'precision': array([0.63333333, 0.9233871 ]), 'recall': array([0.95643756, 0.44336883]), 'fscore': array([0.76205168, 0.59908437]), 'support': array([1033, 1033]), 'f1': array([0.76205168, 0.59908437]), 'macro f1': 0.6805680232310312, 'accuracy': 0.6999031945788964}
+gpt35turbo_p3
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        i     l
+2063           closed book        i     l
+2064           closed book        i     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.6333333333333333, 'recall': 0.9564375605033882, 'f1-score': 0.7620516775935209, 'support': 1033.0}, 'l': {'precision': 0.9233870967741935, 'recall': 0.44336882865440463, 'f1-score': 0.5990843688685416, 'support': 1033.0}, 'micro avg': {'precision': 0.703307392996109, 'recall': 0.6999031945788964, 'f1-score': 0.7016011644832605, 'support': 2066.0}, 'macro avg': {'precision': 0.7783602150537634, 'recall': 0.6999031945788965, 'f1-score': 0.6805680232310312, 'support': 2066.0}, 'weighted avg': {'precision': 0.7783602150537633, 'recall': 0.6999031945788964, 'f1-score': 0.6805680232310313, 'support': 2066.0}}
+(array([0. , 0.5]), array([0., 1.]), array([0.        , 0.66666667]), array([1033, 1033]))
+merged_preds/merged_llama38binstruct_p1.csv
+{'precision': array([0. , 0.5]), 'recall': array([0., 1.]), 'fscore': array([0.        , 0.66666667]), 'support': array([1033, 1033]), 'f1': array([0.        , 0.66666667]), 'macro f1': 0.3333333333333333, 'accuracy': 0.5}
+llama38binstruct_p1
+                     idiom sentence label
+0     all hell broke loose        l     i
+1     all hell broke loose        l     i
+2     all hell broke loose        l     i
+3             off the hook        l     i
+4             off the hook        l     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        l     l
+2063           closed book        l     l
+2064           closed book        l     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 1033.0}, 'l': {'precision': 0.5, 'recall': 1.0, 'f1-score': 0.6666666666666666, 'support': 1033.0}, 'accuracy': 0.5, 'macro avg': {'precision': 0.25, 'recall': 0.5, 'f1-score': 0.3333333333333333, 'support': 2066.0}, 'weighted avg': {'precision': 0.25, 'recall': 0.5, 'f1-score': 0.3333333333333333, 'support': 2066.0}}
+(array([0.88264059, 0.75080128]), array([0.69893514, 0.9070668 ]), array([0.78011885, 0.82156949]), array([1033, 1033]))
+merged_preds/merged_flant5xxl_p2.csv
+{'precision': array([0.88264059, 0.75080128]), 'recall': array([0.69893514, 0.9070668 ]), 'fscore': array([0.78011885, 0.82156949]), 'support': array([1033, 1033]), 'f1': array([0.78011885, 0.82156949]), 'macro f1': 0.8008441708701128, 'accuracy': 0.8030009680542111}
+flant5xxl_p2
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        l     l
+2063           closed book        l     l
+2064           closed book        l     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.882640586797066, 'recall': 0.6989351403678606, 'f1-score': 0.7801188546731497, 'support': 1033.0}, 'l': {'precision': 0.750801282051282, 'recall': 0.9070667957405615, 'f1-score': 0.8215694870670759, 'support': 1033.0}, 'accuracy': 0.8030009680542111, 'macro avg': {'precision': 0.816720934424174, 'recall': 0.8030009680542111, 'f1-score': 0.8008441708701128, 'support': 2066.0}, 'weighted avg': {'precision': 0.816720934424174, 'recall': 0.8030009680542111, 'f1-score': 0.8008441708701127, 'support': 2066.0}}
+(array([0.89103182, 0.90253807]), array([0.89448209, 0.86060019]), array([0.89275362, 0.88107037]), array([1033, 1033]))
+merged_preds/merged_gpt4_p3.csv
+{'precision': array([0.89103182, 0.90253807]), 'recall': array([0.89448209, 0.86060019]), 'fscore': array([0.89275362, 0.88107037]), 'support': array([1033, 1033]), 'f1': array([0.89275362, 0.88107037]), 'macro f1': 0.8869119949440543, 'accuracy': 0.8775411423039691}
+gpt4_p3
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        l     l
+2063           closed book        l     l
+2064           closed book        l     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.8910318225650916, 'recall': 0.8944820909970959, 'f1-score': 0.8927536231884058, 'support': 1033.0}, 'l': {'precision': 0.9025380710659898, 'recall': 0.8606001936108422, 'f1-score': 0.8810703666997026, 'support': 1033.0}, 'micro avg': {'precision': 0.8966369930761622, 'recall': 0.8775411423039691, 'f1-score': 0.8869863013698631, 'support': 2066.0}, 'macro avg': {'precision': 0.8967849468155407, 'recall': 0.877541142303969, 'f1-score': 0.8869119949440543, 'support': 2066.0}, 'weighted avg': {'precision': 0.8967849468155408, 'recall': 0.8775411423039691, 'f1-score': 0.8869119949440541, 'support': 2066.0}}
+(array([0.52542373, 0.91596639]), array([0.99031946, 0.10551791]), array([0.68657718, 0.18923611]), array([1033, 1033]))
+merged_preds/merged_mistral7binstructv0.3_p2.csv
+{'precision': array([0.52542373, 0.91596639]), 'recall': array([0.99031946, 0.10551791]), 'fscore': array([0.68657718, 0.18923611]), 'support': array([1033, 1033]), 'f1': array([0.68657718, 0.18923611]), 'macro f1': 0.43790664615958236, 'accuracy': 0.547918683446273}
+mistral7binstructv0.3_p2
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        i     l
+2062              busy bee        i     l
+2063           closed book        i     l
+2064           closed book        l     l
+2065           closed book        i     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.5254237288135594, 'recall': 0.9903194578896418, 'f1-score': 0.6865771812080537, 'support': 1033.0}, 'l': {'precision': 0.9159663865546218, 'recall': 0.10551790900290416, 'f1-score': 0.18923611111111108, 'support': 1033.0}, 'accuracy': 0.547918683446273, 'macro avg': {'precision': 0.7206950576840906, 'recall': 0.547918683446273, 'f1-score': 0.43790664615958236, 'support': 2066.0}, 'weighted avg': {'precision': 0.7206950576840906, 'recall': 0.547918683446273, 'f1-score': 0.43790664615958236, 'support': 2066.0}}
+(array([0.66110305, 0.82267442]), array([0.88189739, 0.54791868]), array([0.75570303, 0.65775712]), array([1033, 1033]))
+merged_preds/merged_flant5xxl_p1.csv
+{'precision': array([0.66110305, 0.82267442]), 'recall': array([0.88189739, 0.54791868]), 'fscore': array([0.75570303, 0.65775712]), 'support': array([1033, 1033]), 'f1': array([0.75570303, 0.65775712]), 'macro f1': 0.7067300728719883, 'accuracy': 0.7149080348499516}
+flant5xxl_p1
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        l     l
+2063           closed book        l     l
+2064           closed book        l     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.6611030478955007, 'recall': 0.8818973862536302, 'f1-score': 0.755703027789299, 'support': 1033.0}, 'l': {'precision': 0.8226744186046512, 'recall': 0.547918683446273, 'f1-score': 0.6577571179546776, 'support': 1033.0}, 'accuracy': 0.7149080348499516, 'macro avg': {'precision': 0.7418887332500759, 'recall': 0.7149080348499517, 'f1-score': 0.7067300728719883, 'support': 2066.0}, 'weighted avg': {'precision': 0.7418887332500759, 'recall': 0.7149080348499516, 'f1-score': 0.7067300728719882, 'support': 2066.0}}
+(array([0.87698834, 0.85294118]), array([0.80058083, 0.28073572]), array([0.83704453, 0.42243263]), array([1033, 1033]))
+merged_preds/merged_gpt4o_p2.csv
+{'precision': array([0.87698834, 0.85294118]), 'recall': array([0.80058083, 0.28073572]), 'fscore': array([0.83704453, 0.42243263]), 'support': array([1033, 1033]), 'f1': array([0.83704453, 0.42243263]), 'macro f1': 0.6297385818459533, 'accuracy': 0.5406582768635043}
+gpt4o_p2
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee      'l'     l
+2063           closed book      'l'     l
+2064           closed book        l     l
+2065           closed book      'l'     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.8769883351007424, 'recall': 0.8005808325266215, 'f1-score': 0.8370445344129555, 'support': 1033.0}, 'l': {'precision': 0.8529411764705882, 'recall': 0.2807357212003872, 'f1-score': 0.42243262927895114, 'support': 1033.0}, 'micro avg': {'precision': 0.8706157443491817, 'recall': 0.5406582768635043, 'f1-score': 0.6670647954613317, 'support': 2066.0}, 'macro avg': {'precision': 0.8649647557856652, 'recall': 0.5406582768635043, 'f1-score': 0.6297385818459533, 'support': 2066.0}, 'weighted avg': {'precision': 0.8649647557856653, 'recall': 0.5406582768635043, 'f1-score': 0.6297385818459533, 'support': 2066.0}}
+(array([0.67975831, 0.83381924]), array([0.87124879, 0.55372701]), array([0.76368265, 0.6655032 ]), array([1033, 1033]))
+merged_preds/merged_gpt35turbo_p2.csv
+{'precision': array([0.67975831, 0.83381924]), 'recall': array([0.87124879, 0.55372701]), 'fscore': array([0.76368265, 0.6655032 ]), 'support': array([1033, 1033]), 'f1': array([0.76368265, 0.6655032 ]), 'macro f1': 0.7145929234838955, 'accuracy': 0.712487899322362}
+gpt35turbo_p2
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        l     l
+2063           closed book        l     l
+2064           closed book        l     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.6797583081570997, 'recall': 0.8712487899322362, 'f1-score': 0.7636826474331778, 'support': 1033.0}, 'l': {'precision': 0.8338192419825073, 'recall': 0.5537270087124879, 'f1-score': 0.6655031995346131, 'support': 1033.0}, 'micro avg': {'precision': 0.7323383084577114, 'recall': 0.712487899322362, 'f1-score': 0.7222767419038273, 'support': 2066.0}, 'macro avg': {'precision': 0.7567887750698035, 'recall': 0.712487899322362, 'f1-score': 0.7145929234838955, 'support': 2066.0}, 'weighted avg': {'precision': 0.7567887750698035, 'recall': 0.712487899322362, 'f1-score': 0.7145929234838956, 'support': 2066.0}}
+(array([0.91423671, 0.91728213]), array([0.51597289, 0.60116167]), array([0.65965347, 0.72631579]), array([1033, 1033]))
+merged_preds/merged_gpt4o_p3.csv
+{'precision': array([0.91423671, 0.91728213]), 'recall': array([0.51597289, 0.60116167]), 'fscore': array([0.65965347, 0.72631579]), 'support': array([1033, 1033]), 'f1': array([0.65965347, 0.72631579]), 'macro f1': 0.6929846274101095, 'accuracy': 0.558567279767667}
+gpt4o_p3
+                     idiom  ... label
+0     all hell broke loose  ...     i
+1     all hell broke loose  ...     i
+2     all hell broke loose  ...     i
+3             off the hook  ...     i
+4             off the hook  ...     i
+...                    ...  ...   ...
+2061            brass ring  ...     l
+2062              busy bee  ...     l
+2063           closed book  ...     l
+2064           closed book  ...     l
+2065           closed book  ...     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.9142367066895368, 'recall': 0.515972894482091, 'f1-score': 0.6596534653465347, 'support': 1033.0}, 'l': {'precision': 0.9172821270310192, 'recall': 0.601161665053243, 'f1-score': 0.7263157894736841, 'support': 1033.0}, 'micro avg': {'precision': 0.9158730158730158, 'recall': 0.558567279767667, 'f1-score': 0.6939266386049309, 'support': 2066.0}, 'macro avg': {'precision': 0.9157594168602781, 'recall': 0.5585672797676671, 'f1-score': 0.6929846274101095, 'support': 2066.0}, 'weighted avg': {'precision': 0.915759416860278, 'recall': 0.558567279767667, 'f1-score': 0.6929846274101095, 'support': 2066.0}}
+(array([0.94292237, 0.58333333]), array([0.39980639, 0.01355276]), array([0.56152277, 0.02649007]), array([1033, 1033]))
+merged_preds/merged_gpt4o_p1.csv
+{'precision': array([0.94292237, 0.58333333]), 'recall': array([0.39980639, 0.01355276]), 'fscore': array([0.56152277, 0.02649007]), 'support': array([1033, 1033]), 'f1': array([0.56152277, 0.02649007]), 'macro f1': 0.2940064199242755, 'accuracy': 0.20667957405614715}
+gpt4o_p1
+                     idiom  ... label
+0     all hell broke loose  ...     i
+1     all hell broke loose  ...     i
+2     all hell broke loose  ...     i
+3             off the hook  ...     i
+4             off the hook  ...     i
+...                    ...  ...   ...
+2061            brass ring  ...     l
+2062              busy bee  ...     l
+2063           closed book  ...     l
+2064           closed book  ...     l
+2065           closed book  ...     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.9429223744292238, 'recall': 0.3998063891577928, 'f1-score': 0.5615227736233854, 'support': 1033.0}, 'l': {'precision': 0.5833333333333334, 'recall': 0.013552758954501452, 'f1-score': 0.02649006622516556, 'support': 1033.0}, 'micro avg': {'precision': 0.9242424242424242, 'recall': 0.20667957405614715, 'f1-score': 0.3378164556962025, 'support': 2066.0}, 'macro avg': {'precision': 0.7631278538812786, 'recall': 0.20667957405614715, 'f1-score': 0.2940064199242755, 'support': 2066.0}, 'weighted avg': {'precision': 0.7631278538812786, 'recall': 0.20667957405614715, 'f1-score': 0.2940064199242755, 'support': 2066.0}}
+(array([0.76058932, 0.78877551]), array([0.79961278, 0.74830591]), array([0.77961303, 0.76800795]), array([1033, 1033]))
+merged_preds/merged_flant5xxl_p3.csv
+{'precision': array([0.76058932, 0.78877551]), 'recall': array([0.79961278, 0.74830591]), 'fscore': array([0.77961303, 0.76800795]), 'support': array([1033, 1033]), 'f1': array([0.77961303, 0.76800795]), 'macro f1': 0.7738104866738076, 'accuracy': 0.7739593417231365}
+flant5xxl_p3
+                     idiom sentence label
+0     all hell broke loose        i     i
+1     all hell broke loose        i     i
+2     all hell broke loose        i     i
+3             off the hook        i     i
+4             off the hook        i     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        l     l
+2063           closed book        l     l
+2064           closed book        l     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.7605893186003683, 'recall': 0.7996127783155856, 'f1-score': 0.7796130250117981, 'support': 1033.0}, 'l': {'precision': 0.7887755102040817, 'recall': 0.7483059051306873, 'f1-score': 0.7680079483358171, 'support': 1033.0}, 'accuracy': 0.7739593417231365, 'macro avg': {'precision': 0.774682414402225, 'recall': 0.7739593417231365, 'f1-score': 0.7738104866738076, 'support': 2066.0}, 'weighted avg': {'precision': 0.774682414402225, 'recall': 0.7739593417231365, 'f1-score': 0.7738104866738076, 'support': 2066.0}}
+(array([0.95081967, 0.51371571]), array([0.05614714, 0.99709584]), array([0.10603291, 0.67807768]), array([1033, 1033]))
+merged_preds/merged_llama38binstruct_p3.csv
+{'precision': array([0.95081967, 0.51371571]), 'recall': array([0.05614714, 0.99709584]), 'fscore': array([0.10603291, 0.67807768]), 'support': array([1033, 1033]), 'f1': array([0.10603291, 0.67807768]), 'macro f1': 0.39205529472507294, 'accuracy': 0.526621490803485}
+llama38binstruct_p3
+                     idiom sentence label
+0     all hell broke loose        l     i
+1     all hell broke loose        l     i
+2     all hell broke loose        l     i
+3             off the hook        l     i
+4             off the hook        l     i
+...                    ...      ...   ...
+2061            brass ring        l     l
+2062              busy bee        l     l
+2063           closed book        l     l
+2064           closed book        l     l
+2065           closed book        l     l
+
+[2066 rows x 3 columns]
+this is cr:
+{'i': {'precision': 0.9508196721311475, 'recall': 0.05614714424007745, 'f1-score': 0.10603290676416821, 'support': 1033.0}, 'l': {'precision': 0.513715710723192, 'recall': 0.9970958373668926, 'f1-score': 0.6780776826859777, 'support': 1033.0}, 'accuracy': 0.526621490803485, 'macro avg': {'precision': 0.7322676914271697, 'recall': 0.526621490803485, 'f1-score': 0.39205529472507294, 'support': 2066.0}, 'weighted avg': {'precision': 0.7322676914271697, 'recall': 0.526621490803485, 'f1-score': 0.392055294725073, 'support': 2066.0}}

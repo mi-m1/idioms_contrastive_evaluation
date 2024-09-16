@@ -1,0 +1,51 @@
+idiom,sentence,label
+all hell broke loose,i,i
+all hell broke loose,i,i
+all hell broke loose,i,i
+glass ceiling,i,i
+glass ceiling,i,i
+glass ceiling,i,i
+grass root,i,i
+grass root,i,i
+grass root,"The expression 'grass root' is being used figuratively; hence, the answer is 'i'.",i
+cutting edge,i,i
+cutting edge,i,i
+cutting edge,i,i
+melting pot,'i',i
+melting pot,i,i
+melting pot,i,i
+guinea pig,i,i
+guinea pig,i,i
+guinea pig,i,i
+silver bullet,i,i
+silver bullet,i,i
+silver bullet,i,i
+ivory tower,i,i
+ivory tower,i,i
+ivory tower,i,i
+silver lining,i,i
+all hell broke loose,l,l
+all hell broke loose,'i',l
+all hell broke loose,'i',l
+glass ceiling,l,l
+glass ceiling,'l',l
+glass ceiling,'l',l
+grass root,l,l
+grass root,'l',l
+grass root,'l',l
+cutting edge,'l',l
+cutting edge,'l',l
+cutting edge,l,l
+melting pot,'l',l
+melting pot,l,l
+melting pot,l,l
+guinea pig,'l',l
+guinea pig,'l',l
+guinea pig,'l',l
+silver bullet,l,l
+silver bullet,l,l
+silver bullet,'l',l
+ivory tower,l,l
+ivory tower,'l',l
+ivory tower,"In the sentence 'They found an ivory tower in the excavation site, which seemed to be of significant historical importance.', the expression 'ivory tower' is being used literally. So, the correct response is 'l'.",l
+silver lining,'l',l

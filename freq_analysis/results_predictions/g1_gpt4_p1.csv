@@ -1,0 +1,29 @@
+idiom,sentence,label
+walk all over,i,i
+walk all over,i,i
+walk all over,"The expression 'walk all over' in the given sentence is used figuratively. Therefore, the answer is 'i'.",i
+hot and heavy,"The expression 'hot and heavy' in the sentence is used figuratively to describe the mist. Therefore, the answer is 'i' for figurative.",i
+hot and heavy,'i',i
+hot and heavy,'l',i
+strike a chord,The expression 'strike a chord' is used figuratively in the sentence: 'The Prime Minister believes that her words strike a chord with the British public.'. The correct answer is 'i'.,i
+strike a chord,"The expression 'strike another chord of apprehension' in the sentence is used figuratively.
+
+Answer: 'i'",i
+strike a chord,"The expression 'strike a chord' in the sentence is used figuratively. The sentence implies that television can evoke strong emotional responses or feelings in many people, which is a metaphorical use of ""strike a chord."" 
+
+So, the answer is: i",i
+break the back of,i,i
+break the back of,The expression 'break the back of' in the sentence 'A combination of ground and air action broke the back of the rebellion.' is used figuratively. The correct answer is 'i'.,i
+break the back of,'i',i
+walk all over,'l',l
+walk all over,'l',l
+walk all over,"The expression 'walk all over' in the sentence 'During the city tour, we had to walk all over the old town to visit all the historical monuments.' is used literally. So the answer is 'l'.",l
+hot and heavy,'l',l
+hot and heavy,'l',l
+hot and heavy,'l',l
+strike a chord,'l',l
+strike a chord,'l',l
+strike a chord,'l',l
+break the back of,'l',l
+break the back of,'l',l
+break the back of,'l',l

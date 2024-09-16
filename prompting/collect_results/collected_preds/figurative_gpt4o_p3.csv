@@ -1,0 +1,1637 @@
+idiom,sentence,label
+all hell broke loose,i,i
+all hell broke loose,"The expression 'all hell broke loose' is used figuratively in the given context. 
+
+Output: 'i'",i
+all hell broke loose,"The expression 'all hell broke loose' in the given context has a figurative meaning. Therefore, the output is 'i'.",i
+off the hook,'i',i
+off the hook,i,i
+off the hook,l,i
+against the grain,i,i
+against the grain,"The expression 'against the grain' in the context ""You ca n't start fighting and and pulling it against the grain otherwise you you would be in trouble"" holds a literal meaning. 
+
+Thus, the output is 'l'.",i
+play with fire,"The expression 'play with fire' in the given context is used in a figurative sense. Therefore, the output is:
+
+i",i
+play with fire,l,i
+play with fire,i,i
+make a killing,i,i
+make a killing,"In the context given, the expression 'make a killing' is used in a figurative sense, meaning that Dr. Ernest Dichter was very successful or made a lot of money. Therefore, the output is:
+
+i",i
+make a killing,i,i
+carry the can,i,i
+carry the can,i,i
+carry the can,Output: 'i',i
+in the doghouse,i,i
+in the doghouse,"The expression 'in the doghouse' in this context is used figuratively to imply someone is in trouble or out of favor. Therefore, the output is 'i'.",i
+in the doghouse,"The expression 'in the doghouse' in the given context is used figuratively. 
+
+So, the output is: **i**",i
+behind the scenes,i,i
+behind the scenes,l,i
+behind the scenes,i,i
+go to the wall,"The expression 'go to the wall' in the given context is being used figuratively. It means to succumb to financial difficulties or go out of business.
+
+Output: 'i'",i
+go to the wall,"The expression 'go to the wall' in this context holds a figurative meaning, as it is used to imply that the weaker parties fail or are ousted in a competitive capitalist environment. Therefore, the output is 'i'.",i
+go to the wall,i,i
+see the light of day,i,i
+see the light of day,i,i
+under the weather,"The expression 'under the weather' in the given context is used figuratively to mean that Alec is feeling ill or unwell. Therefore, the appropriate output is 'i'.",i
+under the weather,"The expression ""under the weather"" in this context is used to indicate that the speaker is feeling somewhat unwell, which is a figurative meaning rather than a literal one. Therefore, the correct output is:
+
+i",i
+under the weather,i,i
+jump through hoops,i,i
+jump through hoops,"The expression 'jump through hoops' is used figuratively in this context: 'Jumps through hoops.'. Thus, the output should be 'i'.",i
+jump through hoops,i,i
+on the horn,"The expression 'on the horn' in the given context holds figurative meaning because it describes being in a difficult situation or facing a dilemma, rather than literally being on an actual horn.
+Output: i",i
+on the horn,i,i
+to the bone,i,i
+to the bone,i,i
+push the envelope,i,i
+push the envelope,i,i
+look on the bright side,i,i
+look on the bright side,i,i
+up to here,"Given the context provided, the expression 'up to here' is used figuratively. It implies that they have an excessive or overwhelming amount of woolies (woolen clothing), not that something is literally reaching a certain physical level. Therefore, the output is:
+
+i",i
+up to here,i,i
+up to here,i,i
+night and day,"In the given context, the expression 'night and day' is used to indicate that their property was invaded continuously or at all times. This usage is figurative. Therefore, the correct output is 'i'.",i
+night and day,"In the given context, 'night and day' refers to the actual periods of time spent fishing for carp, indicating that the fishermen fish continuously over several nights and days. Therefore, the expression holds a literal meaning.
+
+Output: l",i
+head for the hills,'l',i
+head for the hills,i,i
+head for the hills,i,i
+pass the buck,i,i
+pass the buck,i,i
+rise from the ashes,"The expression 'rise from the ashes' is used figuratively in this context. Therefore, the output is 'i'.",i
+rise from the ashes,i,i
+rise from the ashes,i,i
+meat and potatoes,i,i
+meat and potatoes,"The expression 'meat and potatoes' in this context holds figurative meaning. It uses 'meat and potatoes' to describe someone with simple, traditional tastes, particularly in food. Therefore, the output is 'i'.",i
+meat and potatoes,"The expression 'meat and potatoes' holds a figurative meaning in the given context. It implies focusing on the basics or essentials rather than more sophisticated or elaborate options.
+
+Output: i",i
+in bed with,i,i
+in bed with,"The expression 'in bed with' in this context holds a literal meaning. Therefore, the output is 'l'.",i
+in bed with,"Given the sentence: ""But she remembered the sight of him in bed with that would-be starlet and fought the impulse, staring angrily at him instead,"" I would determine that the expression 'in bed with' holds a literal meaning in this context.
+
+So the output would be: 'l'",i
+in the pink,"Certainly! Let's analyze the context of the expression carefully:
+
+1. If 'in the pink' is used to describe someone being in excellent health or condition, then it holds a **figurative** meaning. (Output: 'i')
+   
+2. If 'in the pink' is used to describe someone or something literally being in a pink color or environment, then it holds a **literal** meaning. (Output: 'l')
+
+So for the provided context 'In the Pink', you would need to determine if it refers to a state of health or condition (figurative) or if it is describing an actual pink color (literal). If no additional context is provided, it would typically default to the figurative meaning since that is the more common use. 
+
+Given the general understanding without extra context, the output would be: **'i'**.",i
+in the pink,'i',i
+in the pink,l,i
+go to town,"The expression ""go to town"" can be used both literally and figuratively. To determine which meaning it holds in the given context, let's analyze the sentence:
+
+""Well Viv is stopping in, you're going to town.""
+
+The phrase ""stopping in"" suggests someone (Viv) is coming to visit or make a brief stop. The context isn't providing a direct reason to interpret ""going to town"" literally—like mentioning errands, shopping, or visiting specific places in town.
+
+On the other hand, if ""you're going to town"" was followed by additional details indicating spirited or enthusiastic action (a figurative usage), it would normally provide some context like, ""you're going to town on that project."" However, the sentence isn't using such phrasing either.
+
+Given the absence of clear figurative language and typical literal cues, and assuming the example sentence is part of a typical, mundane scenario, it's plausible to default to the literal interpretation of ""going to town"" as simply visiting the town.
+
+Therefore, the answer would be:
+'l'",i
+go to town,'l',i
+go to town,i,i
+heart of gold,i,i
+heart of gold,"The expression 'heart of gold' in the context provided is used figuratively to describe the whore as having a good, kind, or generous nature despite the apparent negative connotation of her profession. Therefore, the output is:
+
+i",i
+heart of gold,i,i
+par for the course,i,i
+par for the course,i,i
+par for the course,"Output: i
+
+The expression 'par for the course' in this context is used figuratively to mean that something is typical or expected in television write-offs.",i
+out of line,l,i
+out of line,"The expression 'out of line' in the context 'Way out of line, I don't know where you work that one out!' holds figurative meaning. It suggests that someone's behavior or comment is inappropriate or unacceptable. Hence, the output is 'i'.",i
+out of line,i,i
+stay the course,"The expression 'stay the course' in the context of 'But despite the appalling conditions, most crews stayed the course and out of 72 rafts competing, 59 made it to the finish at Chepstow,' holds a literal meaning because it directly refers to crews continuing on their course through the competition. 
+
+Output: l",i
+stay the course,i,i
+stay the course,"The expression 'stay the course' in the context 'There were also moments of great concern about whether the allies would be willing to stay the course as the days, weeks, and months passed, with no end in sight.' holds figurative meaning. Therefore, the output is 'i'.",i
+smoke and mirrors,i,i
+smoke and mirrors,i,i
+get to the bottom of,i,i
+get to the bottom of,Output: i,i
+get to the bottom of,i,i
+by the book,i,i
+by the book,i,i
+in your face,i,i
+in your face,"The expression 'in your face' in the context 'Still getting angry when someone throws some truth in your face?’ is used figuratively. 
+
+Output: i",i
+in your face,i,i
+in the black,"The expression 'in the black' holds figurative meaning in this context. The phrase 'in the black' typically refers to being profitable or having a positive financial balance. In this sentence, it means that the group is overall financially profitable due to income from certain sources. The correct output is 'i'.",i
+in the black,"The expression 'in the black' typically holds a figurative meaning when used in financial contexts, indicating profitability or a positive financial situation.
+
+Given the context: 'City : Quicks in black', it appears that the expression ‘in black’ is used figuratively to indicate that the entity (Quicks) within the city is financially profitable or doing well.
+
+So, the output should be 'i'.",i
+in the black,i,i
+hit the nail on the head,i,i
+hit the nail on the head,"The expression 'hit the nail on the head' in this context holds figurative meaning. 
+
+Output: i",i
+in the driving seat,"The expression 'in the driving seat' is used figuratively in the context: 'In the driving seat to replace whoever goes down are London Scottish .'. Therefore, the output is 'i'.",i
+in the driving seat,i,i
+in the driving seat,i,i
+join the club,l,i
+join the club,"The expression 'join the club' in the context 'If you're confused, join the club!' holds figurative meaning, as it implies that the speaker and others also share the same feeling of confusion, and it is not an invitation to join an actual club. Therefore, the output is 'i'.",i
+join the club,l,i
+walk the plank,i,i
+walk the plank,i,i
+eat humble pie,"The expression 'eat humble pie' in the provided context holds a figurative meaning. Therefore, the output is 'i'.",i
+eat humble pie,i,i
+eat humble pie,i,i
+up the river,"The expression 'sold you up the river' in the context 'And number three; you've signed your way into a deal you know nothing about and which has almost certainly sold you up the river.' holds figurative meaning. 
+
+Output: i",i
+up the river,"The expression 'up the river' in this context is used to refer to being sent to prison. It originates from the idea of prisoners being sent to prisons that were situated up the Hudson River from New York City, notably Sing Sing. Given the context of being framed, dealing with cops, and getting a reprieve from the governor, it indicates a literal meaning related to incarceration. Therefore, the output should be 'l'.",i
+up the river,"In the given context, the expression 'up the river' is used literally. It refers to the location of Hussey's two fat manors, which are situated up the river.
+
+Therefore, the output is 'l'.",i
+circle the wagons,"The expression 'circle the wagons' holds figurative meaning in the given context 'Circling the wagons'. So, the output should be:
+
+i",i
+look the part,"The expression 'look the part' in the given context holds a figurative meaning. Therefore, the output is 'i'.",i
+look the part,i,i
+look the part,i,i
+moment of truth,Output: i,i
+all bets are off,'i',i
+all bets are off,"The expression 'all bets are off' in the context 'In that case , they say , all bets are off for co - operation on the budget next year .' holds a figurative meaning. Therefore, the output is:
+
+i",i
+knock someone's socks off,"The expression 'knock someone's socks off' is used in a figurative sense in the context given. It implies that Lil's appearance or presence is very impressive or astonishing, rather than literally causing someone's socks to come off. 
+
+Therefore, the output is 'i'.",i
+on the side of the angels,"The expression 'on the side of the angels' in this context holds figurative meaning. The phrase is used to mean that the townspeople would be aligning themselves with goodness or moral righteousness after the destruction of the embodiment of evil.
+
+Output: i",i
+on the side of the angels,Output: 'i',i
+on the side of the angels,i,i
+jump on the bandwagon,"The expression 'jump on the bandwagon' in the given context holds a **figurative** meaning. Thus, the output is:
+
+```
+i
+```",i
+jump on the bandwagon,"The expression 'jump on the bandwagon' holds figurative meaning in this context.
+
+Output: 'i'",i
+jump on the bandwagon,i,i
+turn the other cheek,i,i
+raise the roof,i,i
+raise the roof,l,i
+raise the roof,i,i
+do the right thing,i,i
+do the right thing,l,i
+do the right thing,i,i
+on the square,i,i
+on the square,"The expression 'on the square' in the context 'He 's on the square.' holds a figurative meaning, so the output is 'i'.",i
+on the square,"In the given context, the expression 'on the square' is used to describe the hotel's physical location, specifically indicating that it is situated on a square—a flat, open public space typically found in urban areas.
+
+Thus, the expression holds a literal meaning.
+
+Output: `l`",i
+pick up the pieces,"The expression 'pick up the pieces' in this context holds a figurative meaning. Therefore, the output is 'i'.",i
+pick up the pieces,l,i
+pick up the pieces,i,i
+touch and go,i,i
+off and running,"The expression 'off and running' in the given context is used figuratively. It means that the new point-to-point season has started successfully. Therefore, the output is:
+
+i",i
+off and running,"The expression 'off and running' in this context holds a figurative meaning. So, the output is 'i'.",i
+off and running,"The expression 'off and running' in this context holds a figurative meaning. Therefore, the output is:
+
+i",i
+horses for courses,Output: i,i
+horses for courses,"The expression 'horses for courses' typically means that different people (or things) are suitable for different tasks or situations. In the given context: ""If ever there was a case for the old adage ‘horses for courses’, ‘Strip Search’ was it!"", the phrase is used figuratively to suggest that 'Strip Search' was particularly well-suited for the situation or task at hand.
+
+So, the output should be 'i' for figurative meaning.",i
+horses for courses,"The expression 'horses for courses' generally means that people or things perform better when they are put in suitable conditions or roles that match their strengths and abilities. Here's how you can apply the rule to determine if the context holds figurative or literal meaning:
+
+1. Determine if the context is talking about actual horses and racecourses or just using the phrase metaphorically.
+2. If the context refers to actual horses being suited to specific racing tracks, output 'l' (literal meaning).
+3. If the context refers to the idea that people or things are best suited to specific roles or situations, output 'i' (figurative meaning).
+
+Let's consider a few examples:
+
+Example 1:
+- ""When assigning tasks, remember it's horses for courses; everyone has different strengths.""
+  - This is figurative, so output 'i'.
+
+Example 2:
+- ""The new thoroughbred was the favorite on this track. It's a clear 'horses for courses' scenario.""
+  - This is literal, so output 'l'.
+
+In your prompt: 
+
+- If the expression 'horses for courses' is used to talk about roles, situations, or suitability in a metaphorical sense, output 'i'.
+- If it is used in the context of actual horses and racecourses, output 'l'.",i
+wipe the slate clean,i,i
+wipe the slate clean,i,i
+wipe the slate clean,i,i
+hit the jackpot,i,i
+hit the jackpot,i,i
+hit the jackpot,i,i
+round the bend,i,i
+round the bend,i,i
+round the bend,"The expression 'round the bend' in the provided context means that something is literally going around a curve or corner in the river. It describes the physical movement and disappearance of the froth from view as it travels along the river's bend. 
+
+Output: **l**",i
+go for the jugular,"The expression 'go for the jugular' in the context 'Watching the children together gave reassurance that childhood is not all one-upmanship and go-for-the-jugular.' holds figurative meaning.
+
+Output: `i`",i
+go for the jugular,"The expression 'go for the jugular' in the given context holds figurative meaning, as it implies that Ven would be extremely aggressive or ruthless in his response to the deception, not that he would literally attack her jugular vein. Therefore, the output is 'i'.",i
+go for the jugular,i,i
+nip and tuck,i,i
+nip and tuck,"The expression 'nip and tuck' in the context 'It was nip and tuck up to 7 - 7 before Best opened up a 12 - 9 lead.' is used figuratively. It means that the competition or contest was very close or evenly matched up to the point where the score was 7 - 7.
+
+Output: i",i
+nip and tuck,i,i
+throw the baby out with the bathwater,i,i
+throw the baby out with the bathwater,Output: 'i',i
+out of order,i,i
+out of order,i,i
+out of order,"The expression 'out of order' in the context of 'That question was not out of order.' holds a figurative meaning. Therefore, the output is 'i'.",i
+muddy the waters,"The expression 'muddy the waters' in the sentence 'It has also sent the West numerous doubtful and bogus defectors to muddy the waters .' holds a figurative meaning. Therefore, the output is:
+
+i",i
+muddy the waters,i,i
+muddy the waters,"The expression 'muddy the waters' in this context holds figurative meaning, so the output is 'i'.",i
+move the goalposts,i,i
+move the goalposts,"The expression 'move the goalposts' is generally used figuratively to describe changing the criteria for success or the rules of a situation in a way that makes it harder for someone to achieve an objective they were on the path to achieving. 
+
+In the context you've provided, 'Moving the goalposts', it suggests a figurative meaning unless there is specific context to indicate a literal meaning (like physically relocating goalposts on a sports field). 
+
+Given no additional specific context, the expression 'Moving the goalposts' holds a figurative meaning. Therefore, the output is 'i'.",i
+move the goalposts,i,i
+hair of the dog,"The expression 'hair of the dog' in the context '‘I should think it starts when you need a hair of the dog the next morning.’' holds a figurative meaning. Therefore, the output is 'i'.",i
+hair of the dog,i,i
+hair of the dog,'l',i
+have someone's number,i,i
+neither here nor there,i,i
+neither here nor there,"The expression 'neither here nor there' in the context provided - 'oh well that 's neither here nor there so treating' - holds figurative meaning. The phrase generally means that something is irrelevant or unimportant to the matter at hand.
+
+Output: i",i
+neither here nor there,i,i
+out of the woods,i,i
+out of the woods,"The expression 'out of the woods' in the given context 'They were n't out of the woods yet — far from it .' holds figurative meaning. Thus, the output is:
+
+i",i
+out of the woods,i,i
+sit on the fence,"The expression 'sit on the fence' in this context holds a figurative meaning, as it refers to being indecisive or not taking sides in a situation. Therefore, the output is:
+
+i",i
+sit on the fence,The expression 'sit on the fence' in the given context holds a figurative meaning. Output 'i'.,i
+sit on the fence,i,i
+keep the peace,"The expression 'keep the peace' in the context 'However, the scramble to keep the peace went on.' holds a figurative meaning.
+
+Therefore, the output is: 'i'",i
+keep the peace,l,i
+six feet under,i,i
+six feet under,"The expression 'six feet under' in the context '‘As a fund-raiser, you can never take no for an answer and no one was going to put me six feet under.’' holds figurative meaning.
+
+Output: i",i
+six feet under,i,i
+dead and buried,i,i
+dead and buried,i,i
+dead and buried,i,i
+down in the dumps,i,i
+down in the dumps,l,i
+down in the dumps,"Output: **i**
+
+The expression ""down in the dumps"" is a figurative phrase meaning feeling sad or depressed, rather than literally being physically down in a refuse area.",i
+know the score,i,i
+know the score,"The expression 'know the score' used in the context 'I know the score , like they say .' holds a figurative meaning. Therefore, the output is:
+
+i",i
+know the score,i,i
+oil and water,i,i
+oil and water,"Sure, please provide the full context in which the expression 'oil and water' is used so I can determine whether it holds a figurative or literal meaning.",i
+oil and water,'l',i
+add fuel to the fire,i,i
+add fuel to the fire,Output: 'i',i
+add fuel to the fire,'i',i
+power behind the throne,"The expression 'power behind the throne' in the given context holds a figurative meaning. Therefore, the output is 'i'.",i
+power behind the throne,The output is 'i'.,i
+power behind the throne,i,i
+blood and guts,l,i
+blood and guts,"The expression 'blood and guts' in this context holds literal meaning. The sentence refers to videos that contain actual scenes of violence and gore which have a controlling effect on the students. 
+
+Output: l",i
+blood and guts,'i',i
+strike while the iron is hot,i,i
+strike while the iron is hot,"In the expression 'Strike while the iron is hot .', the phrase is used figuratively to mean taking advantage of an opportunity while it is available. Therefore, the output should be:
+
+i",i
+on the hop,'i',i
+on the hop,"In this context, the expression 'on the hop' holds a figurative meaning. 'i'",i
+on the hop,"The expression 'on the hop' in the context 'It 's always a good idea to keep them on the hop.' is used figuratively. Therefore, the output is:
+
+i",i
+all over the map,"The expression 'all over the map' holds a figurative meaning in this context. Therefore, the output is 'i'.",i
+all over the map,i,i
+all over the map,"The expression 'all over the map' holds figurative meaning in this context, so the output is 'i'.",i
+let the cat out of the bag,i,i
+let the cat out of the bag,i,i
+let the cat out of the bag,i,i
+blaze a trail,"The expression 'blaze new trails' in the context of 'bounce back when things go wrong and find new pathways, blaze new trails' holds figurative meaning.
+
+Output: i",i
+blaze a trail,'l',i
+blaze a trail,i,i
+on the bounce,"The expression 'on the bounce' is used figuratively. The phrase in the context describes the energetic and rhythmic way the music is played or introduced, rather than describing a physical bounce.
+
+So, the output is:
+
+`i`",i
+on the bounce,Output: l,i
+on the bounce,i,i
+at a canter,l,i
+at a canter,"The expression 'at a canter' in the context given—'At a canter, students tackle hurdles in equine science, horsemastership, stud operation and showing horses.'—holds a figurative meaning. Since it describes students handling various academic and practical challenges with ease and smooth progression, akin to a horse moving at a moderate, controlled pace.
+
+So, the output would be 'i'.",i
+at a canter,l,i
+out to lunch,"The expression 'out to lunch' in the context 'Round the bend , out to lunch .' is used figuratively. Therefore, the output is:
+
+i",i
+out to lunch,i,i
+out to lunch,"The expression 'out to lunch' in the given context holds a figurative meaning, as it's used to describe Morrissey as being somewhat detached from reality or out of touch. Therefore, the output is 'i'.",i
+twist someone's arm,'i',i
+twist someone's arm,"To determine whether the expression 'twist my arm!' holds a figurative or literal meaning in this context, we need to understand the typical usage of the phrase. Generally, ""twist someone's arm"" is an idiomatic or figurative expression meaning to strongly persuade or pressure someone into doing something they may not want to do initially.
+
+If the phrase 'Twist my arm!' is used in a context indicating that the speaker is being persuaded or convinced, then it holds a figurative meaning and the output should be 'i'.
+
+If it indicates that someone is physically grabbing and twisting their arm, then it holds a literal meaning and the output should be 'l'.
+
+In most cases, ""Twist my arm!"" tends to be used figuratively to suggest that the speaker is being persuaded or pretending to need persuasion (often sarcastically or playfully suggesting that they don't actually need much convincing).
+
+Therefore, without additional context, the typical usage suggests the phrase is more likely figurative:
+Output: 'i'",i
+twist someone's arm,'l',i
+swings and roundabouts,i,i
+swings and roundabouts,i,i
+swings and roundabouts,i,i
+on the ball,"The expression 'on the ball' in the given context 'Apes do n't understand profit and in any case can never keep their eye on this ball .' holds figurative meaning.
+
+Output: 'i'",i
+on the ball,i,i
+rob Peter to pay Paul,The expression 'rob Peter to pay Paul' holds figurative meaning in this context. Output 'i'.,i
+rob Peter to pay Paul,"The expression 'rob Peter to pay Paul' generally holds a figurative meaning. It refers to the act of taking resources from one area to cover a deficiency in another, creating a problem in the place where resources were taken from. In the context 'rob Peter to pay Paul as usual', the phrase is being used to describe a repeated or habitual action of this nature.
+
+Therefore, the output is ""i"".",i
+rob Peter to pay Paul,i,i
+ring a bell,i,i
+ring a bell,i,i
+ring a bell,i,i
+to die for,"Given the phrase 'CONDEMNED TO DIE FOR A DRINK,' the use of 'to die for' in this context suggests a literal meaning. Therefore, the output should be 'l'.",i
+to die for,i,i
+to die for,i,i
+everything but the kitchen sink,"The expression 'everything but the kitchen sink' in this context holds a figurative meaning. So, the output is 'i'.",i
+spend a penny,"The expression ""spend a penny"" is a British euphemism that means to use the toilet.
+
+In the given context: ""In the other … you might just as well try to go to sleep when your feet are cold or you want to spend a penny, or you 're hungry for a special kind of food you have n't got.""
+
+The expression is referring to the literal need to use the toilet, which can be an obstacle to falling asleep, similar to being cold or hungry.
+
+The output should be 'l' for literal meaning.",i
+spend a penny,i,i
+spend a penny,'l',i
+in black and white,i,i
+in black and white,"The expression 'in black and white' in this context holds figurative meaning.
+
+Output: i",i
+in black and white,i,i
+doom and gloom,i,i
+doom and gloom,i,i
+doom and gloom,i,i
+keep tabs on,"The expression 'keep tabs on' in the given context holds a figurative meaning, as it implies monitoring or keeping track of someone's actions or behavior rather than having physical tabs or labels. Therefore, the output is 'i'.",i
+keep tabs on,i,i
+keep tabs on,"The expression 'keep tabs on' in the context 'A psychologist will keep tabs on teams of youngsters and will stop the operation if they show signs of stress.' is used figuratively to mean that the psychologist will monitor or keep a close watch on the teams' condition. 
+
+Output: i",i
+get the picture,l,i
+get the picture,i,i
+get the picture,"The expression 'get a picture of what engineering was really like' in this context holds a figurative meaning. Therefore, the output is 'i'.",i
+look the other way,"The expression ""look the other way"" in the given context holds a figurative meaning. Therefore, the output is 'i'.",i
+look the other way,"The expression 'look the other way' in this context holds figurative meaning. Therefore, the output is:
+
+i",i
+look the other way,"The expression 'look the other way' in the given context holds a figurative meaning. Therefore, the correct output is:
+
+i",i
+burst someone's bubble,i,i
+burst someone's bubble,i,i
+burst someone's bubble,i,i
+fall in line,i,i
+fall in line,'l',i
+fall in line,i,i
+water under the bridge,"The expression ""water under the bridge"" in this context holds a figurative meaning. So, the output is:
+
+i",i
+water under the bridge,i,i
+water under the bridge,i,i
+keep a lid on,Output: i,i
+keep a lid on,i,i
+keep a lid on,Output: i,i
+down the drain,"The correct output is 'i'. In this context, ""down the drain"" is used figuratively to mean that family life is deteriorating or being wasted due to the situation described.",i
+down the drain,i,i
+down the drain,"The expression 'down the drain' in the context given holds figurative meaning. Thus, the output is 'i'.",i
+make the cut,i,i
+make the cut,"Output: l
+
+In this context, 'make the cut' is used in the literal sense of making reductions or cuts in spending.",i
+make the cut,l,i
+free and easy,"The expression ""free and easy"" in this context holds a figurative meaning. Therefore, the output is:
+
+i",i
+free and easy,"Output: i
+
+The expression 'free and easy' in this context holds a figurative meaning. It suggests that Alamena is being too casual, overly familiar, or too relaxed in her interactions with people, which Boz's wife disapproves of.",i
+free and easy,"The expression 'free and easy' in the context 'Villa Sylvia — free and easy holiday style' holds figurative meaning. Thus, the output is 'i'.",i
+with a vengeance,"The expression 'with a vengeance' in this context holds figurative meaning, so the output is 'f'.",i
+cut both ways,l,i
+cut both ways,"The expression 'cut both ways' in the given context holds a figurative meaning. It is being used to indicate that the issue of hardship could have effects or implications in opposite directions depending on the circumstances. Therefore, the output is 'i'.",i
+cut both ways,"The expression 'cut both ways' in this context holds figurative meaning. Therefore, the output is 'i'.",i
+sing the praises of,i,i
+sing the praises of,i,i
+sing the praises of,i,i
+hold the line,"The expression 'hold the line' in the context 'Just hold the line .' holds a literal meaning.
+
+Output: l",i
+pull the plug,i,i
+pull the plug,i,i
+pull the plug,i,i
+make a move,l,i
+make a move,i,i
+make a move,i,i
+make a meal of,"The expression 'make a meal of' in the given context holds a literal meaning. Thus, the output is 'l'.",i
+make a meal of,"The expression 'make a meal of' in the given context holds figurative meaning. Therefore, the output is 'i'.",i
+make a meal of,"The expression 'make a meal of' in the context 'The police would go through the motions, but they wouldn't make a meal of it' holds a figurative meaning. Therefore, the output is 'i'.",i
+the icing on the cake,i,i
+the icing on the cake,i,i
+the icing on the cake,i,i
+in the red,i,i
+in the red,i,i
+in the red,"The expression 'in the red' in the context 'And that 's why the Ross on Wye firm say its business is booming , while Jensen is more than half a million pounds in the red .' holds a figurative meaning, as it refers to Jensen being in debt or operating at a financial loss.
+
+Output: i",i
+feel the pinch,i,i
+feel the pinch,i,i
+feel the pinch,"The expression 'feel the pinch' in this context is being used figuratively to describe experiencing financial pressure or difficulty due to Compaq Computer Corp's recent price reductions.
+
+Output: 'i'",i
+under the microscope,Output: i,i
+under the microscope,i,i
+under the microscope,i,i
+pay the piper,i,i
+pay the piper,"The expression 'pay the piper' in the context 'Is it time to pay the piper.' holds a figurative meaning. Therefore, the output is 'i'.",i
+pay the piper,"The expression 'pay the piper' is generally used in a figurative sense, meaning to face the consequences of one's actions or to bear the cost of something that one has decided. So, in most contexts where it appears as 'Who pays the piper ...', it likely holds a figurative meaning.
+
+Therefore, the output should be:
+
+```
+i
+```",i
+on the trot,"The expression 'on the trot' in the given context means 'consecutively' or 'in a row.' Since it is used to describe someone coming over for five weekends in a row, it holds a literal meaning. Therefore, the output is:
+
+l",i
+on the trot,"The expression 'on the trot' in this context holds figurative meaning. The phrase 'on the trot' means 'in succession' or 'consecutively'. Therefore, the appropriate output is 'i'.",i
+on the trot,"Output: 'i'
+
+The expression 'on the trot' in this context holds a figurative meaning, indicating consecutive occurrences or a sequence.",i
+peaches and cream,i,i
+peaches and cream,"The expression 'peaches and cream' in the context provided holds a figurative meaning. The phrase 'peaches and cream complexion' is a way to describe a smooth, fair, and rosy skin tone that resembles the appearance of peaches and cream. Therefore, the output is:
+
+'i'",i
+toe the line,i,i
+toe the line,i,i
+grasp the nettle,i,i
+grasp the nettle,i,i
+grasp the nettle,i,i
+high and mighty,i,i
+high and mighty,"The expression 'high and mighty' in the context 'I 'm a respectable woman , and I wo n't have no ‘ goings on’ , not if you were ever so high and mighty , the pair of you.' holds a figurative meaning.
+
+Output: i",i
+high and mighty,i,i
+in the hole,"The expression 'in the hole' in this context holds a figurative meaning. It refers to being in a difficult financial situation. Therefore, the output is:
+
+i",i
+in the hole,"The expression 'in the hole' in the given context holds figurative meaning. Therefore, the output is:
+
+i",i
+in the hole,i,i
+take the fall,"Based on the given context, ""'But, of course, it would be delightful if she took a fall.'"", the expression 'take a fall' is likely used figuratively. It suggests hoping for someone's downfall or failure, rather than meaning a literal physical fall. Therefore, the output is:
+
+i",i
+take the fall,"The expression 'take the fall' in the given context holds a **literal** meaning. The person is referring to physically falling or getting hit, likely as part of performances in a Black Comedy show, and is questioning whether the sign-carrying individuals outside could endure the physical demands associated with these falls.
+
+So, the correct output is 'l'.",i
+take the fall,Output: 'l',i
+in the offing,'i',i
+in the offing,i,i
+in the offing,'i',i
+ride roughshod over,"The expression 'ride roughshod over' in the given context is used figuratively. The phrase means to treat someone or something with disdain or to act without regard for others' rights or feelings. In this context, it suggests that a certain group is disregarding the legislative branch and attempting to govern without involving Congress.
+
+Output: i",i
+ride roughshod over,i,i
+ride roughshod over,i,i
+crash and burn,i,i
+crash and burn,Output: 'i',i
+crash and burn,i,i
+dyed in the wool,i,i
+dyed in the wool,i,i
+dyed in the wool,i,i
+fight fire with fire,i,i
+fight fire with fire,i,i
+fight fire with fire,i,i
+all over the place,"The expression 'all over the place' in the context 'I saw the evidence with my own eyes , Melanie wearing only a dressing-gown , her hair all over the place .' refers to Melanie's hair being messy and disordered. This suggests a literal description of the physical state of her hair.
+
+So the correct output is:
+
+'l'",i
+all over the place,"The expression 'all over the place' in the given context holds a figurative meaning. It is used here to indicate widespread or scattered occurrences of soldiers and their weapons and equipment getting burned and melted.
+
+Output: i",i
+all over the place,i,i
+grind to a halt,i,i
+grind to a halt,"The expression 'grind to a halt' in the given context holds a figurative meaning. Therefore, the output is:
+
+i",i
+grind to a halt,i,i
+in a nutshell,i,i
+in a nutshell,i,i
+rise and shine,i,i
+take a back seat,i,i
+take a bath,"Based on the context provided, 'KEWILL TAKES BATH ON GERMAN UNIT', the expression 'take a bath' likely holds a figurative meaning.
+
+In financial and business contexts, 'take a bath' is a slang phrase that means to experience a significant financial loss or defeat. It seems like the headline is referring to the company Kewill experiencing a major loss or setback with their German unit.
+
+Therefore, the output is:
+
+'i'",i
+take a bath,"The expression 'take an early bath from his marriage' holds a figurative meaning in the given context, indicating that he was ready to end his marriage prematurely to have an affair with soccer writer Suzannah Dwyer. Therefore, the output is 'i'.",i
+take a bath,"The expression 'take a bath' in the context given—'The honoured guest will doubtless not be encouraged to take a crowd bath'—is used figuratively. It suggests that the honored guest will not be encouraged to immerse themselves in a crowded or overwhelming situation.
+
+Output: 'i'",i
+bury the hatchet,The expression 'bury the hatchet' in the given context holds figurative meaning. Output 'i'.,i
+bury the hatchet,"The expression 'bury the hatchet' in the context given holds figurative meaning. The phrase is used to indicate that the two men resolved their differences and made peace. Therefore, the output is 'i'.",i
+in the soup,"In this context, 'in the soup' holds a **literal** meaning. The term ""primordial soup"" refers to the mixture of organic molecules in the early Earth's oceans, which is thought to have led to the emergence of life. Here, the expression is being used to describe a specific scientific concept rather than a metaphorical situation.
+
+Output: **l**",i
+in the soup,"Based on the context provided, the expression 'in the soup' appears to be used in a figurative manner. Hal is likely using it to describe putting Barney in a difficult or uncomfortable situation, rather than literally placing him in a bowl of soup. Therefore, the correct output is 'i'.",i
+in the soup,i,i
+grease the wheels,i,i
+grease the wheels,"The expression 'grease the wheels' in this context holds a figurative meaning. The sentence implies that the US took actions to facilitate or make the operations of its financial sector smoother or easier, rather than taking more substantial or decisive measures.
+
+Output: i",i
+grease the wheels,i,i
+apples and oranges,"The expression 'apples and oranges' typically holds a figurative meaning, representing things that are fundamentally different and thus not comparable. In the context ""It's apples and oranges,"" the expression is most likely being used figuratively.
+
+So, the output would be: 'i'.",i
+apples and oranges,i,i
+follow in someone's footsteps,i,i
+follow in someone's footsteps,"The expression 'follow in someone's footsteps' in the context 'The pianist is Michael Garrick and altoist Martin Hathaway has the daunting task of following in Harriott's footsteps' holds figurative meaning. 
+
+Output: i",i
+follow in someone's footsteps,i,i
+under the wire,i,i
+under the wire,"The expression 'under the wire' in this context holds figurative meaning. Therefore, the output is 'i'.",i
+under the wire,"The expression 'under the wire' in the given context is used figuratively. Therefore, the output is:
+
+i",i
+out of the blue,i,i
+out of the blue,i,i
+out of the blue,i,i
+over the moon,"The expression 'over the moon' in the given context is used figuratively to mean extremely happy or delighted. Therefore, the output is 'i'.",i
+over the moon,"The expression 'over the moon' in the context 'Shortly before flying back , young Robins was reunited with his father , who declared : ‘ I 'm over the moon .' holds a figurative meaning. The father is expressing extreme happiness or joy.
+
+Output: i",i
+throw down the gauntlet,Output: 'i',i
+throw down the gauntlet,"The expression 'throw down the gauntlet' is used in a figurative sense in the context provided. It means that Bobby Ferguson challenged Colin Pascoe, rather than literally throwing down a glove as a challenge.
+
+Output: 'i'",i
+take the bull by the horns,i,i
+take the bull by the horns,i,i
+take the bull by the horns,"The expression 'take the bull by the horns' in this context holds a figurative meaning. The term is used to describe someone tackling a difficult situation or problem directly and with resolve. So, the output is 'i'.",i
+over the top,i,i
+over the top,i,i
+over the top,i,i
+sweetness and light,i,i
+sweetness and light,The expression 'sweetness and light' in this context holds a figurative meaning. Output 'i'.,i
+behind someone's back,"The expression 'behind her back' is used in a figurative sense in this context. It implies that the person was engaging in dishonest or secretive behavior without her knowledge.
+
+Output: i",i
+behind someone's back,i,i
+on the ropes,i,i
+take the cake,i,i
+dig up dirt,"The expression 'dig up dirt' in the given context holds a figurative meaning, so the output is 'i'.",i
+dig up dirt,i,i
+dig up dirt,i,i
+left and right,"The expression 'left and right' in the context 'Left and right we turned under the sick orange of the streetlights, then stopped' is used in a literal sense to describe the physical directions taken while turning. Therefore, the output is 'l'.",i
+dead in the water,"The expression 'dead in the water' in the context 'Thatcherism is dead in the water — whoever wins' holds a figurative meaning because it implies that Thatcherism is no longer viable or effective, regardless of the outcome of an event. It is not literally referring to something being dead in water. Therefore, the output is 'i'.",i
+dead in the water,l,i
+dead in the water,i,i
+take no prisoners,"The expression 'take no prisoners' can have both figurative and literal meanings depending on the context. Here's how to determine the meaning in the given context:
+
+If the context implies a literal situation, such as a military or combat scenario where actual prisoners are captured or not captured, then it holds a **literal** meaning. 
+
+If the context suggests a figurative usage, such as describing a person's uncompromising, relentless approach to a task or situation, it holds a **figurative** meaning. 
+
+In the given sentence 'No prisoners were taken.', without additional context specifying whether this is a literal battle or a figurative statement about behavior, it's challenging to definitively determine the meaning. However, the phrase ""no prisoners were taken"" tends to be more commonly understood as a literal statement unless indicated otherwise.
+
+Thus, given the phrase alone: 'No prisoners were taken.', the output should be 'l' for literal.",i
+run out of steam,i,i
+take a hike,"The expression 'take a hike' in the given context is used figuratively to mean 'leave' or 'go away.' Therefore, the output is:
+
+i",i
+take a hike,"The expression 'take a hike' in the context 'Let the Pyramid Pooper take a hike just this once, eh?' holds a figurative meaning. It suggests that someone should go away or leave the situation rather than literally going on a hike.
+
+Output: 'i'",i
+take a hike,i,i
+go the extra mile,i,i
+under a cloud,"The expression 'under a cloud' in this context holds a figurative meaning. Therefore, the output is 'i'.",i
+under a cloud,i,i
+under a cloud,"The expression 'under a cloud' in the context given holds figurative meaning. So the output is:
+
+'i'",i
+in someone's pocket,"The expression 'in someone's pocket' in the given context holds figurative meaning. Therefore, the correct output is 'i'.",i
+in someone's pocket,'l',i
+in someone's pocket,"The expression 'in someone's pocket' in the context 'Keeps Biff in his pocket, everybody knows that.' holds a figurative meaning. Therefore, the output is 'i'.",i
+on the shelf,"The expression 'on the shelf' in the given context holds a figurative meaning. It implies that the person is being regarded as no longer desirable or eligible for marriage. Therefore, the output is:
+
+'i'",i
+on the shelf,i,i
+on the shelf,'l',i
+pound the pavement,'l',i
+cut and thrust,i,i
+cut and thrust,i,i
+song and dance,l,i
+song and dance,i,i
+song and dance,"The expression 'song and dance' in the context '‘Burra has not made a song and dance about how it has been affected,’ he said.' holds a figurative meaning. Therefore, the output is 'i'.",i
+turn the tables,i,i
+turn the tables,i,i
+over the hill,i,i
+over the hill,i,i
+over the hill,i,i
+out of the loop,i,i
+drop the ball,i,i
+the buck stops here,"The expression 'the buck stops here' is commonly used figuratively to indicate that the responsibility or decision-making ends at the person speaking. Given its typical usage and the context provided in 'The buck stops here,' this expression holds a figurative meaning.
+
+Output: **i**",i
+the buck stops here,"The expression 'the buck stops here' in the given context holds a figurative meaning. It implies someone taking responsibility and not passing on the blame or duty to someone else. Therefore, the output is:
+
+i",i
+the buck stops here,"The expression 'the buck stops here' is generally used figuratively to indicate that the responsibility or accountability lies with the person making the statement. Unless there is additional context suggesting otherwise, in the given phrase 'But now the buck stops here …' the expression holds figurative meaning.
+
+So, the output is 'i'.",i
+on the rocks,i,i
+on the rocks,i,i
+on the rocks,i,i
+break someone's heart,"The expression 'break someone's heart' in the context 'Mr Wilson said the news of the Loyalist killings ‘broke his heart’' holds figurative meaning. Therefore, the output is 'i'.",i
+break someone's heart,"The expression 'break someone's heart' is typically used figuratively to describe causing someone deep emotional pain or distress rather than causing physical harm to their heart. In the context you've provided, 'It would break his immigrant heart, too.', it suggests causing serious emotional pain or distress to the person, likely connected to their experiences or feelings as an immigrant.
+
+Therefore, the output would be 'i' for figurative meaning.",i
+break someone's heart,i,i
+steal someone's thunder,i,i
+slap on the wrist,i,i
+slap on the wrist,"The expression 'slap on the wrist' in the provided context holds figurative meaning because it suggests that Seles received a minor or lenient punishment. Therefore, the output is 'i'.",i
+on the make,i,i
+on the make,i,i
+on the make,"The expression 'on the make' in the given context holds a figurative meaning. So the output is:
+
+**i**",i
+things that go bump in the night,"The expression ""things that go bump in the night"" is generally used figuratively to refer to unknown or mysterious noises, often implying something spooky or eerie, typically heard in the darkness. Without additional context indicating a literal interpretation (e.g., an actual discussion of specific objects bumping into each other physically in a literal sense), it is safe to assume the figurative meaning is intended. Therefore, the output for the given context ""Things that go bump in the night"" would be:
+
+'i'",i
+push the boat out,i,i
+push the boat out,"The expression 'push the boat out' in this context holds a figurative meaning, as it refers to going on a spending spree rather than literally pushing a boat out into the water. 
+
+Output: i",i
+push the boat out,"The expression 'push the boat out' in the context 'This is carried by a show of hands and the commodore pushes the boat out.' holds a figurative meaning. Therefore, the output is:
+
+i",i
+smell a rat,"The expression 'smell a rat' in the context 'I smell a rat in the air : I shall nip it in the bud .' holds figurative meaning. Therefore, the output is:
+
+i",i
+smell a rat,"The expression 'smell a rat' in the sentence ""Niki smelled the rat and said unless his driving contract were honoured, he would move to McLaren"" holds a figurative meaning. Therefore, the output is 'i'.",i
+smell a rat,"The expression 'smell a rat' in the context 'I smell a rat here — I really do.' holds a figurative meaning. Therefore, the output is:
+
+i",i
+shoot the messenger,i,i
+shoot the messenger,i,i
+shoot the messenger,i,i
+wake up and smell the coffee,"The expression 'wake up and smell the coffee' in the context 'Wake up and smell the coffee, guys.' holds figurative meaning. The speaker is likely urging the audience to become aware of an important, possibly unpleasant reality they have been ignoring. Therefore, the output should be:
+
+i",i
+fun and games,l,i
+fun and games,"The expression 'fun and games' in this context holds figurative meaning. Therefore, the output is 'i'.",i
+fun and games,l,i
+cast the first stone,i,i
+cast the first stone,"The expression 'cast the first stone' is a biblical reference, often used figuratively to mean that someone should not criticize others for a fault they themselves possess. In the context given, 'Let him who has never lifted the seam of a cricket ball cast the first stone,' it is used figuratively to imply that only someone who has never committed the act of lifting the seam of a cricket ball (a form of cheating in cricket) has the right to criticize others for it.
+
+Output: i",i
+kick the bucket,"The expression 'kick the bucket' in this context (' Chatterton and Fagg and a few more like them who 've since kicked the bucket .') holds figurative meaning, so the output is 'i'.",i
+kick the bucket,Output: 'i',i
+kick the bucket,i,i
+fly a kite,i,i
+fly a kite,"The expression 'fly a kite' in the given context holds a figurative meaning. Therefore, the output is 'i'.",i
+fly a kite,'l',i
+in the clear,i,i
+in the clear,i,i
+have a few,"The expression ‘have a few’ holds a figurative meaning in the context 'You both had quite a few'. Therefore, the output is:
+
+i",i
+have a few,"The expression 'have a few' is used figuratively in this context. Hence, the output is 'i'.",i
+have a few,"The expression 'have a few' in this context holds a figurative meaning, so the output is 'i'. The phrase 'have a few of the young daughters of the gentlefolk' metaphorically implies taking advantage or spending time with, rather than literally possessing or consuming them.",i
+to the hilt,i,i
+to the hilt,"The correct output is 'i'. In this context, 'to the hilt' is used figuratively to mean doing something to the fullest extent possible.",i
+to the hilt,i,i
+open the floodgates,"The expression ""open the floodgates"" in the provided context holds a figurative meaning, not a literal one. It is used to illustrate the idea of abundant blessings being poured out, rather than actual floodgates being opened.
+
+Therefore, the output is 'i'.",i
+open the floodgates,i,i
+open the floodgates,i,i
+throw the book at,i,i
+throw the book at,i,i
+throw the book at,'l',i
+when the chips are down,Output: i,i
+when the chips are down,i,i
+between a rock and a hard place,i,i
+between a rock and a hard place,i,i
+put down roots,"The expression ""put down roots"" in the context ""She's had 8 quarters, so it's hard to put down roots."" holds a figurative meaning. It implies that due to frequent changes (likely moving or instability), it is difficult for her to establish a stable and permanent situation or relationship.
+
+Output: i",i
+put down roots,i,i
+in your dreams,"The expression 'In your dreams !' in this context holds a figurative meaning. Therefore, the correct output is 'i'.",i
+in your dreams,i,i
+short and sweet,"The word ""sweet"" in the expression 'short and sweet' typically carries a figurative connotation, meaning pleasant or concise in a positive way. The adaptation 'short and not so sweet' plays off this figurative meaning to imply something concise but unpleasant.
+
+Therefore, output: `i`",i
+cut and dried,i,i
+cut and dried,i,i
+cut and dried,"The expression 'cut and dried' in the context 'I was only trying to warn you that things are n't always cut and dried.' holds figurative meaning. Therefore, the output is 'i'.",i
+six of the best,i,i
+six of the best,"The expression 'six of the best' typically holds a figurative meaning, often used to describe a severe punishment, especially in a British school context referring to six strokes of the cane.
+
+Output: i",i
+six of the best,'l',i
+behind closed doors,i,i
+behind closed doors,i,i
+behind closed doors,i,i
+clear the decks,i,i
+clear the decks,i,i
+clear the decks,i,i
+on the game,l,i
+on the game,"To determine whether the expression ""on the game"" holds figurative or literal meaning in the context of ""My mother said she's going to go on game anyway,"" let's break down the potential meanings:
+
+- If the term ""on game"" figuratively means that she is going to participate or be engaged in something (like being focused or involved in an activity), then it would be figurative.
+- If the term ""on the game"" is a direct reference to an activity or an actual game, it would be literal.
+
+Given the phrasing, ""My mother said she's going to go on game anyway,"" it seems contextually unusual and unclear. It might be better expressed as:
+
+- ""My mother said she's going to go on with the game anyway,"" which would clearly refer to a literal game.
+- ""My mother said she's going to be on her game anyway,"" which would clearly convey a figurative sense of being focused or prepared.
+
+But, as it stands, the phrase ""on the game"" is often a colloquial or idiomatic expression which can refer to being involved in a certain field or activity (sometimes it has negative connotations depending on usage). Given the information and avoiding assumptions, I'll infer the most plausible interpretation based on common usage. 
+
+The sentence itself appears to strain literal and common figurative language, suggesting it might align more with figurative interpretation about participation or engagement in an activity, despite ambiguous phrasing.
+
+Based on the given structure and typical idiom understanding:
+
+Output: `i`",i
+on the game,"The expression ""on the game"" in the given context most commonly holds a figurative meaning. It is a British slang term that refers to being involved in prostitution.
+
+Output: i",i
+with open arms,The expression 'with open arms' in this context holds figurative meaning. Output 'i'.,i
+with open arms,"The expression 'with open arms' in the context 'Richard Amos, the youth worker, continues to put considerable effort into the work of the youth club and would welcome with open arms any volunteers to join those already helping' holds figurative meaning. Therefore, the output is:
+
+i",i
+flash in the pan,i,i
+flash in the pan,"The expression ""flash in the pan"" typically holds a figurative meaning in most contexts. It refers to something that shows potential or early promise but fails to deliver any lasting impact or success. 
+
+Given the context ""Flash in pan blew Gents to pieces,"" it seems to describe a sudden, brief event or effort that created a significant disruption but did not have lasting effects. Therefore, the expression ""flash in the pan"" is used figuratively here, indicating a brief and impactful occurrence rather than an actual flash in a physical pan.
+
+Hence, the output is ""i"".",i
+flash in the pan,"The expression 'flash in the pan' in the sentence 'I do n't , I think it was just a flash in the pan .' holds a figurative meaning. Therefore, the output should be 'i'.",i
+rough around the edges,i,i
+rough around the edges,i,i
+fly off the handle,i,i
+fly off the handle,i,i
+see the light,"The expression 'see the light' in the given context is used figuratively. 
+
+Output: i",i
+see the light,i,i
+see the light,"The expression 'see the light' in the context ""But at least none of them saw the light of print — until today 's souvenir edition."" holds figurative meaning. Here, ""see the light of print"" means that none of the items were published or made available for public reading until the specific edition mentioned.
+
+Output: i",i
+pour cold water on,i,i
+pour cold water on,i,i
+pour cold water on,"The expression 'pour cold water on' in this context holds figurative meaning. Therefore, the output is 'i'.",i
+fire in the belly,"The expression 'fire in the belly' in the context 'You have got the fire in your belly that will make an excellent detective novel.' holds a figurative meaning. Therefore, the output is:
+
+```
+i
+```",i
+get a grip,The expression 'get a grip' in the context 'Lloyd 's needs to get a grip on more ‘ safe’ business to offset its increasing tendency to be at the wrong end of big disasters such as Piper Alpha .' holds a figurative meaning. Output 'i'.,i
+get a grip,"The expression 'get a grip' is most commonly used in a figurative sense, meaning to gain control over one's emotions or actions. Given the context 'I must … get a grip …', it is likely referring to someone needing to compose themselves or take control of a situation rather than physically grasping something. Therefore, the correct output would be 'i' for figurative meaning.",i
+get a grip,'l',i
+in the loop,l,i
+in the loop,l,i
+in the loop,"The expression 'in the loop' in the given context holds a literal meaning. Therefore, the output is 'l'.",i
+fly in the face of,i,i
+fly in the face of,i,i
+get the boot,'l',i
+get the boot,i,i
+on and off,'l',i
+on and off,i,i
+on and off,"The expression ""on and off"" in the context 'She was a celebrated actress whom he had known and loved, on and off, almost since her first appearance on the stage.' holds a figurative meaning. Therefore, the output is 'i'.",i
+cook the books,i,i
+cook the books,i,i
+cook the books,i,i
+on the same page,l,i
+on the same page,i,i
+run a mile,"The expression 'run a mile' in the given context holds a figurative meaning. Therefore, the output is 'i'.",i
+run a mile,i,i
+run a mile,'i',i
+on thin ice,"The expression ""on thin ice"" in this context holds a figurative meaning. The speaker is likely warning someone that they are in a risky or precarious situation regarding their behavior or actions.
+
+Output: i",i
+on thin ice,"The expression 'Skating on thin ice' is used figuratively in the context presented. Therefore, the output is:
+
+'i'",i
+close to home,i,i
+close to home,'l',i
+close to home,l,i
+in the bag,"The expression ""in the bag"" in the context ""Right up until ten minutes before the result was announced, John's victory seemed to be in the bag"" holds figurative meaning. The phrase is used to suggest that John's victory appeared to be certain or guaranteed.
+
+Output: `i`",i
+in the bag,i,i
+in the raw,'i',i
+in the raw,"The expression 'in the raw' in this context holds a literal meaning.
+
+Output: 'l'",i
+cut the mustard,"The expression 'cut the mustard' in this context holds a figurative meaning. The phrase is used to indicate that ""Dragons of Flame"" fails to meet the standard or expectations required to be considered a genuine role-playing game. Therefore, the output should be 'i'.",i
+force someone's hand,i,i
+force someone's hand,l,i
+in the final analysis,i,i
+in the final analysis,i,i
+in the final analysis,i,i
+up in the air,i,i
+up in the air,l,i
+fall from grace,i,i
+fall from grace,i,i
+fall from grace,i,i
+full of beans,"The expression 'full of beans' in the context 'In one nursery school there were 150 children, gaily dressed and full of beans.' holds figurative meaning. The phrase 'full of beans' is typically used to describe someone who is very lively, energetic, and enthusiastic, not to suggest that someone has literally consumed beans. 
+
+So, the output is:
+
+i",i
+full of beans,i,i
+full of beans,i,i
+press the panic button,l,i
+press the panic button,i,i
+press the panic button,i,i
+have a heart,"Output: 'i'
+
+The expression ""hadn't the heart"" in this context is used figuratively. It means that he didn't have the emotional resolve or willingness to voice his reservations because of Ellen's bubbling enthusiasm.",i
+have a heart,i,i
+have a heart,"The expression ""have a heart"" in the given context holds a figurative meaning, as it refers to showing compassion or sympathy. Therefore, the correct output is 'i'.",i
+on the fly,"The expression 'on the fly' in this context means that the device driver compresses and decompresses data in real-time or immediately as the data is being saved or read. This usage is figurative because it indicates doing something quickly and efficiently without delay, similar to how something might be done ""in the air"" without preparation or setup.
+
+Thus, the correct output is 'i'.",i
+on the fly,i,i
+get stuck in,"The expression 'get stuck in' in the given context 'He relished the fight, like he relishes getting stuck in, but didn't really enjoy the job.' holds figurative meaning. Therefore, the output is 'i'.",i
+get stuck in,i,i
+get stuck in,i,i
+out of the box,i,i
+out of the box,"The expression 'out of the boxes' in the given context holds a literal meaning. It refers to the dog starting or exiting from the starting boxes (traps) in a race. Therefore, the output is 'l'.",i
+out of the box,"The expression 'out of the box' in this context holds literal meaning since it refers to the state of the item immediately after being taken out of its packaging. Therefore, the output is 'l'.",i
+on the warpath,i,i
+on the warpath,i,i
+on the warpath,i,i
+take a dive,i,i
+take a dive,i,i
+take a dive,"The expression 'take a dive' in this context holds a figurative meaning. It indicates that their hopes significantly diminished or were negatively impacted. Therefore, the output is:
+
+i",i
+scratch the surface,i,i
+scratch the surface,i,i
+scratch the surface,i,i
+hammer and tongs,'i',i
+hammer and tongs,i,i
+hammer and tongs,"The expression 'hammer and tongs' in this context holds figurative meaning. The phrase is used to describe the mob's intense and vigorous actions, akin to the forceful and energetic way a blacksmith works with hammer and tongs.
+
+Output: i",i
+make a clean break,"The expression 'make a clean break' in this context holds figurative meaning. 
+
+Output: i",i
+make a clean break,i,i
+make a clean break,i,i
+at sixes and sevens,i,i
+nuts and bolts,i,i
+nuts and bolts,i,i
+nuts and bolts,l,i
+the ball is in someone's court,i,i
+the ball is in someone's court,"The expression 'the ball is in her court' is used figuratively in this context. Therefore, the output is 'i'.",i
+get a life,"The expression 'get a life' generally holds a figurative meaning, implying that someone should do something more worthwhile or interesting with their time. In the context 'He's got his life and I've got nothing,' the phrase doesn't seem to directly use 'get a life,' but it carries a similar sense of figurative meaning in that it contrasts one person's fulfilling or successful life with another person's lack thereof. 
+
+So, the appropriate output would be:
+
+```
+i
+```",i
+get a life,"The expression 'get a life' in the context 'Get a life, as Lizzy is always saying.' holds a figurative meaning. Therefore, the output is:
+
+i",i
+get a life,"The expression 'get a life' is most commonly used in a figurative sense to tell someone to do something more interesting or worthwhile with their time. It usually implies that the person is being boring, unproductive, or overly concerned with trivial matters.
+
+If the expression is being used to suggest that someone should genuinely acquire a new life in a literal sense (which is far less common), then it would hold literal meaning.
+
+In your example ""Get a life !"", without additional context implying otherwise, it is safe to assume it holds figurative meaning. Therefore, the appropriate output is:
+
+i",i
+on the nose,'l',i
+on the nose,l,i
+on the nose,i,i
+on a shoestring,i,i
+in the driver's seat,i,i
+in the driver's seat,Output: i,i
+wet behind the ears,i,i
+wet behind the ears,"The expression 'wet behind the ears' is generally used figuratively to describe someone who is inexperienced or naive. In the given context:
+
+'He were wet behind the ears!'
+
+The expression holds a figurative meaning, so the output is:
+
+i",i
+wet behind the ears,"The expression 'wet behind the ears' in this context holds a figurative meaning. Therefore, the output is 'i'.",i
+up a tree,i,i
+up a tree,"In this context, the expression 'up the tree' is used figuratively to describe a chain of communication or escalation from a lower level (user) to a higher level (parent) in some kind of hierarchy. Therefore, the correct output is 'i'.",i
+up a tree,"The expression 'up a tree' in this context seems to be used figuratively to describe a situation where a person is in a difficult, tricky, or problematic position that they may not be able to get out of easily. It's not describing someone who is literally stuck in a tree. Therefore, the output should be:
+
+i",i
+pick someone's brain,i,i
+fill someone's shoes,Output: 'i',i
+save someone's skin,i,i
+save someone's skin,"The expression 'save someone's skin' in the context 'Others saved their own skins and left the worst-hit areas.' holds a figurative meaning. Thus, the output is 'i'.",i
+walk all over,i,i
+walk all over,"The expression 'walk all over' in the context 'T that 's it , walk all over me .' holds figurative meaning. Therefore, the output is 'i'.",i
+walk all over,i,i
+hot and heavy,"In this context, the expression 'hot and heavy' is used to describe the mist, suggesting it feels thick and oppressive like a blanket. This is a figurative use as it describes the mist in a metaphorical way rather than a literal temperature and weight.
+
+Therefore, the output is: **i**",i
+hot and heavy,"The expression 'hot and heavy' in the context ""Any man who hindered the Admiralty work would have it hot and heavy"" holds a figurative meaning. Therefore, the output is 'i'.",i
+hot and heavy,l,i
+strike a chord,i,i
+strike a chord,i,i
+strike a chord,i,i
+batten down the hatches,"The output is:
+
+i",i
+batten down the hatches,i,i
+batten down the hatches,i,i
+cap in hand,i,i
+cap in hand,The expression 'cap in hand' in this context holds a figurative meaning. So the output is 'i'.,i
+cap in hand,'i',i
+kicking and screaming,i,i
+kicking and screaming,i,i
+kicking and screaming,"The expression 'kicking and screaming' in this context holds a figurative meaning.
+
+Therefore, the output is: 'i'.",i
+sick and tired,i,i
+sick and tired,i,i
+on the cards,"The expression 'on the cards' in the context 'A repeat of the Stormseal UK final between Davis and Stephen Hendry is on the cards.' is figurative. Hence, the output should be 'i'.",i
+on the cards,"The expression 'on the cards' in the given context 'He and Chris Grant, on The Thinker, jumped the last together, but it was always on the cards that McCourt would have the upper hand.' holds figurative meaning. Thus, the output is 'i'.",i
+face the music,i,i
+face the music,"The expression 'face the music' in this context is used figuratively. The character is not literally going home to listen to music; instead, they are likely anticipating some form of confrontation, trouble, or unpleasant situation waiting for them at home.
+
+Output: i",i
+come in from the cold,i,i
+come in from the cold,i,i
+come in from the cold,i,i
+head over heels,"The expression 'head over heels' in the provided context 'H - have to admit it , old thing , I 'm h - head over h - heels in love with you .' holds a figurative meaning. 
+
+Thus, the output is:
+
+```plaintext
+i
+```",i
+head over heels,'l',i
+head over heels,"The expression 'head over heels' in the context 'I gripped the banister and swung myself head over heels, then came out on the roof of a tower.' holds a literal meaning because it describes a physical action where the person's head is actually going over their heels as they move. Therefore, the output is 'l'.",i
+reach for the stars,i,i
+for a song,"The expression 'for a song' in this context means obtaining something very cheaply or at a low price. This is a figurative use of the expression.
+
+Output: i",i
+for a song,"The expression 'for a song' in the given context is used figuratively. Therefore, the output is 'i'.",i
+for a song,i,i
+down the tubes,i,i
+down the tubes,"The expression ""down the tubes"" in the provided context holds figurative meaning. The context suggests a scenario where the failure of the rank and file will result in a collective negative outcome. It's not referring to a literal physical tube but rather using ""down the tubes"" as a metaphor for failure or ruin.
+
+Output: i",i
+down the tubes,i,i
+no strings attached,"The expression 'no strings attached' in the given context holds a figurative meaning. The phrase is used to imply that the deals come without any hidden conditions, obligations, or restrictions.
+
+Output: i",i
+no strings attached,i,i
+no strings attached,"The expression 'no strings attached' in the context ‘They also offered me a job at the end of it, but there were no strings attached to the scholarship.’ holds a figurative meaning. It means that the scholarship was given without any additional conditions or obligations.
+
+Output: i",i
+spit it out,i,i
+spit it out,"The expression 'spit it out' in the context 'You 're wondering something, boy, cough it up, spit it out, expel it, vomit it forth.' is used figuratively. The speaker is encouraging the boy to say or reveal what he is wondering about.
+
+Output: 'i'",i
+spit it out,i,i
+don't hold your breath,"The expression 'don't hold your breath' in the given context holds a figurative meaning. It is used to tell Elaine that she shouldn't expect something to happen soon or at all, implying skepticism or doubt about the contents of the carrier bag.
+
+Therefore, the output is: 
+
+i",i
+don't hold your breath,'i',i
+don't hold your breath,"The expression 'don't hold your breath' in the context 'Don't hold your breath, Miguel, because I'm not going out with you.' holds a figurative meaning. Therefore, the output is 'i'.",i
+stand up and be counted,"The expression 'stand up and be counted' in this context holds a figurative meaning, so the output is 'i'.",i
+stand up and be counted,"The expression ""stand up and be counted"" in the context ""Stand up and be counted for fair play and truth!"" holds a figurative meaning. It is not about physically standing up, but rather about taking a stand or advocating for principles such as fair play and truth.
+
+Output: 'i'",i
+far and away,"The expression 'far and away' in the context 'With their nearest rival, Tesco, they've become far and away the most popular places to do the weekly shop.' holds figurative meaning. The phrase is used to emphasize the extent to which these places have become the most popular, rather than indicating a physical distance. Therefore, the output is 'i'.",i
+far and away,"The expression 'far and away' in the given context is figurative. It emphasizes that a Fly-Drive package is the most convenient and comfortable way to travel by a large margin.
+
+Output: i",i
+far and away,i,i
+sink or swim,i,i
+sink or swim,i,i
+sink or swim,"To determine whether the expression 'sink or swim' holds figurative or literal meaning in this context, we need to analyze how it is used.
+
+The expression 'sink or swim' is often used figuratively to imply that someone must either succeed or fail on their own, usually in a challenging situation. However, in a literal context, it would refer to the actual physical action of either sinking or swimming in water.
+
+In the given context: ‘He threw him in there newly dead, and Benedetta with him living, to sink or swim together.’, the phrase describes throwing someone who is dead and someone who is alive into a situation where their literal physical survival (whether they will sink or swim) is in question.
+
+Since the context mentions someone being 'thrown' and involves individuals who are 'newly dead' and 'living', it strongly suggests that it is describing a literal situation in which their literal capacity to sink or swim in water and essentially survive is in question.
+
+Therefore, the expression holds a literal meaning here.
+
+Output: `l`",i
+hit the bottle,Output: 'i',i
+hit the bottle,i,i
+hit the bottle,"The expression 'hit the bottle' is used figuratively in this context. Hence, the output is 'i'.",i
+turn over a new leaf,i,i
+turn over a new leaf,i,i
+put the boot in,"To determine the meaning of the expression ""put the boot in"" as used in the context 'PUTTING THE BOOT IN', you would generally output as follows:
+
+- Output 'i' if ""put the boot in"" is used figuratively, which commonly means to attack or criticize someone when they are already vulnerable.
+- Output 'l' if ""put the boot in"" is used literally, meaning someone is physically kicking someone or something.
+
+Since I don't have additional context from the sentence to clarify its usage, I cannot definitively determine whether it is used figuratively or literally. However, the phrase ""putting the boot in"" is most often used figuratively in English.",i
+put the boot in,i,i
+make a splash,i,i
+make a splash,i,i
+draw a line in the sand,‘i’,i
+push someone's buttons,"The expression 'push someone's buttons' in the context 'but that pushed Southend 's scoring button and they hit back with two more …' holds figurative meaning. Hence, the output is 'i'.",i
+push someone's buttons,i,i
+separate the wheat from the chaff,l,i
+separate the wheat from the chaff,i,i
+get to grips with,"The expression 'get to grips with' in this context: 'in the eye of the storm, England prop Jason Leonard gets to grips with debutant scrum-half Andy Nicol as England begin to take control after a shaky opening half.' holds a **literal** meaning.
+
+Output: l",i
+get under someone's skin,i,i
+get under someone's skin,"The expression 'get under someone's skin' in the given context: '‘My dear — don't allow his obsession for everything being first class at the Wilderness get under your skin.' holds figurative meaning. Therefore, the output is 'i'.",i
+get under someone's skin,i,i
+up to speed,i,i
+up to speed,i,i
+go with the flow,i,i
+go with the flow,i,i
+rule the roost,"The expression 'rule the roost' in the context 'I kind of ruled the roost a bit, but we got on well.' holds figurative meaning.
+
+Output: i",i
+rule the roost,"The expression 'rule the roost' in the context 'As children he and Nigger had ruled the roost.' holds a figurative meaning. The expression is used to indicate that they were in control or dominant in their environment as children.
+
+Output: **i**",i
+rule the roost,"The expression 'rule the roost' holds figurative meaning in the context provided. Therefore, the output is:
+
+i",i
+in the fast lane,"To determine whether the expression ""in the fast lane"" holds a figurative or literal meaning, you need to assess the context in which it is used. 
+
+- **i**: if ""in the fast lane"" is used metaphorically to describe a busy, hectic, or high-energy lifestyle.
+  
+- **l**: if ""in the fast lane"" is used to describe the physical lane on a road where cars typically travel at higher speeds.
+
+For example:
+
+1. **Figurative Context**:
+   - ""Ever since she got that promotion, she's been living in the fast lane.""
+   - In this case, 'i' would be the output because it describes a high-paced lifestyle rather than a physical location on a road.
+
+2. **Literal Context**:
+   - ""He was caught speeding in the fast lane on the highway.""
+   - In this case, 'l' would be the output because it refers to the actual fast lane on the road. 
+
+Whenever the expression is used, identify whether it points to a metaphorical situation (fast-paced lifestyle, rapid changes, etc.) or an actual lane on the road to decide between outputs 'i' or 'l'.",i
+in the fast lane,Output: 'l',i
+in the fast lane,"The expression 'in the fast lane' in this context holds figurative meaning.
+
+Output: i",i
+break the back of,i,i
+break the back of,i,i
+break the back of,i,i
+put words in someone's mouth,"The expression 'put words in someone's mouth' in the context '‘ Then do n't put words in my mouth.’' is used figuratively. Therefore, the output should be 'i'.",i
+put words in someone's mouth,"In the context 'Putting words in your mouth .', the expression 'put words in someone's mouth' holds a figurative meaning. Therefore, the output is:
+
+i",i
+put words in someone's mouth,"The expression 'put words in someone's mouth' is typically used in a figurative sense. It means to inaccurately state what someone else has said, often twisting their words or implying that they have said something they actually haven't. 
+
+In the context of the sentence you provided:
+'Well, now you 've put the words in my mouth, convincing lies, that is a ringer, I mean, nothing but the truth.'
+
+The phrase suggests that someone is accusing another person of attributing false statements to them, which means it is being used figuratively.
+
+So, the appropriate output is 'i'.",i
+shut the door on,i,i
+shut the door on,"The expression 'shut the door on' in this context holds a figurative meaning. Thus, the output is 'i'.",i
+shut the door on,'l',i
+kiss of death,"The expression 'kiss of death' in this context is used figuratively. It signifies something that would cause a lot of trouble or failure. So, the output is 'i'.",i
+kiss of death,i,i
+kiss of death,i,i
+on the skids,i,i
+on the skids,"The expression ""on the skids"" in this context holds a figurative meaning. It refers to a career in decline or experiencing difficulties rather than literally being on skids. Therefore, the output is:
+
+i",i
+on the skids,'i',i
+light at the end of the tunnel,Output: 'i',i
+light at the end of the tunnel,i,i
+light at the end of the tunnel,"The expression 'light at the end of the tunnel' in this context holds figurative meaning, so the output is 'i'.",i
+on a roll,"The expression 'on a roll' in the context 'We are on a roll and it's great to be involved.' holds a figurative meaning. Therefore, the output is:
+
+i",i
+on a roll,i,i
+rock the boat,i,i
+rock the boat,i,i
+below the belt,'i',i
+below the belt,"The expression 'below the belt' is being used in its literal sense, as it refers to an actual punch below the belt in a physical fight context.
+
+Output: l",i
+below the belt,"The expression 'below the belt' seems to be incomplete in the given context: 'The below the belt .'. Since the full context is not provided, it's not entirely clear whether it holds a figurative or literal meaning. However, the expression 'below the belt' is commonly used in a figurative sense to refer to actions or comments that are unfair or unethical.
+
+Given this common usage, without additional context, the likely interpretation would be:
+
+\[ \text{'i'} \]",i
+see eye to eye,"The expression 'see eye to eye' in the given context holds a figurative meaning. Therefore, the output is:
+
+'i'",i
+see eye to eye,"In the context 'They don't always see eye to eye but they respect one another,' the expression 'see eye to eye' holds figurative meaning. It means that they don't always agree with each other but still maintain mutual respect. The correct output is 'i'.",i
+get it up,l,i
+get it up,l,i
+get it up,"The expression 'get it up' can have different meanings based on context. Generally, 'get it up' can hold both figurative and literal meanings:
+
+- Figurative meaning often relates to achieving or accomplishing something.
+- Literal meaning often relates to physical or sexual arousal.
+
+Given the context is 'to get it up .', without additional context clues, it is ambiguous. However, if I had to interpret it based solely on the phrasing provided, it leans towards a literal interpretation, especially because the phrase is commonly used in the context of sexual performance.
+
+So, the output is:
+
+l",i
+get away with murder,i,i
+get away with murder,"The expression 'get away with murder' in the given context - 'Yeah they got away with murder there, that looked very very iffy whether it was offside, the linesman didn’t give it, they really should have scored.' - is used figuratively. It means that the team benefitted from a situation in a manner that was perceived as unfair or fortunate for them.
+
+Output: 'i'",i
+get away with murder,i,i
+one of those things,"In this context, the expression 'one of those things' is used in a figurative sense to describe a situation or occurrence that is seen as inevitable or commonplace, something that just happens in the course of events. Therefore, the output is 'i'.",i
+one of those things,i,i
+joined at the hip,i,i
+joined at the hip,'i',i
+have a ball,"The expression ""have a ball"" in the context ""Dannii said: 'I had a ball with Kylie.'"" holds a figurative meaning. Therefore, the output is:
+
+```plaintext
+i
+```",i
+have a ball,i,i
+under the sun,i,i
+under the sun,"The expression 'under the sun' in the context given holds a figurative meaning. Therefore, the output is 'i'.",i
+under the sun,i,i
+on the wagon,"The expression 'on the wagon' in this context is used to signify that Monty was supposed to be abstaining from alcohol. This expression holds a figurative meaning because it is not literally referring to being on an actual wagon but rather refers to the act of refraining from drinking alcoholic beverages. Thus, the correct output is:
+
+'i'",i
+on the wagon,"The expression ""on the wagon"" does not appear in the given sentence. The correct expression present in the sentence is ""jumped on the band wagon,"" which is a figurative expression. Therefore, the output is:
+
+'i'",i
+on the wagon,i,i
+call a spade a spade,i,i
+call a spade a spade,"The expression 'call a spade a spade' is used in a figurative sense in the given context. It means that Australians are perceived as people who are straightforward and direct in their speech.
+
+Output: 'i'",i
+call a spade a spade,i,i
+spill the beans,"The expression 'spill the beans' in this context holds a **figurative** meaning. It means to reveal secret information or to disclose something that was meant to be kept confidential. Thus, the output is:
+
+i",i
+spill the beans,i,i
+on the button,'i',i
+on the button,"The expression 'on the button' in the context 'Ashley made a frantic attack on the buttons again .' holds a literal meaning because it directly refers to Ashley interacting with physical buttons. Therefore, the output is 'l'.",i
+on the button,"In this context, the expression ""on the button"" holds a figurative meaning. The astrologer having her ""finger on the button"" metaphorically suggests that she is very accurate or precise in her predictions or observations. Therefore, the output should be 'i'.",i
+black and blue,"The expression 'black and blue' in this context holds literal meaning. Therefore, the output is:
+
+l",i
+black and blue,"The expression 'black and blue' in this context holds a literal meaning, as it describes the actual physical bruising on the poor little behind. Therefore, the output is 'l'.",i
+black and blue,l,i
+put the cart before the horse,i,i
+bells and whistles,i,i
+bells and whistles,i,i
+in cold blood,"The expression ""in cold blood"" in the given context holds a figurative meaning. Therefore, the output is:
+
+i",i
+in cold blood,i,i
+carrot and stick,i,i
+carrot and stick,Output: i,i
+down the road,"The expression ""down the road"" in this context holds a figurative meaning, referring to a point in the future. Therefore, the output is 'i'.",i
+down the road,"The expression 'down the road' holds a figurative meaning in this context. It implies knowing someone who is metaphorically close or readily available, not literally situated down the road.
+
+Output: i",i
+down the road,'i',i
+heads will roll,"The expression 'heads will roll' in the context 'While the selectors have made just one change this time, it seems certain several heads will roll if Australia go two up at Lord’s.' holds figurative meaning. Therefore, the output is 'i'.",i
+heads will roll,i,i
+at the end of the day,"The expression 'at the end of the day' in this context is used figuratively. It means ""ultimately"" or ""in the end,"" focusing on the final outcome or the most important consideration. So the output is 'i'.",i
+at the end of the day,i,i
+at the end of the day,"The expression 'at the end of the day' in the given context is used figuratively to mean ""ultimately"" or ""when all is said and done."" It is not referring to the literal end of a day in terms of time.
+
+Output: 'i'",i
+heart and soul,'i',i
+heart and soul,i,i
+heart and soul,"The expression 'heart and soul' in the context 'There is now a heart and a soul at this club' holds a figurative meaning. Therefore, the output is 'i'.",i
+pack a punch,Output: i,i
+pack a punch,i,i
+pack a punch,i,i
+eat someone alive,"The expression ""eat someone alive"" in this context is used figuratively to express intense admiration or attraction towards someone. The phrase ""eat him alive"" suggests that the speaker found the person so appealing or attractive that it evoked a strong emotional response.
+
+Therefore, the output is: **'i'**.",i
+eat someone alive,"Based on the provided context, the expression 'eat you alive' seems to hold a figurative meaning. It is likely being used to convey intense desire or passion rather than a literal intent to consume someone.
+
+So, the output is:
+i",i
+eat someone alive,i,i
+tie the knot,"The expression ""TYING THE KNOT"" typically holds a figurative meaning when used in everyday language today. It refers to getting married. So, for this context, you would output 'i'.",i
+tie the knot,i,i
+tie the knot,i,i
+step on it,i,i
+step on it,l,i
+out of the picture,i,i
+out of the picture,i,i
+break the ice,i,i
+break the ice,i,i
+break the ice,"The expression ""break the ice"" in the context “‘And I think they realise how I feel and this has broken the ice.’” holds a figurative meaning. So the output is:
+
+i",i
+pop the question,i,i
+pop the question,i,i
+pop the question,i,i
+full speed ahead,l,i
+full speed ahead,"Output: i
+
+The expression 'full speed ahead' in this context is used figuratively to describe working very hard or putting in a maximum effort, not literally increasing the speed of a vehicle or vessel.",i
+full speed ahead,l,i
+point the finger,i,i
+point the finger,i,i
+sign on the dotted line,Output: i,i
+sign on the dotted line,"The expression 'sign on the dotted line' in the context 'SO do n't feel you 've failed if people wo n't sign on the dotted line .' holds figurative meaning. It means to give formal consent or agreement, not necessarily involving an actual dotted line. Therefore, the output is 'i'.",i
+sign on the dotted line,"The expression 'sign on the dotted line' in the given context holds figurative meaning. Therefore, the output is:
+
+i",i
+up the ante,"The expression 'up the ante' in the context 'Burham Rally: Sponsors up the ante' holds figurative meaning. Therefore, the output is 'i'.",i
+up the ante,"The expression 'up the ante' in the given context holds figurative meaning. Therefore, the output is:
+
+i",i
+up the ante,Output: i,i
+bring home the bacon,"The expression 'bring home the bacon' holds figurative meaning in the given context.
+
+Output: i",i
+bring home the bacon,"The expression 'bring home the bacon' is commonly used in a figurative sense to mean earning money or providing for one's family. Therefore, in most contexts, it would hold a figurative meaning.
+
+If you are given the phrase 'Bring home THE BACON' and need to determine if it holds a figurative or literal meaning, you should assess the surrounding context. Here’s a simple guideline:
+- If the phrase is used to imply someone is earning money or achieving success, it’s figurative.
+- If the phrase is used in the context of physically bringing meat (bacon) to a place, it’s literal.
+
+Without additional context, the most common usage would be figurative. Thus, the output would generally be 'i'. 
+
+However, if you are provided with specific context suggesting otherwise, you should adjust accordingly.
+
+In the absence of additional context, the default interpretation would be:
+```i```",i
+bring home the bacon,i,i
+with a view to,Output: 'l',i
+with a view to,"The expression 'with a view to' in the given context is used to indicate the aim or purpose of reviewing the Commission's overall boundaries, which is to take on some extra work. This phrase typically means 'with the intention of' or 'with the aim of,' and in this case, it is used to express the purpose behind the action.
+
+The phrase 'with a view to' here holds a figurative meaning because it describes a goal or objective rather than a physical view or sight.
+
+Therefore, the correct output is 'i'.",i
+with a view to,"The expression 'with a view to' in the given context - 'Hinde House was one of ten comprehensive schools approached in the first year with a view to the launching of a school / industry partnership.' - holds a figurative meaning. It indicates intention or aim rather than a physical view.
+
+Output: 'i'",i
+move heaven and earth,i,i
+move heaven and earth,'i',i
+move heaven and earth,i,i
+across the board,i,i
+across the board,i,i
+tip the scales,i,i
+tip the scales,l,i
+face to face,"The expression 'face to face' in the given context appears to hold figurative meaning, as it suggests a direct confrontation or encounter rather than a literal, physical face-to-face meeting.
+
+Output: 'i'",i
+face to face,'l',i
+face to face,l,i
+hold someone's hand,l,i
+hold someone's hand,l,i
+hold someone's hand,i,i
+cut from the same cloth,i,i
+cut from the same cloth,"The expression 'cut from the same cloth' in the given context holds a figurative meaning. It is used to indicate that the two television channels are similar in nature, specifically in their content and likely in their ideological bias, rather than being literally made from the same piece of fabric.
+
+Output: 'i'",i
+cut from the same cloth,i,i
+licence to print money,"The correct output is 'i'. The expression 'licence to print money' in this context is used figuratively. It means that the government has given the consortium a very profitable opportunity, not an actual license to produce physical currency.",i
+licence to print money,i,i
+licence to print money,i,i
+on the mend,i,i
+on the mend,Output: i,i
+on the mend,"The expression 'on the mend' in the context '‘No news at all,’ she warned, ‘until I know how you’ve been … and whether you are on the mend.’’ holds literal meaning.
+
+Output: l",i
+go all the way,i,i
+go all the way,"The expression 'go all the way' in the given context holds a figurative meaning. Therefore, the output is:
+
+i",i
+go all the way,"The expression 'go all the way' in this context is used to describe a physical journey across the Lake of Dreams to reach the Lake of Death. Thus, it holds a literal meaning.
+
+Output: l",i
+come with the territory,"To determine whether the expression 'come with the territory' holds a figurative or literal meaning in the given context, one must analyze how the phrase is used in the sentence or passage.
+
+In the provided context 'It comes with the territory …', the expression is almost always used figuratively to indicate that a certain experience, usually a challenge or inconvenience, is a natural and expected part of a particular job, role, or situation.
+
+Thus, I would output 'i' for a figurative meaning:
+
+**i**",i
+come with the territory,i,i
+the bee's knees,"The expression 'the bee's knees' in the context 'Not only is WinFax Pro the bee's knees, it isn't expensive — you can get it for under £99.' holds figurative meaning. So the output is 'i'.",i
+the bee's knees,i,i
+the bee's knees,"The expression 'the bee's knees' in the context 'I thought your mate Rabbit was the bee's knees.' is used figuratively to mean that Rabbit is considered excellent or of high quality. Therefore, in this context, the expression holds figurative meaning.
+
+Output: ```i```",i
+on the back of,i,i
+on the back of,"The expression 'on the back of' in this context holds a figurative meaning. It implies that the firm generates most of its business as a result of or by depending on its existing large accounts. So, the output is:
+
+i",i
+on the back of,i,i
+get a rise out of,i,i
+get off the ground,i,i
+get off the ground,"The expression 'get off the ground' in this context holds figurative meaning. Therefore, the output is:
+
+i",i
+get off the ground,i,i
+under the table,i,i
+under the table,"The expression 'under the table' in the context 'we were nearly under the table' typically holds a figurative meaning, possibly referring to being very drunk or in a state of extreme laughter. Therefore, the output is:
+
+i",i
+under the table,"The expression ""under the table"" in this context is used figuratively to mean that you've had ample time to settle into your new role or position. Therefore, the output is 'i'.",i
+do someone proud,i,i
+do someone proud,i,i
+do someone proud,"In the given context, the expression 'do someone proud' is used figuratively. It means that she has done something that makes 'him' very proud or has honored him in some way. Therefore, the output is:
+
+'i'",i
+down to the wire,"The expression 'down to the wire' in this context holds a figurative meaning, as it describes a situation that is tense or competitive until the very end. Therefore, the output should be 'i'.",i
+down to the wire,i,i
+down to the wire,'i',i
+go the distance,i,i
+go the distance,i,i
+go the distance,i,i
+fast and furious,"The expression ""fast and furious"" in this context is used figuratively to describe the style of Handel interpretation by the conductor Jacob, rather than a literal interpretation of speed and fury. Therefore, the output is 'i'.",i
+fast and furious,"The expression ""fast and furious"" in this context is used figuratively to describe the intense and rapid nature of the debate. The debate is described as being ""fast"" in the sense that it is active and happening quickly, and ""furious"" in the sense that it is passionate and heated.
+
+Output: i",i
+fast and furious,'i',i
+watch this space,"The expression 'watch this space' in the context 'Watch this space for details of our next event.' holds a figurative meaning. It implies that one should stay tuned or keep an eye out for future updates, rather than literally watching a specific physical space.
+
+Output: i",i
+watch this space,"The expression ""watch this space"" typically holds figurative meaning. It is often used to tell someone to keep paying attention for further developments or updates. Here, it means to look out for more information or news soon.
+
+So if you see the expression 'Watch this space .' in the context provided, you should output 'i' indicating it holds a figurative meaning.",i
+set the wheels in motion,i,i
+set the wheels in motion,i,i
+set the wheels in motion,i,i
+to the tune of,i,i
+to the tune of,i,i
+to the tune of,"The expression ""to the tune of"" in this context holds a figurative meaning. The phrase ""lighten your wallet to the tune of £20,000"" means that buying a Syclone will cost you £20,000, using ""tune"" metaphorically to describe the amount of money.
+
+Output: **i**",i
+on the back burner,i,i
+on the back burner,i,i
+on the back burner,'i',i
+turn the screw,i,i
+turn the screw,"The expression 'turn the screw' is commonly used in a figurative sense to mean applying pressure, increasing demands, or intensifying a situation. However, to determine if it is used figuratively or literally in the specific context 'Tordo turns the screw …', we would need more information on what follows the ellipsis or more context surrounding the phrase. 
+
+Given just the phrase 'Tordo turns the screw …' without additional context, it is often more likely that the expression is used figuratively in literature or narrative contexts. Therefore, assuming it follows the common figurative usage, it would lead to the output:
+
+```
+i
+```",i
+turn the screw,"The expression 'turn the screw' in this context holds figurative meaning as it implies applying additional pressure or intensifying the situation. Therefore, the output is 'i'.",i
+glass ceiling,i,i
+glass ceiling,i,i
+glass ceiling,i,i
+grass root,i,i
+grass root,"The expression 'grass root' in this context holds a figurative meaning. Therefore, the output is 'i'.",i
+grass root,i,i
+head hunter,i,i
+head hunter,i,i
+head hunter,The expression 'head hunter' holds figurative meaning in this context. Output: i.,i
+heavy cross,"The expression 'heavy cross' in this context holds figurative meaning. Therefore, the output is 'i'.",i
+heavy cross,"The expression 'heavy cross' in this context holds figurative meaning. Therefore, the output is 'i'.",i
+heavy cross,i,i
+banana republic,i,i
+banana republic,i,i
+banana republic,i,i
+crocodile tear,i,i
+crocodile tear,i,i
+crocodile tear,Output: i,i
+eager beaver,i,i
+eager beaver,i,i
+cutting edge,i,i
+cutting edge,i,i
+cutting edge,i,i
+melting pot,i,i
+melting pot,Output: i,i
+melting pot,i,i
+hot potato,i,i
+hot potato,'l',i
+hot potato,"The correct output is 'i' because the expression 'hot potato' is used figuratively to describe someone wanting to quickly get rid of the ball, similar to a hot potato that is too hot to hold onto.",i
+monkey business,l,i
+monkey business,l,i
+monkey business,i,i
+big cheese,i,i
+big cheese,i,i
+big cheese,"The expression 'big cheese' in this context holds a figurative meaning. Therefore, the output is 'i'.",i
+nest egg,Output: i,i
+nest egg,i,i
+big picture,i,i
+big picture,"The expression 'big picture' in this context is used figuratively because it refers to considering the overall or broader situation rather than focusing on details. 
+
+Output: i",i
+big picture,i,i
+night owl,"The expression 'night owl' in this context holds figurative meaning. So, the output is 'i'.",i
+night owl,i,i
+night owl,"The expression 'night owl' in this context holds a figurative meaning, as it refers to people who stay up late at night, rather than an actual owl. Therefore, the output is:
+
+i",i
+fashion plate,"The expression 'fashion plate' in the provided context holds a figurative meaning. Thus, the output is 'i'.",i
+fashion plate,i,i
+fashion plate,i,i
+big wig,"The expression 'big wig' holds a figurative meaning in this context, as it is used to refer to high-ranking or important politicians rather than individuals wearing large wigs.
+
+Output: 'i'",i
+big wig,"The expression 'big wig' in this context holds a figurative meaning. 
+
+So, the output is:
+
+```
+i
+```",i
+big wig,i,i
+flower child,"The expression 'flower child' in this context holds figurative meaning. Therefore, the correct output is:
+
+i",i
+flower child,i,i
+flower child,"The expression 'flower child' in this context holds figurative meaning. Therefore, the output is 'i'.",i
+panda car,'l',i
+black box,i,i
+black box,i,i
+black box,l,i
+flea market,l,i
+flea market,"The expression 'flea market' in the given context holds a **literal** meaning. Therefore, the output is:
+
+'l'",i
+flea market,l,i
+goose egg,l,i
+blind alley,"The expression 'blind alley' in the context 'The elders say when you chase a goat to a blind alley, it will turn and face you.' holds a figurative meaning. Therefore, the output is 'i'.",i
+blind alley,i,i
+blind alley,Output: **i**,i
+low profile,i,i
+low profile,i,i
+low profile,i,i
+blue blood,i,i
+blue blood,i,i
+blue blood,"The expression 'blue blood' in this context holds figurative meaning, output 'i'.",i
+grandfather clock,l,i
+grandfather clock,l,i
+grandfather clock,"The expression 'grandfather clock' in this context holds literal meaning. Therefore, the output is 'l'.",i
+guinea pig,"The expression 'guinea pig' in this context holds figurative meaning. Therefore, the output is:
+
+i",i
+guinea pig,i,i
+guinea pig,"The expression 'guinea pig' is figurative in this context because it refers to people who were part of a club designed to help them recover and reintegrate, rather than actual guinea pigs. Therefore, the output is:
+
+i",i
+graveyard shift,i,i
+graveyard shift,i,i
+gravy train,i,i
+gravy train,i,i
+gravy train,i,i
+rat run,"The expression 'rat run' in this context holds figurative meaning. Therefore, output 'i'.",i
+rock bottom,The expression 'rock bottom' in this context holds figurative meaning. Output: 'i'.,i
+rock bottom,i,i
+rock bottom,i,i
+pipe dream,i,i
+pipe dream,i,i
+pipe dream,i,i
+rocket science,i,i
+rocket science,i,i
+rocket science,i,i
+poison pill,i,i
+poison pill,i,i
+poison pill,i,i
+shrinking violet,i,i
+shrinking violet,i,i
+shrinking violet,i,i
+silver bullet,i,i
+silver bullet,i,i
+silver bullet,i,i
+damp squib,Output: i,i
+dark horse,i,i
+dark horse,i,i
+dark horse,i,i
+ivory tower,i,i
+ivory tower,i,i
+ivory tower,"The expression 'ivory tower' in this context is used figuratively to describe a disconnect or detachment from practical realities or everyday concerns. Therefore, the output is:
+
+i",i
+kangaroo court,"The expression 'kangaroo court' in this context holds a figurative meaning because it is used to describe an unfair, biased, or illegitimate court hearing rather than an actual court full of kangaroos. Hence, the output is:
+
+i",i
+kangaroo court,"The expression 'kangaroo court' in this context holds figurative meaning. Thus, the output is:
+
+i",i
+kangaroo court,i,i
+sitting duck,"The expression 'sitting duck' holds figurative meaning in this context.
+
+Output: i",i
+double cross,i,i
+double cross,"The expression ""double cross"" in the context ""Deception and heartbreak abound and when the double cross of the double cross arrives, it is handled with a customary le Carré jab."" holds figurative meaning. 
+
+Therefore, the output is 'i'.",i
+double cross,"The expression 'double cross' in the context 'For the men of MI-5, Chapman was an ideal candidate to double cross.' holds a figurative meaning. Therefore, the output is:
+
+i",i
+smoking gun,i,i
+smoking gun,i,i
+double dutch,‘i’,i
+double dutch,i,i
+double dutch,i,i
+snake oil,i,i
+snake oil,i,i
+snake oil,i,i
+smoke screen,i,i
+smoke screen,i,i
+smoke screen,"The expression 'smoke screen' in the given context holds figurative meaning. Therefore, the output is 'i'.",i
+swan song,i,i
+swan song,The expression 'swan song' in this context holds figurative meaning. Output 'i'.,i
+swan song,i,i
+old flame,i,i
+old flame,i,i
+old flame,"The expression 'old flame' in the context 'Kanna would have known that Katara would meet Pakku if she headed northward and that her old flame would recognize the betrothal necklace.' holds a figurative meaning, as it refers to someone Kanna was romantically involved with in the past. 
+
+Thus, the output is: **i**.",i
+zebra crossing,l,i
+zebra crossing,l,i
+zebra crossing,l,i
+silver lining,Output: i,i
+top dog,i,i
+bad hat,i,i
+bad hat,"The expression 'bad hat' in this context holds a figurative meaning. It is used metaphorically to describe someone's character, implying that the person may have a mischievous or roguish nature similar to the speaker.
+
+Therefore, the output is 'i'.",i
+bad hat,i,i
+acid test,i,i
+acid test,i,i
+acid test,i,i
+big fish,"The expression 'big fish' in this context holds a figurative meaning. Therefore, the output is 'i'.",i
+agony aunt,i,i
+brass ring,i,i
+brass ring,i,i
+brass ring,i,i
+busy bee,"The expression 'busy bee' in the context ""As many of his friends and colleagues know him to be, Esplago has always been a busy bee who makes changes happen whenever he goes."" holds figurative meaning. Therefore, the output is:
+
+i",i
+closed book,i,i
+closed book,i,i
+closed book,i,i
