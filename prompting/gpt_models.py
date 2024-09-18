@@ -132,7 +132,6 @@ def run_and_save_predictions(idioms, sentence, model, setting, model_abr):
   for idiom, sentence in tqdm(idiom_sent_dict):
 
     raw_output1 = prompter.prompt(f"Is the expression '{idiom}' used figuratively or literally in the sentence: '{sentence}'. Answer 'i' for figurative, 'l' for literal.")
-    # TODO
     raw_output2 = prompter.prompt(f"In the sentence '{sentence}', is the expression '{idiom}' being used figuratively or literally? Respond with 'i' for figurative and 'l' for literal.")
     raw_output3 = prompter.prompt(f"How is the expression '{idiom}' used in this context: '{sentence}'. Output 'i' if the expression holds figurative meaning, output 'l' if the expression holds literal meaning.")
     
@@ -140,19 +139,25 @@ def run_and_save_predictions(idioms, sentence, model, setting, model_abr):
     response2 = process_output(raw_output2)
     response3 = process_output(raw_output3)
 
-    idioms_preds_p1.append((idiom, response1))
-    idioms_preds_p2.append((idiom, response2))
-    idioms_preds_p3.append((idiom, response3))
+    # for processed outputs
+    # idioms_preds_p1.append((idiom, response1))
+    # idioms_preds_p2.append((idiom, response2))
+    # idioms_preds_p3.append((idiom, response3))
+
+    # for raw outputs directly from model
+    idioms_preds_p1.append((idiom, raw_output1))
+    idioms_preds_p2.append((idiom, raw_output2))
+    idioms_preds_p3.append((idiom, raw_output3))
 
   # print(idom_preds)
   print(len(idioms_preds_p1))
   print(len(idioms_preds_p2))
   print(len(idioms_preds_p3))
 
-  # model_abr = model.replace("-", "")
-  # model_abr = model_abr.replace(".", "")
 
-  path = f"predictions/"
+  # save the raw outputs from model
+  path = f"raw_output_gpts"
+  # path = f"predictions/"
   save_predictions(idioms_preds_p1, setting, path, model_abr, "p1")
   save_predictions(idioms_preds_p2, setting, path, model_abr, "p2")
   save_predictions(idioms_preds_p3, setting, path, model_abr, "p3")
