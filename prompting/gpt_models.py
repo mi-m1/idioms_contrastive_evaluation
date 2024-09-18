@@ -156,7 +156,7 @@ def run_and_save_predictions(idioms, sentence, model, setting, model_abr):
 
 
   # save the raw outputs from model
-  path = f"raw_output_gpts"
+  path = f"raw_output_gpts/"
   # path = f"predictions/"
   save_predictions(idioms_preds_p1, setting, path, model_abr, "p1")
   save_predictions(idioms_preds_p2, setting, path, model_abr, "p2")
