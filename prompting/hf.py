@@ -49,7 +49,6 @@ def save_predictions(idioms_preds, setting, path, model_abr, run):
         csv_out.writerow(row)
 
 def run_predictions(idioms, sentence, model_abr, setting):
-# def run_and_save_predictions(idioms, sentence, model, setting):
   idioms_preds_p1 = []
   idioms_preds_p2 = []
   idioms_preds_p3 = []
@@ -83,7 +82,8 @@ def run_predictions(idioms, sentence, model_abr, setting):
   print(len(idioms_preds_p2))
   print(len(idioms_preds_p3))
 
-  path = f"predictions/"
+  # path = f"predictions/"
+  path = f"raw_output_flan/" #for raw outputs
   save_predictions(idioms_preds_p1, setting, path, args.model_abr, "p1")
   save_predictions(idioms_preds_p2, setting, path, args.model_abr, "p2")
   save_predictions(idioms_preds_p3, setting, path, args.model_abr, "p3")

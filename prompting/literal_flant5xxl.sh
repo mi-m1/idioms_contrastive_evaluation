@@ -1,11 +1,11 @@
 #!/bin/bash
-#SBATCH --nodes=1
-#SBATCH --time=1-00:00:00
-#SBATCH -o literal_flant5xxl.out
+#SBATCH --gres=gpu:1
 #SBATCH --partition=gpu
 #SBATCH --qos=gpu
-#SBATCH --gres=gpu:1
-#SBATCH --mem=80GB
+#SBATCH --account=dcs-acad6
+#SBATCH --reservation=dcs-acad6
+#SBATCH --time=1-00:00:00
+#SBATCH -o literal_flant5xxl.out
 #SBATCH --mail-user=zmi1@sheffield.ac.uk
 #SBATCH --mail-type BEGIN
 #SBATCH --mail-type END
@@ -24,4 +24,4 @@ LD_LIBRARY_PATH=""
 # --seed 1234 \
 # --eval_dataset "dataset/gpt4_t08_sentences_verifier_annotations_accepted_only.csv" \
 
-python literal_hf.py --model_name google/flan-t5-xxl --eval_dataset dataset/literal_1032.csv --model_abr flant5xxl --setting literal
+python hf.py --model_name google/flan-t5-xxl --eval_dataset dataset/literal_1032.csv --model_abr flant5xxl --setting literal

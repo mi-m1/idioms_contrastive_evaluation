@@ -1,11 +1,11 @@
 #!/bin/bash
-#SBATCH --nodes=1
-#SBATCH --time=1-00:00:00
-#SBATCH -o literal_flant5small.out
+#SBATCH --gres=gpu:1
 #SBATCH --partition=gpu
 #SBATCH --qos=gpu
-#SBATCH --gres=gpu:1
-#SBATCH --mem=80GB
+#SBATCH --account=dcs-acad6
+#SBATCH --reservation=dcs-acad6
+#SBATCH --time=1-00:00:00
+#SBATCH -o literal_flant5small.out
 #SBATCH --mail-user=zmi1@sheffield.ac.uk
 #SBATCH --mail-type BEGIN
 #SBATCH --mail-type END

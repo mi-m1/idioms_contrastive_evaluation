@@ -1,0 +1,1168 @@
+Idiom,Sentence
+all hell broke loose,l
+all hell broke loose,l
+all hell broke loose,i
+off the hook,l
+off the hook,l
+off the hook,l
+against the grain,l
+against the grain,'l'
+play with fire,"The expression 'play with fire' in this context: 'Despite the danger, he decided to play with fire, poking the embers with a stick.' holds literal meaning.
+
+Output: l"
+play with fire,l
+play with fire,l
+make a killing,'l'
+make a killing,l
+make a killing,l
+carry the can,l
+carry the can,l
+carry the can,l
+in the doghouse,'l'
+in the doghouse,l
+in the doghouse,l
+behind the scenes,l
+behind the scenes,'l'
+behind the scenes,l
+go to the wall,'l'
+go to the wall,'l'
+go to the wall,l
+see the light of day,l
+see the light of day,l
+under the weather,'l'
+under the weather,l
+under the weather,l
+jump through hoops,l
+jump through hoops,‘l’
+jump through hoops,l
+on the horn,l
+on the horn,"The expression 'on the horn' in this context is used to refer to the actual horn of the saddle, which is a physical component of a saddle. Therefore, the meaning is literal.
+
+Output 'l'."
+to the bone,l
+to the bone,l
+push the envelope,l
+push the envelope,l
+look on the bright side,`l`
+look on the bright side,l
+up to here,l
+up to here,'l'
+up to here,l
+night and day,l
+night and day,i
+head for the hills,l
+head for the hills,'l'
+head for the hills,l
+pass the buck,'l'
+pass the buck,l
+rise from the ashes,l
+rise from the ashes,l
+rise from the ashes,"The expression ""rise from the ashes"" holds figurative meaning in this context, as it is used to convey the idea of a lone flower emerging or surviving against all odds after a house fire.
+
+Output: i"
+meat and potatoes,l
+meat and potatoes,l
+meat and potatoes,l
+in bed with,l
+in bed with,l
+in bed with,l
+in the pink,l
+in the pink,'l'
+in the pink,l
+go to town,l
+go to town,'l'
+go to town,l
+heart of gold,"In the context given ('The alchemist, after years of studying, was able to transmute a chunk of lead into a heart of gold.'), the expression 'heart of gold' holds a **literal** meaning. The alchemist transformed lead into an actual physical heart made of gold. 
+
+Therefore, the output is `'l'`."
+heart of gold,l
+heart of gold,l
+par for the course,'l'
+par for the course,'l'
+par for the course,'l'
+out of line,l
+out of line,'l'
+out of line,l
+stay the course,'l'
+stay the course,"The expression 'stay the course' in the context 'The hiker was advised to stay the course and not venture off into unknown territory' holds a literal meaning, as it advises the hiker to literally stick to a known path and avoid straying into potentially dangerous areas.
+
+Output: l"
+stay the course,"In this context, the expression 'stay the course' holds literal meaning because it relates directly to continuing along the physical course of the marathon race. Therefore, the output is 'l'."
+smoke and mirrors,'l'
+smoke and mirrors,l
+get to the bottom of,l
+get to the bottom of,l
+get to the bottom of,'l'
+by the book,l
+by the book,"The expression 'by the book' in this context is used literally, as it suggests that the detective physically found the piece of evidence inside a book in the library. Therefore, the output should be 'l'."
+in your face,l
+in your face,l
+in your face,'l'
+in the black,l
+in the black,"The expression 'in the black' in the context 'The cat, almost invisible in the black, pounced on the unsuspecting mouse.' holds a literal meaning. The cat is described as being almost invisible against a dark background. Therefore, the output is:
+
+'l'"
+in the black,'l'
+hit the nail on the head,l
+hit the nail on the head,l
+in the driving seat,l
+in the driving seat,l
+in the driving seat,l
+join the club,l
+join the club,l
+join the club,i
+walk the plank,l
+walk the plank,l
+eat humble pie,l
+eat humble pie,'l'
+eat humble pie,l
+up the river,l
+up the river,l
+up the river,l
+circle the wagons,l
+look the part,"The expression 'look the part' in this context holds literal meaning because it refers to the actor actually wearing the knight's armour and physically appearing suitable for his role in the historical drama. Thus, the output is:
+
+l"
+look the part,i
+look the part,i
+moment of truth,"The expression 'moment of truth' in the context 'When the detective confronted the suspect with the evidence, it was a moment of truth.' holds figurative meaning. Output: 'i'."
+all bets are off,l
+all bets are off,l
+knock someone's socks off,'l'
+on the side of the angels,i
+on the side of the angels,l
+on the side of the angels,l
+jump on the bandwagon,"The expression 'jump on the bandwagon' in this context refers to the children's literal desire to physically get on the bandwagon that is part of the circus. Therefore, it holds a literal meaning.
+
+Output: l"
+jump on the bandwagon,'l'
+jump on the bandwagon,l
+turn the other cheek,l
+raise the roof,l
+raise the roof,'l'
+raise the roof,l
+do the right thing,'i'
+do the right thing,i
+do the right thing,i
+on the square,l
+on the square,l
+on the square,l
+pick up the pieces,l
+pick up the pieces,l
+pick up the pieces,l
+touch and go,'l'
+off and running,'l'
+off and running,l
+off and running,l
+horses for courses,l
+horses for courses,'l'
+horses for courses,l
+wipe the slate clean,l
+wipe the slate clean,l
+wipe the slate clean,i
+hit the jackpot,l
+hit the jackpot,l
+hit the jackpot,l
+round the bend,l
+round the bend,'l'
+round the bend,l
+go for the jugular,l
+go for the jugular,l
+go for the jugular,l
+nip and tuck,l
+nip and tuck,l
+nip and tuck,l
+throw the baby out with the bathwater,l
+throw the baby out with the bathwater,i
+out of order,"The expression 'out of order' in the context 'The elevator is out of order so we'll need to use the stairs.' holds a literal meaning. Therefore, the output is 'l'."
+out of order,"The expression 'out of order' in the context 'I'm sorry, the photocopy machine is out of order at the moment.' holds literal meaning because it is directly referring to the physical state of the photocopy machine being broken or not functioning. Therefore, the output is 'l'."
+out of order,"The expression ""out of order"" in the context ""The restroom is out of order, you'll need to use the one on the next floor."" holds a literal meaning. Therefore, the output is 'l'."
+muddy the waters,l
+muddy the waters,l
+muddy the waters,'l'
+move the goalposts,l
+move the goalposts,l
+move the goalposts,l
+hair of the dog,'l'
+hair of the dog,l
+hair of the dog,l
+have someone's number,l
+neither here nor there,l
+neither here nor there,'l'
+neither here nor there,"The expression 'neither here nor there' in the context 'The bird, confused and disoriented by the storm, found that its home was neither here nor there.' holds **literal meaning**. 
+
+Output: **'l'**"
+out of the woods,l
+out of the woods,'l'
+out of the woods,l
+sit on the fence,l
+sit on the fence,'l'
+sit on the fence,l
+keep the peace,l
+keep the peace,l
+six feet under,l
+six feet under,l
+six feet under,"The expression 'six feet under' in the context 'The buried pipeline runs six feet under the surface of the ground.' holds a literal meaning. Therefore, the output is:
+
+'l'"
+dead and buried,l
+dead and buried,l
+dead and buried,'l'
+down in the dumps,"The expression 'down in the dumps' in this context is used figuratively to describe a state of sadness or depression. It does not mean that the person is literally in a dump searching for things.
+
+Output: i"
+down in the dumps,l
+down in the dumps,'l'
+know the score,'l'
+know the score,'l'
+know the score,l
+oil and water,l
+oil and water,l
+oil and water,l
+add fuel to the fire,l
+add fuel to the fire,l
+add fuel to the fire,l
+power behind the throne,i
+power behind the throne,i
+power behind the throne,i
+blood and guts,'l'
+blood and guts,l
+blood and guts,l
+strike while the iron is hot,l
+strike while the iron is hot,l
+on the hop,'l'
+on the hop,l
+on the hop,'l'
+all over the map,l
+all over the map,l
+all over the map,l
+let the cat out of the bag,l
+let the cat out of the bag,l
+let the cat out of the bag,'i'
+blaze a trail,l
+blaze a trail,'l'
+blaze a trail,"The expression 'blaze a trail' in this context means to create or mark a path through a previously uncharted or tangled area, to avoid getting lost and circling back to the same spot. In this scenario, it is used in a literal sense as it refers to physically marking or creating a path in a labyrinth.
+
+Output: 'l'"
+on the bounce,'l'
+on the bounce,'l'
+on the bounce,l
+at a canter,l
+at a canter,'l'
+at a canter,l
+out to lunch,l
+out to lunch,'l'
+out to lunch,"In the given sentence, 'She forgot her wallet on the table when she went out to lunch.', the expression 'out to lunch' holds a literal meaning, referring to someone actually going out to eat lunch.
+
+Output: 'l'"
+twist someone's arm,"In the given context, 'twist someone's arm' is used to describe a physical action in a brawl. Therefore, it holds a literal meaning.
+
+Output: l"
+twist someone's arm,l
+twist someone's arm,l
+swings and roundabouts,l
+swings and roundabouts,l
+swings and roundabouts,l
+on the ball,l
+on the ball,l
+rob Peter to pay Paul,l
+rob Peter to pay Paul,"In the given context, the expression 'rob Peter to pay Paul' holds a figurative meaning. It is used metaphorically to describe a situation where John took resources from one party (Peter) to settle an obligation or debt with another party (Paul), resulting in dissatisfaction from both parties.
+
+So, the output is: **i**"
+rob Peter to pay Paul,i
+ring a bell,l
+ring a bell,'l'
+ring a bell,l
+to die for,l
+to die for,'l'
+to die for,l
+everything but the kitchen sink,i
+spend a penny,"The expression 'spend a penny' typically means to use the restroom, which is a figurative meaning. However, in the context given, 'spend a penny' is used to mean literally dropping a penny into a fountain to make a wish.
+
+So the output is 'l'."
+spend a penny,'l'
+spend a penny,'l'
+in black and white,l
+in black and white,l
+in black and white,l
+doom and gloom,"The expression 'doom and gloom' in the context 'The haunted house was filled with an atmosphere of doom and gloom.' holds figurative meaning, as it is describing a general feeling of dread and hopelessness rather than a literal, physical presence of doom and gloom. 
+
+Output: i"
+doom and gloom,'l'
+doom and gloom,i
+keep tabs on,i
+keep tabs on,i
+keep tabs on,i
+get the picture,l
+get the picture,l
+get the picture,l
+look the other way,l
+look the other way,'l'
+look the other way,'l'
+burst someone's bubble,l
+burst someone's bubble,l
+burst someone's bubble,l
+fall in line,'l'
+fall in line,'l'
+fall in line,'l'
+water under the bridge,'l'
+water under the bridge,l
+water under the bridge,l
+keep a lid on,'l'
+keep a lid on,l
+keep a lid on,'l'
+down the drain,l
+down the drain,l
+down the drain,'l'
+make the cut,l
+make the cut,l
+make the cut,l
+free and easy,l
+free and easy,l
+free and easy,'l'
+with a vengeance,i
+cut both ways,l
+cut both ways,'l'
+cut both ways,l
+sing the praises of,l
+sing the praises of,'i'
+sing the praises of,'l'
+hold the line,l
+pull the plug,l
+pull the plug,l
+pull the plug,l
+make a move,l
+make a move,l
+make a move,'l'
+make a meal of,l
+make a meal of,l
+make a meal of,l
+the icing on the cake,l
+the icing on the cake,l
+the icing on the cake,'l'
+in the red,l
+in the red,l
+in the red,'l'
+feel the pinch,l
+feel the pinch,l
+feel the pinch,l
+under the microscope,l
+under the microscope,'l'
+under the microscope,l
+pay the piper,l
+pay the piper,'l'
+pay the piper,l
+on the trot,l
+on the trot,"The expression 'on the trot' in the context 'The rider kept his horse on the trot as he surveyed the landscape.' holds a literal meaning, as it describes the physical action of the horse moving at a specific gait. Therefore, the appropriate output is 'l'."
+on the trot,'i'
+peaches and cream,"The expression 'peaches and cream' in the context 'She decided to make a delicious summer dessert using fresh peaches and cream.' holds literal meaning. Therefore, the output is 'l'."
+peaches and cream,'l'
+toe the line,l
+toe the line,'l'
+grasp the nettle,"The expression 'grasp the nettle' in the context ""While exploring the dense forest, I had to literally grasp the nettle to move it out of my path"" holds literal meaning.
+
+Output: l"
+grasp the nettle,l
+grasp the nettle,i
+high and mighty,'l'
+high and mighty,l
+high and mighty,l
+in the hole,"The expression 'in the hole' in the context 'The children spent the afternoon playing in the hole they had dug at the beach.' holds literal meaning.
+
+Output: 'l'"
+in the hole,l
+in the hole,l
+take the fall,l
+take the fall,'l'
+take the fall,l
+in the offing,l
+in the offing,'l'
+in the offing,'l'
+ride roughshod over,l
+ride roughshod over,i
+ride roughshod over,l
+crash and burn,l
+crash and burn,l
+crash and burn,'l'
+dyed in the wool,l
+dyed in the wool,l
+dyed in the wool,l
+fight fire with fire,l
+fight fire with fire,"The expression 'fight fire with fire' in this context holds a literal meaning because it refers to igniting a backfire to halt the destructive path of a fire. Hence, the output is 'l'."
+fight fire with fire,l
+all over the place,l
+all over the place,l
+all over the place,'l'
+grind to a halt,l
+grind to a halt,l
+grind to a halt,'l'
+in a nutshell,l
+in a nutshell,l
+rise and shine,l
+take a back seat,'l'
+take a bath,l
+take a bath,l
+take a bath,l
+bury the hatchet,i
+bury the hatchet,'l'
+in the soup,'l'
+in the soup,l
+in the soup,l
+grease the wheels,'l'
+grease the wheels,l
+grease the wheels,l
+apples and oranges,l
+apples and oranges,'l'
+follow in someone's footsteps,l
+follow in someone's footsteps,l
+follow in someone's footsteps,l
+under the wire,l
+under the wire,l
+under the wire,l
+out of the blue,"The expression 'out of the blue' in the context 'While sailing, a huge whale leaped out of the blue ocean, startling everyone on the boat.' is used literally to describe the whale leaping out of the blue-colored ocean. Therefore, the output is:
+
+l"
+out of the blue,Output: 'l'
+out of the blue,l
+over the moon,l
+over the moon,l
+throw down the gauntlet,l
+throw down the gauntlet,l
+take the bull by the horns,l
+take the bull by the horns,'l'
+take the bull by the horns,i
+over the top,'l'
+over the top,l
+over the top,l
+sweetness and light,l
+sweetness and light,l
+behind someone's back,'l'
+behind someone's back,l
+on the ropes,l
+take the cake,'l'
+dig up dirt,l
+dig up dirt,l
+dig up dirt,'l'
+left and right,'l'
+dead in the water,l
+dead in the water,l
+dead in the water,'l'
+take no prisoners,l
+run out of steam,l
+take a hike,l
+take a hike,l
+take a hike,'l'
+go the extra mile,l
+under a cloud,"The expression 'under a cloud' in the context given ('As the children played football in the park, they found themselves suddenly under a cloud, and rain began to pour down.') holds literal meaning. Therefore, the output is:
+
+l"
+under a cloud,"In the given context, the expression 'under a cloud' is used literally to describe the physical presence of a cloud in the sky, suggesting potential rain. Thus, the output is:
+
+**l**"
+under a cloud,l
+in someone's pocket,l
+in someone's pocket,l
+in someone's pocket,l
+on the shelf,'l'
+on the shelf,l
+on the shelf,l
+pound the pavement,l
+cut and thrust,l
+cut and thrust,l
+song and dance,'l'
+song and dance,l
+song and dance,'l'
+turn the tables,l
+turn the tables,"The expression 'turn the tables' in the given context holds a literal meaning. The phrase is used to describe the physical action of moving tables to clear the floor while the carpet was being replaced. Therefore, the correct output is 'l'."
+over the hill,l
+over the hill,l
+over the hill,l
+out of the loop,l
+drop the ball,l
+the buck stops here,'l'
+the buck stops here,'l'
+the buck stops here,"The expression 'the buck stops here' holds a literal meaning in this context because it is referring to an actual deer (a buck) stopping in the middle of the trail.
+
+Output: 'l'"
+on the rocks,l
+on the rocks,l
+on the rocks,"The expression 'on the rocks' in the sentence 'The adventurous kid was seen skipping joyously on the rocks by the stream.' holds a literal meaning. Therefore, the output is 'l'."
+break someone's heart,"The expression 'break someone's heart' in the given context is used in the literal sense. The doctor is likely referring to the possibility that the surgery could physically damage the patient's heart. Therefore, the correct output is 'l'."
+break someone's heart,l
+break someone's heart,"The expression 'break someone's heart' in this context holds literal meaning because it is referring to the physical condition of the heart due to extreme physical exertion. 
+
+So, the output is:
+
+'l'"
+steal someone's thunder,`l`
+slap on the wrist,'l'
+slap on the wrist,'l'
+on the make,l
+on the make,'l'
+on the make,l
+things that go bump in the night,i
+push the boat out,l
+push the boat out,l
+push the boat out,l
+smell a rat,l
+smell a rat,'l'
+smell a rat,l
+shoot the messenger,l
+shoot the messenger,l
+shoot the messenger,'l'
+wake up and smell the coffee,"In the given context, the expression 'wake up and smell the coffee' is used to describe the literal action of waking up and smelling the coffee his wife had brewed. Therefore, the output should be 'l'."
+fun and games,'l'
+fun and games,l
+fun and games,"The expression 'fun and games' in the context ""The picnic at the park turned into an afternoon of fun and games."" holds a literal meaning because it directly describes the activities that likely occurred during the picnic. Therefore, the output is:
+
+l"
+cast the first stone,l
+cast the first stone,l
+kick the bucket,l
+kick the bucket,l
+kick the bucket,'l'
+fly a kite,'l'
+fly a kite,l
+fly a kite,"The expression 'fly a kite' in this context is used literally, as it refers to the actual activity of flying a kite. Therefore, the output is 'l'."
+in the clear,"In this context, 'in the clear' holds a literal meaning, as it describes the actual clear, cloudless sky.
+
+Output: l"
+in the clear,l
+have a few,l
+have a few,l
+have a few,'l'
+to the hilt,l
+to the hilt,'l'
+to the hilt,l
+open the floodgates,l
+open the floodgates,l
+open the floodgates,l
+throw the book at,'l'
+throw the book at,l
+throw the book at,"The expression 'throw the book at' in the provided context holds literal meaning. Therefore, the output is 'l'."
+when the chips are down,"In the given context, 'when the chips are down on the poker table, the game becomes intense', the expression holds a literal meaning because it refers to the actual poker chips in a real game of poker.
+
+So the output is:
+
+'l'"
+when the chips are down,'l'
+between a rock and a hard place,l
+between a rock and a hard place,l
+put down roots,l
+put down roots,'l'
+in your dreams,l
+in your dreams,l
+short and sweet,i
+cut and dried,"The expression 'cut and dried' in the context 'After the harvest, the herbs were cut and dried for winter use.' holds a literal meaning. Therefore, the output is:
+
+l"
+cut and dried,'l'
+cut and dried,'l'
+six of the best,l
+six of the best,l
+six of the best,'l'
+behind closed doors,l
+behind closed doors,l
+behind closed doors,l
+clear the decks,l
+clear the decks,l
+clear the decks,l
+on the game,l
+on the game,l
+on the game,l
+with open arms,"The expression ""with open arms"" in the context ""She ran towards her best friend with open arms after not seeing her for years"" holds a **literal** meaning because it describes an actual physical action of running towards someone with arms outstretched, ready for an embrace.
+
+Output: `l`"
+with open arms,"The expression 'with open arms' in the sentence 'Upon seeing his lost dog, the boy rushed to him with open arms.' holds a literal meaning, since it's describing the physical action of the boy rushing towards his dog with his arms open, ready to embrace the dog. 
+
+Output: l"
+flash in the pan,l
+flash in the pan,l
+flash in the pan,l
+rough around the edges,'l'
+rough around the edges,l
+fly off the handle,'l'
+fly off the handle,l
+see the light,l
+see the light,l
+see the light,l
+pour cold water on,l
+pour cold water on,'l'
+pour cold water on,l
+fire in the belly,l
+get a grip,l
+get a grip,l
+get a grip,'l'
+in the loop,l
+in the loop,'l'
+in the loop,l
+fly in the face of,l
+fly in the face of,l
+get the boot,l
+get the boot,'l'
+on and off,'l'
+on and off,l
+on and off,l
+cook the books,"In this context, the expression 'cook the books' holds literal meaning because she is literally baking the books in her oven.
+
+l"
+cook the books,'l'
+cook the books,l
+on the same page,`l`
+on the same page,'l'
+run a mile,l
+run a mile,'l'
+run a mile,"The expression 'run a mile' in the context 'He was so fit, he could easily run a mile without breaking a sweat.' holds a literal meaning.
+
+Output: l"
+on thin ice,l
+on thin ice,l
+close to home,l
+close to home,"The expression 'close to home' in the context 'I enjoy living in this neighborhood because the park is close to home.' holds a literal meaning. Therefore, the output is:
+
+'l'"
+close to home,"The expression 'close to home' in the provided context holds a literal meaning, as it refers to the physical proximity of the gym to the person's residence. Thus, the correct output is 'l'."
+in the bag,l
+in the bag,l
+in the raw,l
+in the raw,Output: l
+cut the mustard,'l'
+force someone's hand,l
+force someone's hand,l
+in the final analysis,i
+in the final analysis,i
+in the final analysis,i
+up in the air,'l'
+up in the air,l
+fall from grace,l
+fall from grace,i
+fall from grace,l
+full of beans,l
+full of beans,l
+full of beans,l
+press the panic button,l
+press the panic button,l
+press the panic button,l
+have a heart,l
+have a heart,"The expression 'have a heart of gold' in this context holds figurative meaning. Therefore, the output is:
+
+i"
+have a heart,'l'
+on the fly,l
+on the fly,l
+get stuck in,l
+get stuck in,l
+get stuck in,l
+out of the box,"In this context, 'out of the box' holds a literal meaning, as it describes the physical action of the cat jumping out of an actual box.
+
+So, the output is 'l'."
+out of the box,l
+out of the box,'l'
+on the warpath,l
+on the warpath,'l'
+on the warpath,l
+take a dive,'l'
+take a dive,l
+take a dive,'l'
+scratch the surface,"The expression 'scratch the surface' in the context 'While exploring the ancient artifact, the archaeologist was careful not to scratch the surface' holds literal meaning. Therefore, the output is 'l'."
+scratch the surface,l
+scratch the surface,"In this context, the expression 'scratch the surface' is used literally because it refers to the physical action of scratching the surface of a lottery ticket with a coin.
+
+Output: 'l'"
+hammer and tongs,l
+hammer and tongs,l
+hammer and tongs,l
+make a clean break,'l'
+make a clean break,l
+make a clean break,"The expression 'make a clean break' in the context 'Angela was learning pottery, but she struggled to make a clean break in the clay.' is used in a literal sense because it refers to physically breaking the clay cleanly without any figurative implications.
+
+Output: l"
+at sixes and sevens,i
+nuts and bolts,l
+nuts and bolts,l
+nuts and bolts,l
+the ball is in someone's court,l
+the ball is in someone's court,l
+get a life,'l'
+get a life,"In the given context, the expression 'get a life' holds a literal meaning because it refers to the heart transplant giving her the opportunity to live a life she thought she'd lost. Therefore, the output is 'l'."
+get a life,l
+on the nose,l
+on the nose,'l'
+on the nose,l
+on a shoestring,l
+in the driver's seat,l
+in the driver's seat,l
+wet behind the ears,'l'
+wet behind the ears,'l'
+wet behind the ears,l
+up a tree,'l'
+up a tree,l
+up a tree,l
+pick someone's brain,i
+fill someone's shoes,l
+save someone's skin,l
+save someone's skin,l
+walk all over,l
+walk all over,l
+walk all over,l
+hot and heavy,'l'
+hot and heavy,'l'
+hot and heavy,"The expression 'hot and heavy' in the given context is referring to the temperature (hot) and the substantial nature (heavy) of the soup. This usage pertains to the literal characteristics of the soup.
+
+Output: 'l'"
+strike a chord,"The expression 'strike a chord' is used in its literal meaning in the context 'During the music lesson, the teacher asked me to strike a chord on the piano.'. Therefore, the output is 'l'."
+strike a chord,l
+strike a chord,'l'
+batten down the hatches,l
+batten down the hatches,l
+batten down the hatches,l
+cap in hand,"The expression 'cap in hand' in the context 'With his cap in hand, he stepped forward to greet the queen.' holds a **literal** meaning because it describes a physical action of holding a cap in one's hand. 
+
+Output: **l**"
+cap in hand,l
+cap in hand,"Based on the context you have provided, the expression 'cap in hand' is used literally. 
+
+Output: l"
+kicking and screaming,l
+kicking and screaming,l
+kicking and screaming,Output: 'l'
+sick and tired,l
+sick and tired,l
+on the cards,l
+on the cards,l
+face the music,"In the context ""At the concert, the audience was excited to finally face the music,"" the expression holds a literal meaning because it is referring to the audience being excited to actually listen to the music being performed at the concert.
+
+Output: l"
+face the music,'l'
+come in from the cold,l
+come in from the cold,l
+come in from the cold,l
+head over heels,l
+head over heels,'l'
+head over heels,"In this context, the expression 'head over heels' is used to describe the physical action of things in the room literally being tossed around during the earthquake. Therefore, it holds a literal meaning.
+
+Output: 'l'"
+reach for the stars,l
+for a song,l
+for a song,l
+for a song,'l'
+down the tubes,l
+down the tubes,l
+down the tubes,l
+no strings attached,l
+no strings attached,l
+no strings attached,l
+spit it out,l
+spit it out,l
+spit it out,l
+don't hold your breath,l
+don't hold your breath,l
+don't hold your breath,l
+stand up and be counted,l
+stand up and be counted,`l`
+far and away,'l'
+far and away,'l'
+far and away,l
+sink or swim,"The expression 'sink or swim' in the context 'When thrown into the deep end of the pool, it was sink or swim for John.' holds a **literal** meaning. Therefore, the output is 'l'."
+sink or swim,l
+sink or swim,'l'
+hit the bottle,l
+hit the bottle,'l'
+hit the bottle,l
+turn over a new leaf,'l'
+turn over a new leaf,"The expression 'turn over a new leaf' in this context refers to an action involving a part of a fern (a literal leaf of the fern). Thus, it holds a literal meaning.
+
+Output: l"
+put the boot in,l
+put the boot in,l
+make a splash,"The expression 'make a splash' in the context 'When the boy jumped off the diving board, he was determined to make a splash big enough to drench his friends.' holds literal meaning. Thus, the output is:
+
+```
+l
+```"
+make a splash,l
+draw a line in the sand,l
+push someone's buttons,'l'
+push someone's buttons,'l'
+separate the wheat from the chaff,l
+separate the wheat from the chaff,'l'
+get to grips with,"The expression 'get to grips with' in the context 'The novice rock climber struggled to get to grips with the slippery boulder.' holds literal meaning since it directly refers to the climber physically trying to grasp or handle the boulder. Hence, the output is 'l'."
+get under someone's skin,l
+get under someone's skin,'l'
+get under someone's skin,"In this context, 'get under someone's skin' is used in a literal sense, referring to the mosquito's physical action of injecting enzymes under the person's skin. Therefore, the output is 'l'."
+up to speed,l
+up to speed,```l```
+go with the flow,l
+go with the flow,'l'
+rule the roost,'i'
+rule the roost,i
+rule the roost,l
+in the fast lane,'l'
+in the fast lane,l
+in the fast lane,l
+break the back of,l
+break the back of,'l'
+break the back of,l
+put words in someone's mouth,l
+put words in someone's mouth,l
+put words in someone's mouth,Output: 'l'
+shut the door on,l
+shut the door on,l
+shut the door on,l
+kiss of death,i
+kiss of death,i
+kiss of death,"The expression 'kiss of death' in the given context: 'In the ancient legend, the enchantress could deliver a 'kiss of death' to her enemies.' holds a **literal** meaning because it suggests that the enchantress literally delivers a kiss that results in death.
+
+Output: **l**"
+on the skids,l
+on the skids,l
+on the skids,l
+light at the end of the tunnel,l
+light at the end of the tunnel,l
+light at the end of the tunnel,'l'
+on a roll,'l'
+on a roll,l
+rock the boat,l
+rock the boat,'l'
+below the belt,l
+below the belt,l
+below the belt,'l'
+see eye to eye,l
+see eye to eye,l
+get it up,"The expression 'get it up' in the context 'Despite his efforts, he couldn't get it up the steep hill.' holds literal meaning.
+
+Output: l"
+get it up,"The expression 'get it up' holds a literal meaning in this context because it refers to the physical act of placing something on a shelf.
+
+Output: l"
+get it up,l
+get away with murder,l
+get away with murder,l
+get away with murder,'l'
+one of those things,"The expression 'one of those things' in the context 'The red toy car is one of those things that my son plays with every day.' holds a **literal** meaning. Therefore, the output is:
+
+'l'"
+one of those things,'l'
+joined at the hip,l
+joined at the hip,l
+have a ball,'l'
+have a ball,l
+under the sun,l
+under the sun,l
+under the sun,l
+on the wagon,'l'
+on the wagon,l
+on the wagon,'l'
+call a spade a spade,'l'
+call a spade a spade,'i'
+call a spade a spade,'l'
+spill the beans,l
+spill the beans,l
+on the button,l
+on the button,l
+on the button,l
+black and blue,l
+black and blue,'l'
+black and blue,l
+put the cart before the horse,'l'
+bells and whistles,l
+bells and whistles,'l'
+in cold blood,i
+in cold blood,"The correct output is 'l'. 
+
+In the context provided, 'cold blood' pertains to water being cold, which is a literal description rather than the figurative expression 'in cold blood' which typically means to do something cruel or violent deliberately and without emotion."
+carrot and stick,'l'
+carrot and stick,'l'
+down the road,l
+down the road,l
+down the road,'l'
+heads will roll,l
+heads will roll,l
+at the end of the day,l
+at the end of the day,l
+at the end of the day,'l'
+heart and soul,i
+heart and soul,"In the given context, the expression 'heart and soul' appears to hold a figurative meaning, referring to a deep, wholehearted commitment by the surgeon to his professional study and practice, rather than literally studying both the physical heart and an abstract 'soul'. Therefore, the output is:
+
+i"
+heart and soul,i
+pack a punch,l
+pack a punch,i
+pack a punch,l
+eat someone alive,"In the given context, 'In the heart of the jungle, he feared that a wild beast might eat him alive', the expression holds a literal meaning. Therefore, the output is:
+
+**'l'**"
+eat someone alive,'l'
+eat someone alive,'l'
+tie the knot,'l'
+tie the knot,l
+tie the knot,l
+step on it,Output: l
+step on it,l
+out of the picture,l
+out of the picture,'l'
+break the ice,'l'
+break the ice,l
+break the ice,l
+pop the question,i
+pop the question,i
+pop the question,i
+full speed ahead,l
+full speed ahead,l
+full speed ahead,l
+point the finger,'l'
+point the finger,l
+sign on the dotted line,i
+sign on the dotted line,l
+sign on the dotted line,'l'
+up the ante,'l'
+up the ante,l
+up the ante,l
+bring home the bacon,'l'
+bring home the bacon,'l'
+bring home the bacon,l
+with a view to,l
+with a view to,'l'
+with a view to,'l'
+move heaven and earth,"In this context: 'In the fantasy novel, the protagonist managed to move heaven and earth with his immense magical power.' the expression 'move heaven and earth' holds literal meaning.
+
+Output: l"
+move heaven and earth,'l'
+move heaven and earth,'l'
+across the board,l
+across the board,l
+tip the scales,l
+tip the scales,l
+face to face,"The expression 'face to face' in the context 'The two boxers came face to face in the ring.' holds literal meaning. Therefore, the output is 'l'."
+face to face,"The expression 'face to face' in the context 'After many years, the siblings were finally face to face again.' holds literal meaning, as it implies that the siblings were physically present in the same location and looking at each other directly.
+
+Output: l"
+face to face,l
+hold someone's hand,l
+hold someone's hand,'l'
+hold someone's hand,l
+cut from the same cloth,'l'
+cut from the same cloth,l
+cut from the same cloth,l
+licence to print money,i
+licence to print money,l
+licence to print money,i
+on the mend,i
+on the mend,i
+on the mend,i
+go all the way,'l'
+go all the way,i
+go all the way,l
+come with the territory,'l'
+come with the territory,i
+the bee's knees,l
+the bee's knees,l
+the bee's knees,l
+on the back of,l
+on the back of,"The expression 'on the back of' in this context holds a **literal** meaning. The sentence describes a physical action where the artist painted on the reverse side of an old canvas.
+
+Output: **l**"
+on the back of,l
+get a rise out of,'l'
+get off the ground,l
+get off the ground,l
+get off the ground,l
+under the table,l
+under the table,l
+under the table,"The expression 'under the table' in the context 'He reached under the table to retrieve the napkin that had slipped from his lap' holds literal meaning. Therefore, the output is 'l'."
+do someone proud,i
+do someone proud,i
+do someone proud,"The expression 'do someone proud' in the given context, 'Jill decided to work hard on her project, hoping she would do someone proud,' holds a figurative meaning. The phrase means to perform in a way that brings honor or satisfaction to someone.
+
+Output: i"
+down to the wire,l
+down to the wire,l
+down to the wire,l
+go the distance,l
+go the distance,i
+go the distance,l
+fast and furious,The expression 'fast and furious' holds a literal meaning in this context because it directly describes the speed and intensity of the car race. Output: 'l'.
+fast and furious,"The expression 'fast and furious' in the context 'The storm was fast and furious, leaving a trail of destruction in its path' holds figurative meaning. Hence, the output is 'i'."
+fast and furious,"The expression 'fast and furious' in the given context holds a figurative meaning. Therefore, the output is 'i'."
+watch this space,l
+watch this space,l
+set the wheels in motion,l
+set the wheels in motion,l
+set the wheels in motion,l
+to the tune of,l
+to the tune of,'l'
+to the tune of,'l'
+on the back burner,"In this context, the expression holds a literal meaning because it describes the physical act of placing the soup on the back burner of a stove to simmer. 
+
+Output: `l`"
+on the back burner,l
+on the back burner,l
+turn the screw,l
+turn the screw,l
+turn the screw,l
+glass ceiling,l
+glass ceiling,l
+glass ceiling,l
+grass root,l
+grass root,l
+grass root,l
+head hunter,'l'
+head hunter,l
+head hunter,l
+heavy cross,l
+heavy cross,l
+heavy cross,l
+banana republic,Output: 'l'
+banana republic,l
+banana republic,l
+crocodile tear,l
+crocodile tear,"Based on the context provided—'As he peered into the enclosure, he could see a crocodile tear dropping into the murky water.'—it appears that the phrase 'crocodile tear' is used in a literal sense. The sentence describes an observation in an enclosure, likely in a zoo or a similar setting, where an actual crocodile is shedding a tear.
+
+Therefore, the correct output is 'l'."
+crocodile tear,'l'
+eager beaver,l
+eager beaver,l
+cutting edge,l
+cutting edge,l
+cutting edge,'l'
+melting pot,l
+melting pot,'l'
+melting pot,l
+hot potato,l
+hot potato,l
+hot potato,l
+monkey business,l
+monkey business,l
+monkey business,l
+big cheese,l
+big cheese,l
+big cheese,l
+nest egg,'l'
+nest egg,"The expression 'nest egg' in the given context is used literally because it refers to an actual egg in a bird's nest found in the trees. 
+
+Output: 'l'"
+big picture,l
+big picture,l
+big picture,'l'
+night owl,'l'
+night owl,'l'
+night owl,l
+fashion plate,'l'
+fashion plate,'l'
+fashion plate,l
+big wig,l
+big wig,l
+big wig,l
+flower child,"The expression 'flower child' in this context holds figurative meaning.
+
+Output: i"
+flower child,i
+flower child,"The expression 'flower children' in this context describes paintings that likely depict children adorned with or surrounded by flowers, contributing to a whimsical and joyful atmosphere. This usage is more imaginative and artistic, rather than directly referring to children who are indeed made of or holding flowers. 
+
+'i'"
+panda car,"In this context, the expression 'panda car' is used literally. The speaker is referring to a toy or model car themed after pandas, rather than the police car meaning commonly associated with the term in some regions.
+
+Output: l"
+black box,l
+black box,l
+black box,l
+flea market,l
+flea market,l
+flea market,l
+goose egg,l
+blind alley,l
+blind alley,"The expression 'blind alley' is used in a literal context in the sentence: 'The old house was at the end of a blind alley, making it a quiet and isolated place.'. 
+
+So the output is 'l'."
+blind alley,l
+low profile,l
+low profile,l
+low profile,l
+blue blood,'l'
+blue blood,l
+blue blood,l
+grandfather clock,l
+grandfather clock,l
+grandfather clock,l
+guinea pig,'l'
+guinea pig,l
+guinea pig,l
+graveyard shift,l
+graveyard shift,l
+gravy train,l
+gravy train,l
+gravy train,"This context describes a literal scenario where ""gravy train"" seems to be an actual dish or item filled with gravy. Therefore, the correct output is:
+
+'l'"
+rat run,l
+rock bottom,l
+rock bottom,l
+rock bottom,'l'
+pipe dream,l
+pipe dream,l
+pipe dream,l
+rocket science,l
+rocket science,l
+rocket science,l
+poison pill,l
+poison pill,l
+poison pill,l
+shrinking violet,l
+shrinking violet,l
+shrinking violet,l
+silver bullet,l
+silver bullet,l
+silver bullet,l
+damp squib,'l'
+dark horse,l
+dark horse,l
+dark horse,l
+ivory tower,'l'
+ivory tower,l
+ivory tower,l
+kangaroo court,l
+kangaroo court,i
+kangaroo court,l
+sitting duck,l
+double cross,'l'
+double cross,l
+double cross,l
+smoking gun,l
+smoking gun,l
+double dutch,'l'
+double dutch,l
+double dutch,l
+snake oil,i
+snake oil,"The expression 'snake oil' in the context 'My grandfather claimed that the snake oil he bought from the market helped him cure his arthritis.' holds a literal meaning. Therefore, the output is 'l'."
+snake oil,i
+smoke screen,'l'
+smoke screen,"The expression 'smoke screen' in the context 'During the military exercise, the soldiers deployed a smoke screen to camouflage their movements.' holds a literal meaning.
+
+Output: l"
+smoke screen,l
+swan song,i
+swan song,'l'
+swan song,i
+old flame,'l'
+old flame,l
+old flame,'l'
+zebra crossing,Output: 'l'
+zebra crossing,'l'
+zebra crossing,l
+silver lining,'l'
+top dog,l
+bad hat,'l'
+bad hat,l
+bad hat,l
+acid test,l
+acid test,'l'
+acid test,The appropriate output is 'l'. The expression 'acid test' holds a literal meaning in this context because it refers to an actual test that uses acid to verify the authenticity of the ancient coin.
+big fish,l
+agony aunt,i
+brass ring,l
+brass ring,l
+brass ring,l
+busy bee,'l'
+closed book,l
+closed book,l
+closed book,l
