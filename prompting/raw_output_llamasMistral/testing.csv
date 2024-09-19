@@ -1,0 +1,9 @@
+idiom,sentence
+run a mile,"[INST] <<SYS>>
+You are a language expert.
+<</SYS>>
+
+expression: 'run a mile'
+ sentence: 'During her training, she had to run a mile every day to build up her endurance.' QUESTION: Is the expression figurative or literal? Generate 'output: i' if the idiom is used figuratively, or generate 'output: l' if the expression is used literally. Only generate the letter after 'output: '. [/INST]  Sure! The expression ""run a mile"" is generally used figuratively to mean ""go a long distance"" or ""endure a difficult task."" So, in this case, I would generate ""output: i"" to indicate that the expression is being used figuratively. Here's the full sentence:
+
+Output: i During her"
