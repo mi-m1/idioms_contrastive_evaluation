@@ -1,0 +1,35 @@
+-------------------------------------------------------------------------------
+There are messages associated with the following module(s):
+-------------------------------------------------------------------------------
+
+Anaconda3/2022.10:
+   We recommend that you use the following 2022 (sub)version of Anaconda3 -
+   "Anaconda3/2022.05". The latest module, Anaconda3/2022.10, is under
+   investigation as this has demonstrated odd behaviour on conda environment
+   exit (for some users). We will investigate this, and advise in due
+   course.
+
+-------------------------------------------------------------------------------
+
+  0%|          | 0/1033 [00:00<?, ?it/s]  0%|          | 1/1033 [00:04<1:09:15,  4.03s/it]  0%|          | 2/1033 [00:07<1:05:34,  3.82s/it]  0%|          | 3/1033 [00:11<1:09:14,  4.03s/it]  0%|          | 4/1033 [00:16<1:09:30,  4.05s/it]  0%|          | 5/1033 [00:20<1:13:45,  4.30s/it]  1%|          | 6/1033 [00:23<1:05:21,  3.82s/it]  1%|          | 7/1033 [00:27<1:07:39,  3.96s/it]  1%|          | 8/1033 [00:32<1:12:44,  4.26s/it]  1%|          | 9/1033 [00:36<1:07:51,  3.98s/it]  1%|          | 10/1033 [00:40<1:09:36,  4.08s/it]  1%|          | 11/1033 [00:43<1:02:12,  3.65s/it]  1%|          | 12/1033 [00:47<1:04:09,  3.77s/it]  1%|▏         | 13/1033 [00:50<1:02:02,  3.65s/it]  1%|▏         | 14/1033 [00:53<1:00:31,  3.56s/it]  1%|▏         | 15/1033 [00:58<1:02:55,  3.71s/it]  2%|▏         | 16/1033 [01:01<1:01:18,  3.62s/it]  2%|▏         | 16/1033 [01:02<1:06:08,  3.90s/it]
+Traceback (most recent call last):
+  File "llama_replicate.py", line 90, in <module>
+    predictions_all_prompts = run_predictions(df.Idiom, df.Sentence, args.model_abr, args.setting)
+  File "llama_replicate.py", line 76, in run_predictions
+    raw_output_p2 = prompt_model(raw_prompt2)
+  File "llama_replicate.py", line 23, in prompt_model
+    output = replicate.run(
+  File "/mnt/parscratch/users/acq22zm/anaconda/.envs/semeval-t4/lib/python3.8/site-packages/replicate/client.py", line 174, in run
+    return run(self, ref, input, use_file_output, **params)
+  File "/mnt/parscratch/users/acq22zm/anaconda/.envs/semeval-t4/lib/python3.8/site-packages/replicate/run.py", line 46, in run
+    prediction = client.models.predictions.create(
+  File "/mnt/parscratch/users/acq22zm/anaconda/.envs/semeval-t4/lib/python3.8/site-packages/replicate/model.py", line 405, in create
+    resp = self._client._request(
+  File "/mnt/parscratch/users/acq22zm/anaconda/.envs/semeval-t4/lib/python3.8/site-packages/replicate/client.py", line 89, in _request
+    _raise_for_status(resp)
+  File "/mnt/parscratch/users/acq22zm/anaconda/.envs/semeval-t4/lib/python3.8/site-packages/replicate/client.py", line 385, in _raise_for_status
+    raise ReplicateError.from_response(resp)
+replicate.exceptions.ReplicateError: ReplicateError Details:
+title: Free time limit reached
+status: 402
+detail: You have reached the free time limit. To continue using Replicate, set up billing at https://replicate.com/account/billing#billing.
