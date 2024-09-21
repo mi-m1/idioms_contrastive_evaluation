@@ -21,7 +21,7 @@ export REPLICATE_API_TOKEN=r8_KeuYswdQLhCIjuwFwknqS9SItqZF6A221xzoO
 LD_LIBRARY_PATH=""
 
 python llama_replicate.py \
---model_name meta/llama-2-7b-chat \
+--model_name meta/llama-2-13b-chat \
 --eval_dataset ../dataset/figurative_1032.csv \
 --model_abr llama213bchat \
 --setting figurative

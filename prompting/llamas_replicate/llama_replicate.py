@@ -80,7 +80,7 @@ def run_predictions(idioms, sentence, model_abr, setting):
         idioms_preds_p2.append((idiom, raw_output_p2))
         idioms_preds_p3.append((idiom, raw_output_p3))
     
-    path = f"."
+    path = f""
     save_predictions(idioms_preds_p1, setting, path, model_abr, "p1")
     save_predictions(idioms_preds_p2, setting, path, model_abr, "p2")
     save_predictions(idioms_preds_p3, setting, path, model_abr, "p3")
