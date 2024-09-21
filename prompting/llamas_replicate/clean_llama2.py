@@ -72,8 +72,7 @@ def check_if_all_elem_identical(lst):
 
 def extract_label(text):
 
-    match = re.findall(r'[O|o]utput: (i|l|L|I)', text,)
-
+    match = re.findall(r"[O|o]utput: (i|l|'l'|'i')", text, re.IGNORECASE)
     if len(match) >= 2 and check_if_all_elem_identical(match):
         return match[0].lower()
     elif len(match) >= 2:
@@ -81,214 +80,77 @@ def extract_label(text):
     elif len(match) == 1:
         return match[0].lower()
     
-    match = re.findall(r"[O|o]utput: '(i|l)'", text,)
-
-    if len(match) >= 2 and check_if_all_elem_identical(match):
-        return match[0]
-    elif len(match) >= 2:
-        return "u"
-    elif len(match) == 1:
-        return match[0]
-    
-    match = re.findall(r"[O|o]utput: \((i|l)\)", text,)
-
-    if len(match) >= 2 and check_if_all_elem_identical(match):
-        return match[0]
-    elif len(match) >= 2:
-        return "u"
-    elif len(match) == 1:
-        return match[0]
-
-    match_double_quotes = re.findall(r'\"(i|l)\"', text, re.IGNORECASE)
-    print(f"match_double_quotes: {match_double_quotes}")
-
-    if match_double_quotes:
-        return match_double_quotes[0]
+    # match = re.findall(r"[O|o]utput: '(i|l)'", text,)
+    # if len(match) >= 2 and check_if_all_elem_identical(match):
+    #     return match[0]
+    # elif len(match) >= 2:
+    #     return "u"
+    # elif len(match) == 1:
+    #     return match[0]
     else:
-        # return "u"
-        # return text
-        # print(f"response: {response}")
-        pass
+        api_key = "sk-proj-qqjGfSUcVxvSzEOeHBzeT3BlbkFJrwkt5SSwLCZgNvaAcg7G"
+        prompter = OpenAIPrompter(key=api_key, model="gpt-4")
 
-    match = re.findall(r"(i|l) \(literal|figurative\)", text,)
+        answer_from_gpt = prompter.prompt(f"Extract the answer from the model. If the model thinks the answer is figurative or 'i', return the letter 'i'. If the model thinks the answer is literal, return the letter 'l'. If the model cannot give a conclusive answer due to safe-guarding, return the letter 'u'. This is the answer: {text}")
 
-    if len(match) >= 2 and check_if_all_elem_identical(match):
-        return match[0]
-    elif len(match) >= 2:
-        return "u"
-    elif len(match) == 1:
-        return match[0]
-    
+        print(f"answer_from_gpt:{answer_from_gpt}")
 
-    match = re.findall(r"Output:\n (i|l)", text,)
 
-    if len(match) >= 2 and check_if_all_elem_identical(match):
-        return match[0]
-    elif len(match) >= 2:
-        return "u"
-    elif len(match) == 1:
-        return match[0]
-    
-    match = re.findall(r"Output : (i|l)", text,)
-
-    if len(match) >= 2 and check_if_all_elem_identical(match):
-        return match[0]
-    elif len(match) >= 2:
-        return "u"
-    elif len(match) == 1:
-        return match[0]
-    
-
-    match = re.findall(r"in the sentence as (figurative|literal)", text,)
-
+def extract_label_p3(text):
+    match = re.findall(r"output: ('i'|'l'|l|i)", str(text), re.IGNORECASE)
     if match:
-        if match[0] == "figurative":
-            return "i"
-        elif match[0] == "literal":
-            return "l"
+        return match[0].replace("'", "")
+    else:
+        return "check"
+    
+def extract_label_p2(text):
+
+    match = re.findall(r"output: ('i'|'l'|l|i)", str(text), re.IGNORECASE)
+    if match:
+        return match[0].replace("'", "").lower()
     else:
         pass
 
-
-    match = re.findall(r"in the given sentence is used (figuratively|literally)", text,)
-
+    match = re.findall(r"output:\n\n(i) \(figurative\)\n", text, re.IGNORECASE)
     if match:
-        if match[0] == "figuratively":
-            return "i"
-        elif match[0] == "literally":
-            return "l"
+        return match[0].lower()
     else:
+        # return "check"
         pass
-
-    # in the sentence you provided is used figuratively
-
-    match = re.findall(r"in the sentence you provided is used (figuratively|literally)\.", text,)
-
-    if match:
-        if match[0] == "figuratively":
-            return "i"
-        elif match[0] == "literally":
-            return "l"
-    else:
-        pass
-
-    # (figuratively|figurative|literal|literally)\.
-
-    match = re.findall(r"(figuratively|figurative|literal|literally)\.", text,)
-
-    if match:
-        if match[0] == "figuratively" or match[0] == "figurative":
-            return "i"
-        elif match[0] == "literally" or match[0] == "literal":
-            return "l"
-    else:
-        pass
-
-    # I would answer 'i' for figurative
-    match = re.findall(r"would answer '(i|l)' for", text,)
-
+    
+    match = re.findall(r'"(i|l)"', text)
     if match:
         return match[0]
-    
-
-    # in the given sentence as figurative (i)
-    match = re.findall(r"in the given sentence as (figurative|literal)", text,)
-
-    if match:
-        if match[0] == "figurative":
-            return "i"
-        elif match[0] == "literal":
-            return "l"
     else:
+        # return "check"
         pass
 
-# is used figuratively in the sentence.
-
-    match = re.findall(r"is used (figuratively|literally) in the sentence\.", text,)
-
-    if match:
-        if match[0] == "figuratively":
-            return "i"
-        elif match[0] == "literally":
-            return "l"
-    else:
-        pass
-    
-
-    # I would answer (l) for literal.
-    match = re.findall(r"I would answer \((i|l)\)", text,)
-
+    match = re.findall(r"Output:\n(i|l) \(", text, re.IGNORECASE)
     if match:
         return match[0]
+    else:
+        return "check"
     
+
     
-    match = re.findall(r' is used (figuratively|literally)\.', text, re.IGNORECASE)
-    print("got a match here!")
-    if match:
-        if match[0] == "figuratively":
-            return "i"
-        elif match[0] == "literally":
-            return "l"
+def get_gpt_to_extract_label(text, extracted_label):
+    if extracted_label == "check":
+        answer_from_gpt = prompter.prompt(f"Extract the answer from the text. If the text suggests the answer is figurative or 'i', return the letter 'i'. If the text suggests the answer is literal, return the letter 'l'. If the text cannot give a conclusive answer due to safe-guarding, return the letter 'u'. This is the answer: {text}")
 
-    # output:\n\n(i|l) \(figurative\)
-    match = re.findall(r'Output:\n\ni \(figurative\)', text,)
-    # print("got a match here!")
-    if match:
-        return "i"
+        print(f"answer_from_gpt:{answer_from_gpt}")
+        # return f"afg_{answer_from_gpt}"
+        return answer_from_gpt
+        
     else:
-        print(f"text_here: {text}")
-
-    # Regex to match the letter "i" after "Output:"
-    pattern = r"(?<=Output:\s*)(i|l) \(figurative|literal\)"
-
-    # Search for the pattern in the text
-    match = re.search(pattern, text, re.IGNORECASE)
-
-    # Check if a match is found
-    if match:
-        print(f"Matched letter: {match.group()}")
-    else:
-        print("No match found")
-
-
-
-
-    # check how many times the words figurative and literal appear in the response
-    count_figurative = sum(1 for _ in re.finditer(r'\b%s\b' % re.escape("figurative"), text))
-    count_figuratively = sum(1 for _ in re.finditer(r'\b%s\b' % re.escape("figuratively"), text))
-    count_literal = sum(1 for _ in re.finditer(r'\b%s\b' % re.escape("literal"), text))
-    count_literally = sum(1 for _ in re.finditer(r'\b%s\b' % re.escape("literally"), text))
-
-    if (count_figurative + count_figuratively) > (count_literal + count_literally):
-        print(f"text: {text}")
-        print(f"$i")
-        return "i"
-    elif (count_figurative + count_figuratively) < (count_literal + count_literally):
-        print(f"text: {text}\n")
-        print(f"$l")
-        return "l"
-    elif (count_figurative + count_figuratively) == (count_literal + count_literally):
-        print("check")
-        return "u"
-    else:
-        pass
-
-    print(f"f_counts: {count_figurative + count_figuratively}")
-    print(f"l_counts: {count_literal + count_literally}")
-
-    match = re.findall(r"in the sentence as (figurative|literal)", text,)
-
-    if match[0] == "figurative":
-        return "i"
-    elif match[0] == "literal":
-        return "l"
+        return extracted_label
 
 predictions_dir = "."
+api_key = "sk-proj-qqjGfSUcVxvSzEOeHBzeT3BlbkFJrwkt5SSwLCZgNvaAcg7G"
+prompter = OpenAIPrompter(key=api_key, model="gpt-4")
 
 for filename in os.listdir(predictions_dir):
 
-    if "figurative_llama27bchat" in filename and filename.endswith(".csv"):
-        
+    if "llama27bchat_p3" in filename and filename.endswith(".csv"):
         print(filename)
 
         try:
@@ -298,9 +160,27 @@ for filename in os.listdir(predictions_dir):
         except FileExistsError as e:
             pass
 
-        
         df = pd.read_csv(filename)
-        df['response'] = df['sentence'].progress_apply(extract_label)
+        df['response'] = df['sentence'].progress_apply(extract_label_p3)
         df.to_csv(f'cleaned_llama27bchat/{filename}', index=False, columns=["idiom","response"])
+
+
+    if "llama27bchat_p2" in filename and filename.endswith(".csv"):
+        print(filename)
+        df = pd.read_csv(filename)
+        df['response'] = df['sentence'].progress_apply(extract_label_p2)
+
+        df['response_checked'] = df.progress_apply(lambda x: get_gpt_to_extract_label(x["sentence"], x["response"]), axis=1)
+        df.to_csv(f'cleaned_llama27bchat/{filename}', index=False, columns=["idiom","response_checked"])
+        # df.to_csv(f"withCheckedMarkings_llama27bchat/{filename}", index=False, columns=["idiom", "response", "response_checked",])
+
+    if "llama27bchat_p1" in filename and filename.endswith(".csv"):
+        print(filename)
+        df = pd.read_csv(filename)
+        df['response'] = df['sentence'].progress_apply(extract_label_p2)
+
+        df['response_checked'] = df.progress_apply(lambda x: get_gpt_to_extract_label(x["sentence"], x["response"]), axis=1)
+        df.to_csv(f'cleaned_llama27bchat/{filename}', index=False, columns=["idiom","response_checked"])
+        # df.to_csv(f"withCheckedMarkings_llama27bchat/{filename}", index=False, columns=["idiom", "response", "response_checked",])
 
 
