@@ -9,3 +9,6 @@ Code for LLMs are Turning a Blind Eye to Context: Insights from a Contrastive Da
   * llama2
   * llama3
   * mistral
+* frequency analysis
+  * split into 4 (more or less) equal groups
+  * the log-log graph
