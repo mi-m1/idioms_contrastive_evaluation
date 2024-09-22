@@ -4,9 +4,9 @@ Code for LLMs are Turning a Blind Eye to Context: Insights from a Contrastive Da
 ## To do:
 * zeroshot:
   * llama3
-    * meta/meta-llama-3.1-405b-instruct
     * meta/meta-llama-3-8b-instruct
     * meta/meta-llama-3-70b-instruct
+    * meta/meta-llama-3.1-405b-instruct
   * mistral?
 * oneshot:
   * llama2
