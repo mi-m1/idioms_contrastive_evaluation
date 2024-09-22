@@ -4,9 +4,9 @@ Code for LLMs are Turning a Blind Eye to Context: Insights from a Contrastive Da
 ## To do:
 * zeroshot:
   * llama3
-    * meta/meta-llama-3-8b-instruct
-    * meta/meta-llama-3-70b-instruct
-    * meta/meta-llama-3.1-405b-instruct
+    - [X] meta/meta-llama-3-8b-instruct 
+    - [X] meta/meta-llama-3-70b-instruct
+    - [ ] meta/meta-llama-3.1-405b-instruct ==> running in progress, afte running run the clean_llama3.py script!
   * mistral?
 * oneshot:
   * llama2
