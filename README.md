@@ -16,11 +16,11 @@ Code for LLMs are Turning a Blind Eye to Context: Insights from a Contrastive Da
 * oneshot:
   * gpts
     - [ ] gpt35turbo
-          - [ ] clean
+        - [ ] clean
     - [ ] gpt4
-          - [ ] clean
+        - [ ] clean
     - [ ] gpt4o
-          - [ ] clean
+        - [ ] clean
           
   * llama2
     - [ ] meta/meta-llama-3-8b-instruct
