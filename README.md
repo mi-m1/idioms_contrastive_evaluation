@@ -15,9 +15,9 @@ Code for LLMs are Turning a Blind Eye to Context: Insights from a Contrastive Da
         - [ ] clean figurative outputs
 * oneshot:
   * gpts
-    - [ ] gpt35turbo
+    - [X] gpt35turbo
         - [ ] clean
-    - [ ] gpt4
+    - [X] gpt4
         - [ ] clean
     - [ ] gpt4o
         - [ ] clean
