@@ -13,14 +13,15 @@ Code for LLMs are Turning a Blind Eye to Context: Insights from a Contrastive Da
         - [ ] run the literal script
         - [ ] clean literal
         - [ ] clean figurative outputs
+   * put all cleaned predictions in a single folder [ ]
 * oneshot:
   * gpts
     - [X] gpt35turbo
-        - [ ] clean
+        - [X] clean
     - [X] gpt4
-        - [ ] clean
-    - [ ] gpt4o
-        - [ ] clean
+        - [X] clean
+    - [X] gpt4o
+        - [X] clean
           
   * llama2
     - [ ] meta/meta-llama-3-8b-instruct
