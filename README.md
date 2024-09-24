@@ -25,8 +25,8 @@ Code for LLMs are Turning a Blind Eye to Context: Insights from a Contrastive Da
           
   * llama2
     - [ ] meta/llama-2-7b-chat
-    - [ ] meta/meta-llama-3-8b-instruct
-    - [ ] meta/meta-llama-3.1-405b-instruct
+    - [ ] meta/llama-2-13b-chat
+    - [ ] meta/llama-2-70b-chat
   * llama3
     - [ ] meta/meta-llama-3-8b-instruct
     - [ ] meta/meta-llama-3-70b-instruct
