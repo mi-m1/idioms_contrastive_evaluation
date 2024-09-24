@@ -13,6 +13,7 @@ Code for LLMs are Turning a Blind Eye to Context: Insights from a Contrastive Da
         - [ ] run the literal script
         - [ ] clean literal
         - [ ] clean figurative outputs
+    - [ ] sort out mistral!! not saving label, only "output"
    * put all cleaned predictions in a single folder [ ]
 * oneshot:
   * gpts
