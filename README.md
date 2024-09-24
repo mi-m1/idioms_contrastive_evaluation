@@ -25,24 +25,24 @@ Code for LLMs are Turning a Blind Eye to Context: Insights from a Contrastive Da
           
   * llama2
     - [ ] meta/llama-2-7b-chat
-          - [ ] ran it
-          - [ ] clean it
+        - [ ] ran it
+        - [ ] clean it
     - [ ] meta/llama-2-13b-chat
-          - [ ] ran it
-          - [ ] clean it
+        - [ ] ran it
+        - [ ] clean it
     - [ ] meta/llama-2-70b-chat
-          - [ ] ran it
-          - [ ] clean it
+        - [ ] ran it
+        - [ ] clean it
   * llama3
     - [ ] meta/meta-llama-3-8b-instruct
-          - [ ] ran it
-          - [ ] clean it
+        - [ ] ran it
+        - [ ] clean it
     - [ ] meta/meta-llama-3-70b-instruct
-          - [ ] ran it
-          - [ ] clean it
+        - [ ] ran it
+        - [ ] clean it
     - [ ] meta/meta-llama-3.1-405b-instruct
-          - [ ] ran it
-          - [ ] clean it
+        - [ ] ran it
+        - [ ] clean it
   * mistral
 * frequency analysis
   * split into 4 (more or less) equal groups
