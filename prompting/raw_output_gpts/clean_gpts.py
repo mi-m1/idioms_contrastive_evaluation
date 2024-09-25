@@ -73,7 +73,7 @@ for filename in os.listdir(predictions_dir):
 
         df.to_csv(f"cleaned_{filename}", index=False, columns=["Idiom", "cleaned_text"])
     
-    if "gpt4_" in filename and "cleaned_" not in filename:
+    if "gpt4o_" in filename and "cleaned_" not in filename:
         print(filename)
 
         df = pd.read_csv(filename)
