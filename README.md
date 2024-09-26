@@ -1,6 +1,13 @@
 # idioms_contrastive_evaluation
 Code for LLMs are Turning a Blind Eye to Context: Insights from a Contrastive Dataset for Idiomaticity
 
+## Evaluator Scripts
+0shot evaluator:
+https://github.com/mi-m1/idioms_contrastive_evaluation/blob/master/prompting/analysis_for_paper/model_evaluator.py
+
+1shot evaluator:
+https://github.com/mi-m1/idioms_contrastive_evaluation/blob/master/prompting/analysis_for_paper/model_evaluator_fewshot.py
+
 ## To do:
 * zeroshot:
   * llama3
@@ -48,3 +55,6 @@ Code for LLMs are Turning a Blind Eye to Context: Insights from a Contrastive Da
 * frequency analysis
   * split into 4 (more or less) equal groups
   * the log-log graph
+
+
+
