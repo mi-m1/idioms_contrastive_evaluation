@@ -1,4 +1,4 @@
-idiom,pred
+Idiom,cleaned_text
 all hell broke loose,i
 all hell broke loose,i
 all hell broke loose,i
@@ -59,11 +59,11 @@ meat and potatoes,l
 meat and potatoes,l
 in bed with,i
 in bed with,l
-in bed with,l
+in bed with,i
 in the pink,i
 in the pink,i
-in the pink,l
-go to town,l
+in the pink,i
+go to town,i
 go to town,l
 go to town,i
 heart of gold,i
@@ -72,7 +72,7 @@ heart of gold,i
 par for the course,i
 par for the course,i
 par for the course,i
-out of line,l
+out of line,i
 out of line,i
 out of line,i
 stay the course,l
@@ -104,9 +104,9 @@ walk the plank,i
 eat humble pie,i
 eat humble pie,i
 eat humble pie,i
+up the river,u
 up the river,i
-up the river,i
-up the river,i
+up the river,u
 circle the wagons,i
 look the part,i
 look the part,i
@@ -120,19 +120,19 @@ on the side of the angels,i
 on the side of the angels,i
 jump on the bandwagon,i
 jump on the bandwagon,i
-jump on the bandwagon,i
+jump on the bandwagon,u
 turn the other cheek,i
 raise the roof,i
 raise the roof,i
 raise the roof,i
 do the right thing,i
 do the right thing,i
-do the right thing,l
+do the right thing,i
 on the square,i
 on the square,i
 on the square,l
 pick up the pieces,i
-pick up the pieces,l
+pick up the pieces,u
 pick up the pieces,i
 touch and go,i
 off and running,i
@@ -145,11 +145,11 @@ wipe the slate clean,i
 wipe the slate clean,i
 wipe the slate clean,i
 hit the jackpot,i
-hit the jackpot,l
+hit the jackpot,i
 hit the jackpot,i
 round the bend,i
 round the bend,i
-round the bend,l
+round the bend,u
 go for the jugular,i
 go for the jugular,i
 go for the jugular,i
@@ -163,7 +163,7 @@ out of order,i
 out of order,i
 muddy the waters,i
 muddy the waters,i
-muddy the waters,i
+muddy the waters,u
 move the goalposts,i
 move the goalposts,i
 move the goalposts,i
@@ -182,7 +182,7 @@ sit on the fence,i
 sit on the fence,i
 keep the peace,i
 keep the peace,i
-six feet under,i
+six feet under,u
 six feet under,i
 six feet under,i
 dead and buried,i
@@ -197,13 +197,13 @@ know the score,i
 oil and water,i
 oil and water,i
 oil and water,l
+add fuel to the fire,u
 add fuel to the fire,i
-add fuel to the fire,i
-add fuel to the fire,i
+add fuel to the fire,l
 power behind the throne,i
 power behind the throne,i
 power behind the throne,i
-blood and guts,l
+blood and guts,u
 blood and guts,i
 blood and guts,i
 strike while the iron is hot,i
@@ -215,12 +215,12 @@ all over the map,i
 all over the map,i
 all over the map,i
 let the cat out of the bag,i
-let the cat out of the bag,i
+let the cat out of the bag,u
 let the cat out of the bag,i
 blaze a trail,i
 blaze a trail,l
 blaze a trail,i
-on the bounce,l
+on the bounce,i
 on the bounce,l
 on the bounce,i
 at a canter,l
@@ -231,7 +231,7 @@ out to lunch,i
 out to lunch,i
 twist someone's arm,i
 twist someone's arm,i
-twist someone's arm,l
+twist someone's arm,u
 swings and roundabouts,i
 swings and roundabouts,i
 swings and roundabouts,i
@@ -259,7 +259,7 @@ doom and gloom,i
 keep tabs on,i
 keep tabs on,i
 keep tabs on,i
-get the picture,l
+get the picture,i
 get the picture,i
 get the picture,i
 look the other way,i
@@ -276,7 +276,7 @@ water under the bridge,i
 water under the bridge,i
 keep a lid on,i
 keep a lid on,i
-keep a lid on,i
+keep a lid on,u
 down the drain,i
 down the drain,i
 down the drain,i
@@ -286,7 +286,7 @@ make the cut,l
 free and easy,i
 free and easy,i
 free and easy,i
-with a vengeance,i
+with a vengeance,u
 cut both ways,l
 cut both ways,i
 cut both ways,i
@@ -297,7 +297,7 @@ hold the line,l
 pull the plug,i
 pull the plug,i
 pull the plug,i
-make a move,i
+make a move,u
 make a move,i
 make a move,i
 make a meal of,l
@@ -341,18 +341,18 @@ in the offing,i
 in the offing,i
 in the offing,i
 ride roughshod over,i
+ride roughshod over,u
 ride roughshod over,i
-ride roughshod over,i
 crash and burn,i
 crash and burn,i
 crash and burn,i
 dyed in the wool,i
+dyed in the wool,u
 dyed in the wool,i
-dyed in the wool,i
+fight fire with fire,u
 fight fire with fire,i
 fight fire with fire,i
-fight fire with fire,i
-all over the place,l
+all over the place,i
 all over the place,l
 all over the place,i
 grind to a halt,i
@@ -362,13 +362,13 @@ in a nutshell,i
 in a nutshell,i
 rise and shine,i
 take a back seat,i
-take a bath,i
+take a bath,u
 take a bath,i
 take a bath,i
 bury the hatchet,i
 bury the hatchet,i
-in the soup,l
-in the soup,l
+in the soup,i
+in the soup,i
 in the soup,i
 grease the wheels,i
 grease the wheels,i
@@ -385,7 +385,7 @@ out of the blue,i
 out of the blue,i
 out of the blue,i
 over the moon,i
-over the moon,i
+over the moon,u
 throw down the gauntlet,i
 throw down the gauntlet,i
 take the bull by the horns,i
@@ -399,7 +399,7 @@ sweetness and light,i
 behind someone's back,i
 behind someone's back,i
 on the ropes,i
-take the cake,i
+take the cake,u
 dig up dirt,i
 dig up dirt,i
 dig up dirt,i
@@ -421,16 +421,16 @@ in someone's pocket,i
 in someone's pocket,i
 on the shelf,i
 on the shelf,i
-on the shelf,i
+on the shelf,l
 pound the pavement,l
 cut and thrust,i
 cut and thrust,i
-song and dance,l
+song and dance,i
 song and dance,i
 song and dance,i
 turn the tables,i
 turn the tables,i
-over the hill,i
+over the hill,u
 over the hill,i
 over the hill,i
 out of the loop,i
@@ -449,7 +449,7 @@ slap on the wrist,i
 slap on the wrist,i
 on the make,i
 on the make,i
-on the make,i
+on the make,u
 things that go bump in the night,i
 push the boat out,i
 push the boat out,i
@@ -463,7 +463,7 @@ shoot the messenger,i
 wake up and smell the coffee,i
 fun and games,l
 fun and games,i
-fun and games,l
+fun and games,u
 cast the first stone,i
 cast the first stone,i
 kick the bucket,i
@@ -473,7 +473,7 @@ fly a kite,i
 fly a kite,i
 fly a kite,l
 in the clear,i
-in the clear,i
+in the clear,l
 have a few,i
 have a few,i
 have a few,i
@@ -490,7 +490,7 @@ when the chips are down,i
 when the chips are down,i
 between a rock and a hard place,i
 between a rock and a hard place,i
-put down roots,i
+put down roots,u
 put down roots,i
 in your dreams,i
 in your dreams,i
@@ -508,7 +508,7 @@ clear the decks,i
 clear the decks,i
 clear the decks,i
 on the game,l
-on the game,l
+on the game,u
 on the game,i
 with open arms,i
 with open arms,i
@@ -530,13 +530,13 @@ get a grip,i
 get a grip,i
 get a grip,l
 in the loop,l
-in the loop,l
-in the loop,l
+in the loop,u
+in the loop,u
 fly in the face of,i
 fly in the face of,i
 get the boot,i
 get the boot,i
-on and off,l
+on and off,i
 on and off,i
 on and off,i
 cook the books,i
@@ -563,7 +563,7 @@ in the final analysis,i
 in the final analysis,i
 in the final analysis,i
 up in the air,i
-up in the air,i
+up in the air,l
 fall from grace,i
 fall from grace,i
 fall from grace,i
@@ -583,12 +583,12 @@ get stuck in,i
 get stuck in,i
 out of the box,i
 out of the box,l
-out of the box,l
+out of the box,i
 on the warpath,i
 on the warpath,i
 on the warpath,i
 take a dive,i
-take a dive,i
+take a dive,u
 take a dive,i
 scratch the surface,i
 scratch the surface,i
@@ -629,11 +629,11 @@ walk all over,i
 walk all over,i
 hot and heavy,i
 hot and heavy,i
-hot and heavy,l
+hot and heavy,i
 strike a chord,i
 strike a chord,i
 strike a chord,i
-batten down the hatches,i
+batten down the hatches,u
 batten down the hatches,i
 batten down the hatches,i
 cap in hand,i
@@ -663,7 +663,7 @@ down the tubes,i
 down the tubes,i
 no strings attached,i
 no strings attached,i
-no strings attached,i
+no strings attached,u
 spit it out,i
 spit it out,i
 spit it out,i
@@ -673,7 +673,7 @@ don't hold your breath,i
 stand up and be counted,i
 stand up and be counted,i
 far and away,i
-far and away,i
+far and away,u
 far and away,i
 sink or swim,i
 sink or swim,i
@@ -714,7 +714,7 @@ put words in someone's mouth,i
 put words in someone's mouth,i
 shut the door on,i
 shut the door on,i
-shut the door on,l
+shut the door on,i
 kiss of death,i
 kiss of death,i
 kiss of death,i
@@ -726,7 +726,7 @@ light at the end of the tunnel,i
 light at the end of the tunnel,i
 on a roll,i
 on a roll,i
-rock the boat,i
+rock the boat,u
 rock the boat,i
 below the belt,i
 below the belt,l
@@ -782,7 +782,7 @@ heart and soul,i
 heart and soul,i
 pack a punch,i
 pack a punch,i
-pack a punch,i
+pack a punch,u
 eat someone alive,i
 eat someone alive,i
 eat someone alive,i
@@ -790,7 +790,7 @@ tie the knot,i
 tie the knot,i
 tie the knot,i
 step on it,i
-step on it,i
+step on it,u
 out of the picture,i
 out of the picture,i
 break the ice,i
@@ -814,17 +814,17 @@ bring home the bacon,i
 bring home the bacon,l
 bring home the bacon,i
 with a view to,i
-with a view to,i
-with a view to,i
+with a view to,u
+with a view to,l
 move heaven and earth,i
 move heaven and earth,i
 move heaven and earth,i
 across the board,i
 across the board,i
-tip the scales,i
+tip the scales,l
 tip the scales,l
 face to face,i
-face to face,i
+face to face,l
 face to face,l
 hold someone's hand,l
 hold someone's hand,i
@@ -840,7 +840,7 @@ on the mend,i
 on the mend,l
 go all the way,i
 go all the way,i
-go all the way,l
+go all the way,u
 come with the territory,i
 come with the territory,i
 the bee's knees,i
@@ -934,13 +934,13 @@ big wig,i
 flower child,i
 flower child,i
 flower child,i
-panda car,l
+panda car,i
 black box,i
 black box,i
 black box,l
-flea market,i
 flea market,l
 flea market,l
+flea market,u
 goose egg,l
 blind alley,i
 blind alley,i
@@ -949,7 +949,7 @@ low profile,i
 low profile,i
 low profile,i
 blue blood,i
-blue blood,i
+blue blood,u
 blue blood,i
 grandfather clock,l
 grandfather clock,l

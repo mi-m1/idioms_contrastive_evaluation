@@ -1,5 +1,5 @@
-idiom,pred
-all hell broke loose,i
+Idiom,cleaned_text
+all hell broke loose,l
 all hell broke loose,l
 all hell broke loose,i
 off the hook,l
@@ -12,7 +12,7 @@ play with fire,l
 play with fire,l
 make a killing,l
 make a killing,l
-make a killing,i
+make a killing,l
 carry the can,l
 carry the can,l
 carry the can,l
@@ -25,11 +25,11 @@ behind the scenes,l
 go to the wall,l
 go to the wall,l
 go to the wall,l
+see the light of day,i
 see the light of day,l
-see the light of day,l
 under the weather,l
 under the weather,l
-under the weather,l
+under the weather,i
 jump through hoops,l
 jump through hoops,l
 jump through hoops,l
@@ -76,7 +76,7 @@ out of line,l
 out of line,l
 out of line,l
 stay the course,l
-stay the course,i
+stay the course,l
 stay the course,l
 smoke and mirrors,l
 smoke and mirrors,l
@@ -110,7 +110,7 @@ up the river,l
 circle the wagons,l
 look the part,l
 look the part,l
-look the part,i
+look the part,l
 moment of truth,i
 all bets are off,i
 all bets are off,l
@@ -153,7 +153,7 @@ round the bend,l
 go for the jugular,l
 go for the jugular,l
 go for the jugular,l
-nip and tuck,i
+nip and tuck,l
 nip and tuck,l
 nip and tuck,l
 throw the baby out with the bathwater,l
@@ -171,7 +171,7 @@ hair of the dog,l
 hair of the dog,l
 hair of the dog,l
 have someone's number,l
-neither here nor there,i
+neither here nor there,l
 neither here nor there,i
 neither here nor there,l
 out of the woods,l
@@ -192,7 +192,7 @@ down in the dumps,i
 down in the dumps,l
 down in the dumps,l
 know the score,l
-know the score,l
+know the score,i
 know the score,l
 oil and water,l
 oil and water,l
@@ -292,7 +292,7 @@ cut both ways,l
 cut both ways,l
 sing the praises of,l
 sing the praises of,i
-sing the praises of,i
+sing the praises of,l
 hold the line,l
 pull the plug,l
 pull the plug,l
@@ -328,9 +328,9 @@ toe the line,l
 grasp the nettle,l
 grasp the nettle,l
 grasp the nettle,l
-high and mighty,l
-high and mighty,l
 high and mighty,i
+high and mighty,l
+high and mighty,l
 in the hole,l
 in the hole,l
 in the hole,l
@@ -348,15 +348,15 @@ crash and burn,l
 crash and burn,l
 dyed in the wool,l
 dyed in the wool,l
-dyed in the wool,i
+dyed in the wool,l
 fight fire with fire,l
 fight fire with fire,l
-fight fire with fire,l
+fight fire with fire,i
 all over the place,l
 all over the place,l
 all over the place,l
 grind to a halt,l
-grind to a halt,l
+grind to a halt,i
 grind to a halt,l
 in a nutshell,l
 in a nutshell,l
@@ -407,7 +407,7 @@ left and right,l
 dead in the water,l
 dead in the water,l
 dead in the water,i
-take no prisoners,l
+take no prisoners,i
 run out of steam,l
 take a hike,l
 take a hike,l
@@ -540,7 +540,7 @@ on and off,l
 on and off,l
 on and off,l
 cook the books,l
-cook the books,l
+cook the books,i
 cook the books,l
 on the same page,l
 on the same page,l
@@ -641,7 +641,7 @@ cap in hand,l
 cap in hand,l
 kicking and screaming,l
 kicking and screaming,l
-kicking and screaming,l
+kicking and screaming,i
 sick and tired,l
 sick and tired,l
 on the cards,l
@@ -708,9 +708,9 @@ in the fast lane,l
 in the fast lane,l
 break the back of,l
 break the back of,l
-break the back of,l
+break the back of,i
 put words in someone's mouth,i
-put words in someone's mouth,l
+put words in someone's mouth,i
 put words in someone's mouth,i
 shut the door on,l
 shut the door on,l
@@ -752,7 +752,7 @@ on the wagon,l
 on the wagon,l
 on the wagon,l
 call a spade a spade,l
-call a spade a spade,i
+call a spade a spade,l
 call a spade a spade,l
 spill the beans,l
 spill the beans,l
@@ -763,8 +763,8 @@ black and blue,l
 black and blue,l
 black and blue,l
 put the cart before the horse,l
-bells and whistles,i
 bells and whistles,l
+bells and whistles,i
 in cold blood,l
 in cold blood,l
 carrot and stick,l
@@ -785,7 +785,7 @@ pack a punch,i
 pack a punch,l
 eat someone alive,l
 eat someone alive,l
-eat someone alive,l
+eat someone alive,i
 tie the knot,l
 tie the knot,l
 tie the knot,l
@@ -797,7 +797,7 @@ break the ice,l
 break the ice,l
 break the ice,l
 pop the question,l
-pop the question,i
+pop the question,l
 pop the question,i
 full speed ahead,l
 full speed ahead,l
@@ -833,7 +833,7 @@ cut from the same cloth,l
 cut from the same cloth,l
 cut from the same cloth,l
 licence to print money,i
-licence to print money,i
+licence to print money,l
 licence to print money,i
 on the mend,l
 on the mend,l
@@ -862,7 +862,7 @@ do someone proud,i
 down to the wire,l
 down to the wire,l
 down to the wire,l
-go the distance,l
+go the distance,i
 go the distance,i
 go the distance,l
 fast and furious,l
@@ -958,7 +958,7 @@ guinea pig,l
 guinea pig,l
 guinea pig,l
 graveyard shift,l
-graveyard shift,l
+graveyard shift,i
 gravy train,l
 gravy train,l
 gravy train,l
@@ -968,7 +968,7 @@ rock bottom,l
 rock bottom,l
 pipe dream,l
 pipe dream,l
-pipe dream,i
+pipe dream,l
 rocket science,l
 rocket science,l
 rocket science,l
@@ -989,7 +989,7 @@ ivory tower,l
 ivory tower,l
 ivory tower,l
 kangaroo court,l
-kangaroo court,i
+kangaroo court,l
 kangaroo court,l
 sitting duck,l
 double cross,l

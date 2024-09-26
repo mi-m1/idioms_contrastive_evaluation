@@ -1,4 +1,4 @@
-idiom,pred
+Idiom,cleaned_text
 all hell broke loose,i
 all hell broke loose,i
 all hell broke loose,i
@@ -31,7 +31,7 @@ under the weather,i
 under the weather,i
 under the weather,i
 jump through hoops,i
-jump through hoops,i
+jump through hoops,u
 jump through hoops,i
 on the horn,i
 on the horn,i
@@ -89,7 +89,7 @@ in your face,i
 in your face,i
 in your face,i
 in the black,i
-in the black,i
+in the black,u
 in the black,i
 hit the nail on the head,i
 hit the nail on the head,i
@@ -98,7 +98,7 @@ in the driving seat,i
 in the driving seat,i
 join the club,l
 join the club,i
-join the club,i
+join the club,u
 walk the plank,i
 walk the plank,i
 eat humble pie,i
@@ -189,13 +189,13 @@ dead and buried,i
 dead and buried,i
 dead and buried,i
 down in the dumps,i
-down in the dumps,i
+down in the dumps,l
 down in the dumps,i
 know the score,i
 know the score,i
 know the score,i
 oil and water,i
-oil and water,l
+oil and water,i
 oil and water,l
 add fuel to the fire,i
 add fuel to the fire,i
@@ -220,7 +220,7 @@ let the cat out of the bag,i
 blaze a trail,i
 blaze a trail,i
 blaze a trail,i
-on the bounce,l
+on the bounce,u
 on the bounce,i
 on the bounce,i
 at a canter,l
@@ -281,7 +281,7 @@ down the drain,i
 down the drain,i
 down the drain,i
 make the cut,i
-make the cut,l
+make the cut,u
 make the cut,l
 free and easy,i
 free and easy,i
@@ -508,7 +508,7 @@ clear the decks,i
 clear the decks,i
 clear the decks,i
 on the game,i
-on the game,i
+on the game,l
 on the game,i
 with open arms,i
 with open arms,i
@@ -536,7 +536,7 @@ fly in the face of,i
 fly in the face of,i
 get the boot,i
 get the boot,i
-on and off,l
+on and off,u
 on and off,i
 on and off,i
 cook the books,i
@@ -548,9 +548,9 @@ run a mile,i
 run a mile,i
 run a mile,i
 on thin ice,i
-on thin ice,i
+on thin ice,u
 close to home,i
-close to home,l
+close to home,u
 close to home,i
 in the bag,i
 in the bag,i
@@ -653,7 +653,7 @@ come in from the cold,i
 come in from the cold,i
 head over heels,i
 head over heels,l
-head over heels,l
+head over heels,i
 reach for the stars,i
 for a song,i
 for a song,i
@@ -730,12 +730,12 @@ rock the boat,i
 rock the boat,i
 below the belt,i
 below the belt,l
-below the belt,i
+below the belt,u
 see eye to eye,i
 see eye to eye,i
 get it up,l
 get it up,l
-get it up,i
+get it up,u
 get away with murder,i
 get away with murder,i
 get away with murder,i
@@ -744,7 +744,7 @@ one of those things,i
 joined at the hip,i
 joined at the hip,i
 have a ball,i
-have a ball,l
+have a ball,u
 under the sun,i
 under the sun,i
 under the sun,i
@@ -770,7 +770,7 @@ in cold blood,i
 carrot and stick,i
 carrot and stick,i
 down the road,i
-down the road,i
+down the road,l
 down the road,l
 heads will roll,i
 heads will roll,i
@@ -854,7 +854,7 @@ get off the ground,i
 get off the ground,i
 get off the ground,i
 under the table,i
-under the table,i
+under the table,u
 under the table,i
 do someone proud,i
 do someone proud,i
@@ -880,7 +880,7 @@ on the back burner,i
 on the back burner,i
 on the back burner,i
 turn the screw,i
-turn the screw,i
+turn the screw,u
 turn the screw,i
 glass ceiling,i
 glass ceiling,i
@@ -909,11 +909,11 @@ melting pot,i
 melting pot,i
 melting pot,i
 hot potato,i
-hot potato,l
+hot potato,i
 hot potato,i
 monkey business,l
 monkey business,l
-monkey business,l
+monkey business,i
 big cheese,i
 big cheese,i
 big cheese,i

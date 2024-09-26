@@ -1,4 +1,4 @@
-idiom,pred
+Idiom,cleaned_text
 all hell broke loose,i
 all hell broke loose,i
 all hell broke loose,i
@@ -7,7 +7,7 @@ off the hook,l
 off the hook,l
 against the grain,l
 against the grain,l
-play with fire,l
+play with fire,i
 play with fire,l
 play with fire,l
 make a killing,l
@@ -44,15 +44,15 @@ look on the bright side,l
 up to here,l
 up to here,l
 up to here,l
-night and day,l
 night and day,i
-head for the hills,l
+night and day,i
+head for the hills,i
 head for the hills,l
 head for the hills,l
 pass the buck,l
 pass the buck,l
 rise from the ashes,l
-rise from the ashes,l
+rise from the ashes,i
 rise from the ashes,i
 meat and potatoes,l
 meat and potatoes,l
@@ -110,17 +110,17 @@ up the river,l
 circle the wagons,l
 look the part,l
 look the part,l
-look the part,l
+look the part,i
 moment of truth,i
 all bets are off,i
 all bets are off,i
 knock someone's socks off,i
 on the side of the angels,i
-on the side of the angels,l
+on the side of the angels,i
 on the side of the angels,i
 jump on the bandwagon,i
 jump on the bandwagon,i
-jump on the bandwagon,i
+jump on the bandwagon,l
 turn the other cheek,l
 raise the roof,l
 raise the roof,l
@@ -145,7 +145,7 @@ wipe the slate clean,l
 wipe the slate clean,l
 wipe the slate clean,i
 hit the jackpot,l
-hit the jackpot,i
+hit the jackpot,l
 hit the jackpot,l
 round the bend,l
 round the bend,l
@@ -192,7 +192,7 @@ down in the dumps,i
 down in the dumps,l
 down in the dumps,l
 know the score,l
-know the score,l
+know the score,i
 know the score,l
 oil and water,l
 oil and water,l
@@ -209,7 +209,7 @@ blood and guts,l
 strike while the iron is hot,l
 strike while the iron is hot,i
 on the hop,l
-on the hop,i
+on the hop,l
 on the hop,l
 all over the map,l
 all over the map,l
@@ -219,7 +219,7 @@ let the cat out of the bag,l
 let the cat out of the bag,i
 blaze a trail,l
 blaze a trail,l
-blaze a trail,l
+blaze a trail,i
 on the bounce,l
 on the bounce,l
 on the bounce,l
@@ -249,7 +249,7 @@ to die for,l
 everything but the kitchen sink,i
 spend a penny,l
 spend a penny,l
-spend a penny,l
+spend a penny,i
 in black and white,l
 in black and white,l
 in black and white,l
@@ -351,13 +351,13 @@ dyed in the wool,l
 dyed in the wool,l
 fight fire with fire,l
 fight fire with fire,l
-fight fire with fire,i
+fight fire with fire,l
 all over the place,l
 all over the place,l
 all over the place,l
 grind to a halt,l
 grind to a halt,l
-grind to a halt,i
+grind to a halt,l
 in a nutshell,l
 in a nutshell,l
 rise and shine,l
@@ -456,10 +456,10 @@ push the boat out,l
 push the boat out,l
 smell a rat,l
 smell a rat,i
-smell a rat,l
+smell a rat,i
 shoot the messenger,l
 shoot the messenger,i
-shoot the messenger,l
+shoot the messenger,i
 wake up and smell the coffee,l
 fun and games,l
 fun and games,l
@@ -504,7 +504,7 @@ six of the best,l
 behind closed doors,l
 behind closed doors,l
 behind closed doors,l
-clear the decks,l
+clear the decks,i
 clear the decks,l
 clear the decks,l
 on the game,l
@@ -622,7 +622,7 @@ up a tree,l
 up a tree,l
 pick someone's brain,i
 fill someone's shoes,l
-save someone's skin,i
+save someone's skin,l
 save someone's skin,l
 walk all over,l
 walk all over,l
@@ -702,11 +702,11 @@ go with the flow,l
 go with the flow,l
 rule the roost,i
 rule the roost,i
-rule the roost,i
+rule the roost,l
 in the fast lane,l
 in the fast lane,l
 in the fast lane,l
-break the back of,l
+break the back of,i
 break the back of,l
 break the back of,i
 put words in someone's mouth,i
@@ -717,7 +717,7 @@ shut the door on,l
 shut the door on,l
 kiss of death,i
 kiss of death,i
-kiss of death,l
+kiss of death,i
 on the skids,l
 on the skids,l
 on the skids,l
@@ -782,7 +782,7 @@ heart and soul,i
 heart and soul,i
 pack a punch,l
 pack a punch,i
-pack a punch,l
+pack a punch,i
 eat someone alive,l
 eat someone alive,l
 eat someone alive,l
@@ -807,7 +807,7 @@ point the finger,l
 sign on the dotted line,l
 sign on the dotted line,i
 sign on the dotted line,i
-up the ante,i
+up the ante,l
 up the ante,i
 up the ante,l
 bring home the bacon,l
@@ -835,13 +835,13 @@ cut from the same cloth,l
 licence to print money,i
 licence to print money,i
 licence to print money,i
-on the mend,l
+on the mend,i
 on the mend,l
 on the mend,i
 go all the way,l
 go all the way,i
 go all the way,l
-come with the territory,l
+come with the territory,i
 come with the territory,i
 the bee's knees,l
 the bee's knees,l
@@ -889,12 +889,12 @@ grass root,l
 grass root,l
 grass root,l
 head hunter,l
+head hunter,i
 head hunter,l
-head hunter,l
 heavy cross,l
 heavy cross,l
 heavy cross,l
-banana republic,i
+banana republic,l
 banana republic,l
 banana republic,l
 crocodile tear,l
@@ -912,7 +912,7 @@ hot potato,l
 hot potato,l
 hot potato,l
 monkey business,l
-monkey business,l
+monkey business,i
 monkey business,l
 big cheese,l
 big cheese,l
@@ -931,9 +931,9 @@ fashion plate,l
 big wig,l
 big wig,l
 big wig,l
-flower child,i
 flower child,i
 flower child,l
+flower child,i
 panda car,l
 black box,l
 black box,l
@@ -961,14 +961,14 @@ graveyard shift,i
 graveyard shift,i
 gravy train,l
 gravy train,l
-gravy train,i
+gravy train,l
 rat run,l
 rock bottom,l
 rock bottom,l
 rock bottom,l
 pipe dream,i
 pipe dream,i
-pipe dream,l
+pipe dream,i
 rocket science,l
 rocket science,l
 rocket science,l
@@ -1001,7 +1001,7 @@ double dutch,l
 double dutch,l
 double dutch,l
 snake oil,i
-snake oil,i
+snake oil,l
 snake oil,i
 smoke screen,l
 smoke screen,l

@@ -1,4 +1,4 @@
-idiom,pred
+Idiom,cleaned_text
 all hell broke loose,l
 all hell broke loose,l
 all hell broke loose,l
@@ -26,7 +26,7 @@ go to the wall,l
 go to the wall,l
 go to the wall,l
 see the light of day,l
-see the light of day,l
+see the light of day,u
 under the weather,l
 under the weather,l
 under the weather,l
@@ -54,13 +54,13 @@ pass the buck,l
 rise from the ashes,l
 rise from the ashes,i
 rise from the ashes,l
-meat and potatoes,l
+meat and potatoes,u
 meat and potatoes,l
 meat and potatoes,l
 in bed with,l
 in bed with,l
 in bed with,l
-in the pink,l
+in the pink,u
 in the pink,l
 in the pink,l
 go to town,l
@@ -74,7 +74,7 @@ par for the course,l
 par for the course,l
 out of line,l
 out of line,l
-out of line,l
+out of line,u
 stay the course,l
 stay the course,l
 stay the course,l
@@ -107,24 +107,24 @@ eat humble pie,l
 up the river,l
 up the river,l
 up the river,l
-circle the wagons,l
-look the part,i
+circle the wagons,u
+look the part,l
 look the part,i
 look the part,i
 moment of truth,i
 all bets are off,i
 all bets are off,l
 knock someone's socks off,l
+on the side of the angels,l
+on the side of the angels,l
 on the side of the angels,i
-on the side of the angels,l
-on the side of the angels,l
 jump on the bandwagon,l
 jump on the bandwagon,l
 jump on the bandwagon,l
 turn the other cheek,l
 raise the roof,l
 raise the roof,l
-raise the roof,l
+raise the roof,u
 do the right thing,i
 do the right thing,i
 do the right thing,i
@@ -148,7 +148,7 @@ hit the jackpot,l
 hit the jackpot,l
 hit the jackpot,l
 round the bend,l
-round the bend,l
+round the bend,u
 round the bend,l
 go for the jugular,l
 go for the jugular,l
@@ -157,8 +157,8 @@ nip and tuck,l
 nip and tuck,l
 nip and tuck,l
 throw the baby out with the bathwater,l
-throw the baby out with the bathwater,i
-out of order,l
+throw the baby out with the bathwater,l
+out of order,u
 out of order,l
 out of order,l
 muddy the waters,l
@@ -171,7 +171,7 @@ hair of the dog,l
 hair of the dog,l
 hair of the dog,l
 have someone's number,l
-neither here nor there,i
+neither here nor there,l
 neither here nor there,l
 neither here nor there,l
 out of the woods,l
@@ -186,7 +186,7 @@ six feet under,l
 six feet under,l
 six feet under,l
 dead and buried,l
-dead and buried,l
+dead and buried,i
 dead and buried,l
 down in the dumps,i
 down in the dumps,l
@@ -214,11 +214,11 @@ on the hop,l
 all over the map,l
 all over the map,l
 all over the map,l
-let the cat out of the bag,l
-let the cat out of the bag,l
+let the cat out of the bag,u
+let the cat out of the bag,u
 let the cat out of the bag,l
 blaze a trail,l
-blaze a trail,l
+blaze a trail,u
 blaze a trail,l
 on the bounce,l
 on the bounce,l
@@ -253,7 +253,7 @@ spend a penny,l
 in black and white,l
 in black and white,l
 in black and white,l
-doom and gloom,i
+doom and gloom,l
 doom and gloom,i
 doom and gloom,i
 keep tabs on,i
@@ -292,13 +292,13 @@ cut both ways,l
 cut both ways,l
 sing the praises of,l
 sing the praises of,i
-sing the praises of,l
+sing the praises of,u
 hold the line,l
 pull the plug,l
 pull the plug,l
 pull the plug,l
 make a move,l
-make a move,l
+make a move,u
 make a move,l
 make a meal of,l
 make a meal of,l
@@ -336,13 +336,13 @@ in the hole,l
 in the hole,l
 take the fall,l
 take the fall,l
-take the fall,l
+take the fall,u
 in the offing,l
 in the offing,l
 in the offing,l
 ride roughshod over,l
-ride roughshod over,i
 ride roughshod over,l
+ride roughshod over,u
 crash and burn,l
 crash and burn,l
 crash and burn,l
@@ -353,7 +353,7 @@ fight fire with fire,l
 fight fire with fire,l
 fight fire with fire,l
 all over the place,l
-all over the place,l
+all over the place,u
 all over the place,l
 grind to a halt,l
 grind to a halt,l
@@ -397,7 +397,7 @@ over the top,l
 sweetness and light,l
 sweetness and light,l
 behind someone's back,l
-behind someone's back,l
+behind someone's back,u
 on the ropes,l
 take the cake,l
 dig up dirt,l
@@ -416,7 +416,7 @@ go the extra mile,l
 under a cloud,l
 under a cloud,l
 under a cloud,l
-in someone's pocket,l
+in someone's pocket,u
 in someone's pocket,l
 in someone's pocket,l
 on the shelf,l
@@ -428,7 +428,7 @@ cut and thrust,l
 song and dance,l
 song and dance,l
 song and dance,l
-turn the tables,l
+turn the tables,u
 turn the tables,l
 over the hill,l
 over the hill,l
@@ -485,7 +485,7 @@ open the floodgates,l
 open the floodgates,l
 throw the book at,l
 throw the book at,l
-throw the book at,l
+throw the book at,u
 when the chips are down,l
 when the chips are down,i
 between a rock and a hard place,l
@@ -515,7 +515,7 @@ with open arms,l
 flash in the pan,l
 flash in the pan,l
 flash in the pan,l
-rough around the edges,l
+rough around the edges,u
 rough around the edges,l
 fly off the handle,l
 fly off the handle,l
@@ -540,7 +540,7 @@ on and off,l
 on and off,l
 on and off,l
 cook the books,l
-cook the books,i
+cook the books,l
 cook the books,l
 on the same page,l
 on the same page,l
@@ -553,7 +553,7 @@ close to home,l
 close to home,l
 close to home,l
 in the bag,l
-in the bag,l
+in the bag,u
 in the raw,l
 in the raw,l
 cut the mustard,l
@@ -565,7 +565,7 @@ in the final analysis,l
 up in the air,l
 up in the air,l
 fall from grace,l
-fall from grace,l
+fall from grace,u
 fall from grace,l
 full of beans,l
 full of beans,l
@@ -610,7 +610,7 @@ get a life,l
 get a life,l
 on the nose,l
 on the nose,l
-on the nose,l
+on the nose,u
 on a shoestring,l
 in the driver's seat,l
 in the driver's seat,l
@@ -634,7 +634,7 @@ strike a chord,l
 strike a chord,l
 strike a chord,l
 batten down the hatches,l
-batten down the hatches,l
+batten down the hatches,u
 batten down the hatches,l
 cap in hand,l
 cap in hand,l
@@ -653,7 +653,7 @@ come in from the cold,l
 come in from the cold,l
 head over heels,l
 head over heels,l
-head over heels,l
+head over heels,u
 reach for the stars,l
 for a song,l
 for a song,l
@@ -673,7 +673,7 @@ don't hold your breath,l
 stand up and be counted,l
 stand up and be counted,l
 far and away,l
-far and away,l
+far and away,u
 far and away,l
 sink or swim,l
 sink or swim,l
@@ -691,24 +691,24 @@ draw a line in the sand,l
 push someone's buttons,l
 push someone's buttons,l
 separate the wheat from the chaff,l
-separate the wheat from the chaff,l
-get to grips with,l
+separate the wheat from the chaff,u
+get to grips with,u
 get under someone's skin,l
 get under someone's skin,l
 get under someone's skin,l
+up to speed,u
 up to speed,l
-up to speed,l
-go with the flow,l
+go with the flow,u
 go with the flow,l
 rule the roost,i
 rule the roost,l
 rule the roost,l
 in the fast lane,l
 in the fast lane,l
-in the fast lane,l
+in the fast lane,u
 break the back of,l
 break the back of,l
-break the back of,i
+break the back of,l
 put words in someone's mouth,l
 put words in someone's mouth,l
 put words in someone's mouth,i
@@ -734,13 +734,13 @@ below the belt,l
 see eye to eye,l
 see eye to eye,l
 get it up,l
-get it up,l
+get it up,u
 get it up,l
 get away with murder,l
 get away with murder,l
 get away with murder,l
 one of those things,l
-one of those things,i
+one of those things,l
 joined at the hip,l
 joined at the hip,l
 have a ball,l
@@ -750,7 +750,7 @@ under the sun,l
 under the sun,l
 on the wagon,l
 on the wagon,l
-on the wagon,l
+on the wagon,u
 call a spade a spade,l
 call a spade a spade,i
 call a spade a spade,l
@@ -765,7 +765,7 @@ black and blue,l
 put the cart before the horse,l
 bells and whistles,l
 bells and whistles,l
-in cold blood,l
+in cold blood,i
 in cold blood,l
 carrot and stick,l
 carrot and stick,l
@@ -788,7 +788,7 @@ eat someone alive,l
 eat someone alive,l
 tie the knot,l
 tie the knot,l
-tie the knot,l
+tie the knot,u
 step on it,l
 step on it,l
 out of the picture,l
@@ -805,7 +805,7 @@ full speed ahead,l
 point the finger,i
 point the finger,l
 sign on the dotted line,l
-sign on the dotted line,i
+sign on the dotted line,u
 sign on the dotted line,l
 up the ante,l
 up the ante,l
@@ -831,9 +831,9 @@ hold someone's hand,l
 hold someone's hand,l
 cut from the same cloth,l
 cut from the same cloth,l
-cut from the same cloth,l
+cut from the same cloth,u
 licence to print money,i
-licence to print money,i
+licence to print money,l
 licence to print money,i
 on the mend,l
 on the mend,l
@@ -860,7 +860,7 @@ do someone proud,i
 do someone proud,i
 do someone proud,i
 down to the wire,l
-down to the wire,l
+down to the wire,u
 down to the wire,l
 go the distance,l
 go the distance,l
@@ -874,14 +874,14 @@ set the wheels in motion,l
 set the wheels in motion,l
 set the wheels in motion,l
 to the tune of,l
+to the tune of,u
 to the tune of,l
-to the tune of,l
 on the back burner,l
 on the back burner,l
 on the back burner,l
 turn the screw,l
 turn the screw,l
-turn the screw,l
+turn the screw,u
 glass ceiling,l
 glass ceiling,l
 glass ceiling,l
@@ -895,7 +895,7 @@ heavy cross,l
 heavy cross,l
 heavy cross,l
 banana republic,l
-banana republic,l
+banana republic,u
 banana republic,l
 crocodile tear,l
 crocodile tear,l
@@ -941,7 +941,7 @@ black box,l
 flea market,l
 flea market,l
 flea market,l
-goose egg,l
+goose egg,u
 blind alley,l
 blind alley,l
 blind alley,l
@@ -1018,7 +1018,7 @@ zebra crossing,l
 silver lining,l
 top dog,l
 bad hat,l
-bad hat,l
+bad hat,u
 bad hat,l
 acid test,l
 acid test,l
@@ -1026,7 +1026,7 @@ acid test,l
 big fish,l
 agony aunt,i
 brass ring,l
-brass ring,l
+brass ring,u
 brass ring,l
 busy bee,l
 closed book,l

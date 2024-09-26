@@ -1,4 +1,4 @@
-idiom,pred
+Idiom,cleaned_text
 all hell broke loose,i
 all hell broke loose,i
 all hell broke loose,i
@@ -44,14 +44,14 @@ look on the bright side,i
 up to here,i
 up to here,i
 up to here,i
-night and day,l
+night and day,i
 night and day,l
 head for the hills,l
 head for the hills,i
 head for the hills,l
 pass the buck,i
 pass the buck,i
-rise from the ashes,l
+rise from the ashes,i
 rise from the ashes,i
 rise from the ashes,i
 meat and potatoes,i
@@ -125,9 +125,9 @@ turn the other cheek,i
 raise the roof,i
 raise the roof,i
 raise the roof,i
-do the right thing,l
 do the right thing,i
-do the right thing,l
+do the right thing,i
+do the right thing,i
 on the square,i
 on the square,i
 on the square,l
@@ -155,7 +155,7 @@ go for the jugular,i
 go for the jugular,i
 nip and tuck,i
 nip and tuck,i
-nip and tuck,i
+nip and tuck,l
 throw the baby out with the bathwater,i
 throw the baby out with the bathwater,i
 out of order,i
@@ -169,7 +169,7 @@ move the goalposts,i
 move the goalposts,i
 hair of the dog,i
 hair of the dog,i
-hair of the dog,l
+hair of the dog,i
 have someone's number,i
 neither here nor there,i
 neither here nor there,i
@@ -189,7 +189,7 @@ dead and buried,i
 dead and buried,i
 dead and buried,i
 down in the dumps,i
-down in the dumps,i
+down in the dumps,l
 down in the dumps,i
 know the score,i
 know the score,i
@@ -221,7 +221,7 @@ blaze a trail,i
 blaze a trail,i
 blaze a trail,i
 on the bounce,l
-on the bounce,i
+on the bounce,l
 on the bounce,i
 at a canter,l
 at a canter,i
@@ -243,11 +243,11 @@ rob Peter to pay Paul,i
 ring a bell,i
 ring a bell,i
 ring a bell,i
-to die for,l
+to die for,i
 to die for,i
 to die for,i
 everything but the kitchen sink,i
-spend a penny,i
+spend a penny,l
 spend a penny,i
 spend a penny,i
 in black and white,i
@@ -293,7 +293,7 @@ cut both ways,i
 sing the praises of,i
 sing the praises of,i
 sing the praises of,i
-hold the line,l
+hold the line,i
 pull the plug,i
 pull the plug,i
 pull the plug,i
@@ -352,7 +352,7 @@ dyed in the wool,i
 fight fire with fire,i
 fight fire with fire,i
 fight fire with fire,i
-all over the place,i
+all over the place,l
 all over the place,i
 all over the place,i
 grind to a halt,i
@@ -461,7 +461,7 @@ shoot the messenger,i
 shoot the messenger,i
 shoot the messenger,i
 wake up and smell the coffee,i
-fun and games,l
+fun and games,i
 fun and games,i
 fun and games,l
 cast the first stone,i
@@ -474,8 +474,8 @@ fly a kite,i
 fly a kite,l
 in the clear,i
 in the clear,i
-have a few,i
-have a few,i
+have a few,l
+have a few,l
 have a few,l
 to the hilt,i
 to the hilt,i
@@ -703,7 +703,7 @@ go with the flow,i
 rule the roost,i
 rule the roost,i
 rule the roost,i
-in the fast lane,l
+in the fast lane,i
 in the fast lane,i
 in the fast lane,i
 break the back of,i
@@ -714,7 +714,7 @@ put words in someone's mouth,i
 put words in someone's mouth,i
 shut the door on,i
 shut the door on,i
-shut the door on,l
+shut the door on,i
 kiss of death,i
 kiss of death,i
 kiss of death,i
@@ -730,11 +730,12 @@ rock the boat,i
 rock the boat,i
 below the belt,i
 below the belt,l
-below the belt,l
+below the belt,u
+see eye to eye,i
 see eye to eye,i
 get it up,l
-get it up,l
-get it up,l
+get it up,i
+get it up,i
 get away with murder,i
 get away with murder,i
 get away with murder,i
@@ -789,7 +790,7 @@ tie the knot,i
 tie the knot,i
 tie the knot,i
 step on it,i
-step on it,i
+step on it,l
 out of the picture,i
 out of the picture,i
 break the ice,i
@@ -853,7 +854,7 @@ get off the ground,i
 get off the ground,i
 get off the ground,i
 under the table,i
-under the table,l
+under the table,i
 under the table,i
 do someone proud,i
 do someone proud,i
