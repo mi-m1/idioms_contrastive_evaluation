@@ -32,25 +32,25 @@ https://github.com/mi-m1/idioms_contrastive_evaluation/blob/master/prompting/ana
         - [X] clean
           
   * llama2
-    - [ ] meta/llama-2-7b-chat
-        - [ ] ran it
-        - [ ] clean it
-    - [ ] meta/llama-2-13b-chat
-        - [ ] ran it
-        - [ ] clean it
-    - [ ] meta/llama-2-70b-chat
-        - [ ] ran it
-        - [ ] clean it
+    - [X] meta/llama-2-7b-chat
+        - [X] ran it
+        - [X] clean it
+    - [X] meta/llama-2-13b-chat
+        - [X] ran it
+        - [X] clean it
+    - [X] meta/llama-2-70b-chat
+        - [X] ran it
+        - [X] clean it
   * llama3
-    - [ ] meta/meta-llama-3-8b-instruct
-        - [ ] ran it
-        - [ ] clean it
-    - [ ] meta/meta-llama-3-70b-instruct
-        - [ ] ran it
-        - [ ] clean it
-    - [ ] meta/meta-llama-3.1-405b-instruct
-        - [ ] ran it
-        - [ ] clean it
+    - [X] meta/meta-llama-3-8b-instruct
+        - [X] ran it
+        - [X] clean it
+    - [X] meta/meta-llama-3-70b-instruct
+        - [X] ran it
+        - [X] clean it
+    - [X] meta/meta-llama-3.1-405b-instruct
+        - [X] ran it
+        - [X] clean it
   * mistral
 * frequency analysis
   * split into 4 (more or less) equal groups
