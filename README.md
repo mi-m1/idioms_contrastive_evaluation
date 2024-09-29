@@ -8,6 +8,9 @@ https://github.com/mi-m1/idioms_contrastive_evaluation/blob/master/prompting/ana
 1shot evaluator:
 https://github.com/mi-m1/idioms_contrastive_evaluation/blob/master/prompting/analysis_for_paper/model_evaluator_fewshot.py
 
+## Notes on Metrics
+https://iamirmasoud.com/2022/06/19/understanding-micro-macro-and-weighted-averages-for-scikit-learn-metrics-in-multi-class-classification-with-example/
+https://www.evidentlyai.com/classification-metrics/multi-class-metrics#visual-example-micro
 ## To do:
 * zeroshot:
   * llama3
