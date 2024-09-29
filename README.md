@@ -52,6 +52,8 @@ https://github.com/mi-m1/idioms_contrastive_evaluation/blob/master/prompting/ana
         - [X] ran it
         - [X] clean it
   * mistral
+* model evaluator bug
+  - [ ] calculate f1 scores for the whole dataset
 * frequency analysis
   * split into 4 (more or less) equal groups
   * the log-log graph
