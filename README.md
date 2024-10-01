@@ -16,7 +16,7 @@ https://www.evidentlyai.com/classification-metrics/multi-class-metrics#visual-ex
   * llama3
     - [X] meta/meta-llama-3-8b-instruct 
     - [X] meta/meta-llama-3-70b-instruct
-    - [ ] meta/meta-llama-3.1-405b-instruct ==> running in progress, afte running run the clean_llama3.py script!
+    - [X] meta/meta-llama-3.1-405b-instruct <s>==> running in progress, afte running run the clean_llama3.py script!</s>
   * mistral?
     - [ ] mistralai/mistral-7b-instruct-v0.1 ==> not working with replicate?
     - [ ] mistralai/mistral-7b-instruct-v0.2
@@ -54,12 +54,15 @@ https://www.evidentlyai.com/classification-metrics/multi-class-metrics#visual-ex
     - [X] meta/meta-llama-3.1-405b-instruct
         - [X] ran it
         - [X] clean it
+  * flan models
   * mistral
 * model evaluator bug
-  - [ ] calculate f1 scores for the whole dataset
+  - [X] calculate f1 scores for the whole dataset
 * frequency analysis
-  * split into 4 (more or less) equal groups
-  * the log-log graph
+  * <s>split into 4 (more or less) equal groups</s>
+  * log-log graph based on F1
+  * familarity vs. frequency graph
+  * familarity vs. performance (F1)
 
 
 
