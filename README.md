@@ -62,6 +62,10 @@ https://www.evidentlyai.com/classification-metrics/multi-class-metrics#visual-ex
   * <s>split into 4 (more or less) equal groups</s>
   * log-log graph based on F1
   * familarity vs. frequency graph
+    - [X] Tried with lemma frequency of the whole expression: plot_macro and plot_micro folders
+    - [ ] Try with familiarity measures
+    - [ ] Try with different frequency measures?
+        - [ ] Kucera and Francis
   * familarity vs. performance (F1)
 
 
