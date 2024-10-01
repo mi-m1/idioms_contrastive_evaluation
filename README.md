@@ -11,6 +11,11 @@ https://github.com/mi-m1/idioms_contrastive_evaluation/blob/master/prompting/ana
 ## Notes on Metrics
 https://iamirmasoud.com/2022/06/19/understanding-micro-macro-and-weighted-averages-for-scikit-learn-metrics-in-multi-class-classification-with-example/
 https://www.evidentlyai.com/classification-metrics/multi-class-metrics#visual-example-micro
+
+## Inspired Papers
+https://link.springer.com/article/10.1007/BF01068157
+https://osf.io/c2yef/?view_only=
+
 ## To do:
 * zeroshot:
   * llama3
