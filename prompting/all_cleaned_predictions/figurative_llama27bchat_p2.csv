@@ -1,4 +1,4 @@
-idiom,response_checked
+idiom,pred
 all hell broke loose,i
 all hell broke loose,i
 all hell broke loose,i
@@ -93,7 +93,7 @@ in the black,i
 in the black,i
 hit the nail on the head,i
 hit the nail on the head,i
-in the driving seat,(i) figurative
+in the driving seat,i
 in the driving seat,i
 in the driving seat,i
 join the club,i
@@ -223,7 +223,7 @@ blaze a trail,i
 on the bounce,i
 on the bounce,i
 on the bounce,i
-at a canter,Output: u
+at a canter,u
 at a canter,i
 at a canter,i
 out to lunch,i
@@ -750,7 +750,7 @@ under the sun,i
 under the sun,i
 on the wagon,i
 on the wagon,i
-on the wagon,'u'
+on the wagon,u
 call a spade a spade,u
 call a spade a spade,i
 call a spade a spade,i

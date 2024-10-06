@@ -1,4 +1,4 @@
-idiom,response
+idiom,pred
 all hell broke loose,l
 all hell broke loose,l
 all hell broke loose,l
@@ -15,7 +15,7 @@ make a killing,i
 make a killing,l
 carry the can,l
 carry the can,l
-carry the can,check
+carry the can,u
 in the doghouse,l
 in the doghouse,l
 in the doghouse,i
@@ -70,13 +70,13 @@ heart of gold,l
 heart of gold,l
 heart of gold,l
 par for the course,l
-par for the course,L
+par for the course,l
 par for the course,i
 out of line,l
 out of line,l
 out of line,l
 stay the course,l
-stay the course,check
+stay the course,u
 stay the course,l
 smoke and mirrors,i
 smoke and mirrors,i
@@ -85,7 +85,7 @@ get to the bottom of,l
 get to the bottom of,l
 by the book,l
 by the book,l
-in your face,L
+in your face,l
 in your face,i
 in your face,l
 in the black,l
@@ -281,7 +281,7 @@ down the drain,l
 down the drain,i
 down the drain,i
 make the cut,l
-make the cut,L
+make the cut,l
 make the cut,l
 free and easy,l
 free and easy,l
@@ -405,7 +405,7 @@ dig up dirt,l
 dig up dirt,l
 left and right,l
 dead in the water,l
-dead in the water,L
+dead in the water,l
 dead in the water,l
 take no prisoners,l
 run out of steam,i
@@ -475,7 +475,7 @@ fly a kite,i
 in the clear,l
 in the clear,l
 have a few,l
-have a few,check
+have a few,u
 have a few,l
 to the hilt,l
 to the hilt,l
@@ -519,10 +519,10 @@ rough around the edges,l
 rough around the edges,l
 fly off the handle,i
 fly off the handle,l
-see the light,check
+see the light,u
 see the light,l
 see the light,l
-pour cold water on,L
+pour cold water on,l
 pour cold water on,l
 pour cold water on,l
 fire in the belly,l
@@ -639,7 +639,7 @@ batten down the hatches,l
 cap in hand,l
 cap in hand,l
 cap in hand,l
-kicking and screaming,check
+kicking and screaming,u
 kicking and screaming,l
 kicking and screaming,l
 sick and tired,i
@@ -649,7 +649,7 @@ on the cards,l
 face the music,l
 face the music,i
 come in from the cold,i
-come in from the cold,check
+come in from the cold,u
 come in from the cold,l
 head over heels,l
 head over heels,l
@@ -683,7 +683,7 @@ hit the bottle,l
 hit the bottle,l
 turn over a new leaf,l
 turn over a new leaf,i
-put the boot in,check
+put the boot in,u
 put the boot in,l
 make a splash,l
 make a splash,i
@@ -708,7 +708,7 @@ in the fast lane,l
 in the fast lane,l
 break the back of,l
 break the back of,l
-break the back of,check
+break the back of,u
 put words in someone's mouth,i
 put words in someone's mouth,i
 put words in someone's mouth,l
@@ -733,8 +733,8 @@ below the belt,l
 below the belt,l
 see eye to eye,l
 see eye to eye,l
-get it up,check
-get it up,check
+get it up,u
+get it up,u
 get it up,l
 get away with murder,l
 get away with murder,l
@@ -769,7 +769,7 @@ in cold blood,l
 in cold blood,l
 carrot and stick,l
 carrot and stick,l
-down the road,check
+down the road,u
 down the road,i
 down the road,l
 heads will roll,i
@@ -777,7 +777,7 @@ heads will roll,l
 at the end of the day,l
 at the end of the day,l
 at the end of the day,i
-heart and soul,L
+heart and soul,l
 heart and soul,l
 heart and soul,l
 pack a punch,l
@@ -785,7 +785,7 @@ pack a punch,i
 pack a punch,l
 eat someone alive,i
 eat someone alive,l
-eat someone alive,check
+eat someone alive,u
 tie the knot,i
 tie the knot,l
 tie the knot,i
@@ -819,13 +819,13 @@ with a view to,l
 move heaven and earth,i
 move heaven and earth,i
 move heaven and earth,l
-across the board,check
+across the board,u
 across the board,l
 tip the scales,l
 tip the scales,l
 face to face,l
 face to face,l
-face to face,check
+face to face,u
 hold someone's hand,l
 hold someone's hand,l
 hold someone's hand,l
@@ -840,7 +840,7 @@ on the mend,l
 on the mend,l
 go all the way,l
 go all the way,l
-go all the way,check
+go all the way,u
 come with the territory,l
 come with the territory,l
 the bee's knees,l

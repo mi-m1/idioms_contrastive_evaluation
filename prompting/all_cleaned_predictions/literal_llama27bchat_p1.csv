@@ -1,4 +1,4 @@
-idiom,response_checked
+idiom,pred
 all hell broke loose,i
 all hell broke loose,u
 all hell broke loose,i
@@ -193,7 +193,7 @@ down in the dumps,u
 down in the dumps,i
 know the score,i
 know the score,i
-know the score,'i'
+know the score,i
 oil and water,i
 oil and water,i
 oil and water,i
@@ -300,7 +300,7 @@ pull the plug,i
 make a move,i
 make a move,i
 make a move,i
-make a meal of,'i'
+make a meal of,i
 make a meal of,i
 make a meal of,u
 the icing on the cake,i
@@ -956,7 +956,7 @@ grandfather clock,i
 grandfather clock,i
 guinea pig,l
 guinea pig,i
-guinea pig,'u'
+guinea pig,u
 graveyard shift,i
 graveyard shift,l
 gravy train,i

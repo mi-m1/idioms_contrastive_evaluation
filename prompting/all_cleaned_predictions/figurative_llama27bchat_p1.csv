@@ -1,4 +1,4 @@
-idiom,response_checked
+idiom,pred
 all hell broke loose,i
 all hell broke loose,i
 all hell broke loose,i
@@ -412,7 +412,7 @@ run out of steam,i
 take a hike,i
 take a hike,i
 take a hike,i
-go the extra mile,I
+go the extra mile,i
 under a cloud,i
 under a cloud,i
 under a cloud,i
@@ -861,7 +861,7 @@ do someone proud,i
 do someone proud,i
 down to the wire,i
 down to the wire,i
-down to the wire,'u'
+down to the wire,u
 go the distance,i
 go the distance,i
 go the distance,i

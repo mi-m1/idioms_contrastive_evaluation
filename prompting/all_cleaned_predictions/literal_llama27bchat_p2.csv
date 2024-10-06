@@ -1,4 +1,4 @@
-idiom,response_checked
+idiom,pred
 all hell broke loose,l
 all hell broke loose,l
 all hell broke loose,i
@@ -596,7 +596,7 @@ scratch the surface,l
 hammer and tongs,i
 hammer and tongs,i
 hammer and tongs,i
-make a clean break,'l'
+make a clean break,l
 make a clean break,i
 make a clean break,i
 at sixes and sevens,i
@@ -686,7 +686,7 @@ turn over a new leaf,i
 put the boot in,i
 put the boot in,u
 make a splash,i
-make a splash,"i, l"
+make a splash,u
 draw a line in the sand,i
 push someone's buttons,i
 push someone's buttons,l

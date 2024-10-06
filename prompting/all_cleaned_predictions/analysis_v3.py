@@ -7,8 +7,15 @@ from tqdm import tqdm
 from statistics import fmean,stdev
 
 def save_dict_as_csv(dictionary_to_save, filename):
-    df = pd.DataFrame.from_dict(dictionary_to_save,)
-    df.to_csv(filename, index=False)
+
+    # for key, value in dictionary_to_save.items():
+    for key, value in dictionary_to_save.items():
+        if isinstance(value, list):
+            df = pd.DataFrame.from_dict(dictionary_to_save)
+            df.to_csv(filename, index=False)
+        else:
+            df = pd.DataFrame.from_dict([dictionary_to_save])
+            df.to_csv(filename, index=False)
 
 class ModelEvaluator:
     def __init__(self, predictions_dir):
@@ -161,7 +168,57 @@ class ModelEvaluator:
             return model_lc
         
         
-    def strict_consistency(self, pairs):
+    def strict_consistency(self, pairs, average_of_three=None):
+
+        model_sc = {}
+
+        for model_run, pair in pairs.items():
+
+            # make a big file
+            df_fig = pd.read_csv(pair[0])
+            df_lit = pd.read_csv(pair[1])
+
+            df = pd.concat([df_fig, df_lit])
+
+            df["correct_label"] = ["i"]*1033 + ["l"]*1033
+            # print(df)
+
+            # calculate sc
+
+            # 1) check preds against the correct label
+            df['is_correct'] = df['pred'] == df["correct_label"]
+            # print(df)
+
+            # 2) count the ones the models got all correct in both settings                
+            idiom_groups = df.groupby('idiom')['is_correct'].all()
+            # print(idiom_groups)
+            correct_predictions = idiom_groups.sum()
+            # print(correct_predictions)
+
+            sc_accuracy = (correct_predictions / len(idiom_groups))
+            # print(sc_accuracy)
+
+            model_sc[model_run] = sc_accuracy
+
+        if average_of_three == True:
+            
+            sc_average_of_three = {}
+            sc_stdev_of_three = {}
+
+            for model in self.models:
+                sc_value_of_three_runs = []
+                for model_run, results in model_sc.items():
+                    if model in model_run:
+                        sc_value_of_three_runs.append(model_sc[model_run])
+
+                sc_average_of_three[model] = fmean(sc_value_of_three_runs)*100
+                sc_stdev_of_three[model] = stdev(sc_value_of_three_runs)*100
+
+            return model_sc, sc_average_of_three,sc_stdev_of_three
+        else:
+            return model_sc
+
+    
         pass
             # print(f"model_run:{model_run}, file_pair:{file_pair}")
             # df_fig = pd.read_csv(file_pair[0])
@@ -230,3 +287,22 @@ save_dict_as_csv(lc_scores, "results/lc_scores.csv")
 save_dict_as_csv(avg_lc, "results/lc_avg.csv")
 save_dict_as_csv(stdev_lc, "results/lc_stdev.csv")
 # save_dict_as_csv()
+
+##### STRICT CONSISTENCY ######ß
+print(evaluator.strict_consistency(filepath_pairs))
+
+sc_scores, avg_sc, stdev_sc = evaluator.strict_consistency(filepath_pairs, average_of_three=True)
+print(f"\nsc_values for average")
+for model, sc_values in avg_sc.items():
+    print(f"{model}:\t{sc_values}")
+
+print(f"\nsc_values for stdev")
+for model, sc_values in stdev_sc.items():
+    print(f"{model}:\t{sc_values}")
+
+
+save_dict_as_csv(sc_scores, "results/sc_scores.csv")
+save_dict_as_csv(avg_sc, "results/sc_avg.csv")
+save_dict_as_csv(stdev_sc, "results/sc_stdev.csv")
+
+
