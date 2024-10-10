@@ -243,7 +243,7 @@ print(f"filepath_pairs: {filepath_pairs}")
 
 scores,avg_of_three,stdev_of_three = evaluator.get_scores(filepath_pairs,average_of_three=True)
 
-print(f"\n{scores}\n")
+print(f"\nscores:{scores}\n")
 
 print(avg_of_three)
 
