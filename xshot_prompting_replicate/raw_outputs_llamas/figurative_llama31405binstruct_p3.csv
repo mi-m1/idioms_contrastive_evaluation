@@ -1,0 +1,1052 @@
+idiom,sentence
+all hell broke loose,output: i
+all hell broke loose,output: i
+all hell broke loose,Output: i
+off the hook,output: i
+off the hook,output: i
+off the hook,output: l
+against the grain,output: i
+against the grain,Output: l
+play with fire,output: i
+play with fire,output: l
+play with fire,output: i
+make a killing,output: i
+make a killing,output: i
+make a killing,output: i
+carry the can,output: i
+carry the can,output: i
+carry the can,output: i
+in the doghouse,output: i
+in the doghouse,output: i
+in the doghouse,output: i
+behind the scenes,Output: l
+behind the scenes,Output: l
+behind the scenes,Output: i
+go to the wall,output: i
+go to the wall,output: i
+go to the wall,Output: i
+see the light of day,output: i
+see the light of day,output: i
+under the weather,output: i
+under the weather,output: i
+under the weather,output: i
+jump through hoops,output: i
+jump through hoops,Output: i
+jump through hoops,Output: i
+on the horn,Output: i
+on the horn,output: i
+to the bone,output: i
+to the bone,output: i
+push the envelope,Output: i
+push the envelope,Output: i
+look on the bright side,output: i
+look on the bright side,Output: i
+up to here,output: i
+up to here,output: i
+up to here,output: i
+night and day,Output: l
+night and day,Output: l
+head for the hills,Output: l
+head for the hills,output: i
+head for the hills,output: i
+pass the buck,output: i
+pass the buck,output: i
+rise from the ashes,Output: i
+rise from the ashes,Output: i
+rise from the ashes,output: i
+meat and potatoes,output: i
+meat and potatoes,Output: l
+meat and potatoes,output: i
+in bed with,output: i
+in bed with,Output: l
+in bed with,Output: l
+in the pink,"To determine whether the expression ""in the pink"" is used figuratively or literally in the context ""In the Pink,"" we need to consider the meanings of the phrase.
+
+""In the pink"" figuratively means in good health or spirits. Without additional context, it's challenging to determine the usage with absolute certainty. However, given that ""In the Pink"" is presented as a standalone title or phrase, it's more likely to be an idiomatic expression rather than a literal description of something being pink.
+
+Therefore, based on the typical usage of ""in the pink"" as an idiom for good health or spirits, the expression would be considered figurative.
+
+output: i"
+in the pink,output: i
+in the pink,Output: l
+go to town,output: i
+go to town,"To determine whether the expression ""go to town"" holds a figurative or literal meaning in the context ""Mr Devey went to town,"" we need to consider the typical usage of the phrase.
+
+""Go to town"" can literally mean to travel to a town or city, usually for a specific purpose such as shopping, entertainment, or business. However, without more context indicating that ""going to town"" has a special idiomatic meaning here (like spending money freely, doing something enthusiastically, or acting with great energy), the most straightforward interpretation of ""Mr Devey went to town"" would be that he physically traveled to a town.
+
+Therefore, given the provided context does not suggest any special or figurative usage, the expression ""go to town"" holds a literal meaning.
+
+output: l"
+go to town,output: i
+heart of gold,output: i
+heart of gold,output: i
+heart of gold,output: i
+par for the course,output: i
+par for the course,output: i
+par for the course,output: i
+out of line,Output: l
+out of line,output: i
+out of line,output: i
+stay the course,output: l
+stay the course,output: i
+stay the course,output: i
+smoke and mirrors,output: i
+smoke and mirrors,output: i
+get to the bottom of,output: i
+get to the bottom of,output: i
+get to the bottom of,output: i
+by the book,output: i
+by the book,Output: i
+in your face,Output: i
+in your face,output: i
+in your face,output: i
+in the black,output: i
+in the black,Output: l
+in the black,output: i
+hit the nail on the head,output: i
+hit the nail on the head,output: i
+in the driving seat,output: i
+in the driving seat,output: i
+in the driving seat,output: i
+join the club,Output: l
+join the club,Output: i
+join the club,Output: i
+walk the plank,output: i
+walk the plank,Output: i
+eat humble pie,output: i
+eat humble pie,output: i
+eat humble pie,output: i
+up the river,output: i
+up the river,Output: i
+up the river,Output: l
+circle the wagons,Output: i
+look the part,output: l
+look the part,Output: i
+look the part,Output: i
+moment of truth,Output: i
+all bets are off,output: i
+all bets are off,output: i
+knock someone's socks off,output: i
+on the side of the angels,output: i
+on the side of the angels,output: i
+on the side of the angels,output: i
+jump on the bandwagon,output: i
+jump on the bandwagon,output: i
+jump on the bandwagon,output: i
+turn the other cheek,output: i
+raise the roof,output: i
+raise the roof,Output: i
+raise the roof,Output: i
+do the right thing,Output: i
+do the right thing,Output: i
+do the right thing,Output: i
+on the square,Output: i
+on the square,output: i
+on the square,Output: l
+pick up the pieces,output: i
+pick up the pieces,output: l
+pick up the pieces,output: i
+touch and go,output: i
+off and running,Output: i
+off and running,output: i
+off and running,Output: i
+horses for courses,output: i
+horses for courses,output: i
+horses for courses,Output: i
+wipe the slate clean,output: i
+wipe the slate clean,output: i
+wipe the slate clean,output: i
+hit the jackpot,output: i
+hit the jackpot,output: i
+hit the jackpot,output: i
+round the bend,Output: i
+round the bend,output: i
+round the bend,Output: l
+go for the jugular,output: i
+go for the jugular,output: i
+go for the jugular,output: i
+nip and tuck,output: i
+nip and tuck,output: i
+nip and tuck,Output: i
+throw the baby out with the bathwater,output: i
+throw the baby out with the bathwater,output: i
+out of order,Output: i
+out of order,output: i
+out of order,output: i
+muddy the waters,output: i
+muddy the waters,output: i
+muddy the waters,output: i
+move the goalposts,output: i
+move the goalposts,"In the context of ""Moving the goalposts,"" the expression is used figuratively to mean changing the rules or criteria of a situation in a way that is unfair or misleading, often to gain an advantage. 
+
+Output: i"
+move the goalposts,output: i
+hair of the dog,output: i
+hair of the dog,output: i
+hair of the dog,Output: l
+have someone's number,output: i
+neither here nor there,output: i
+neither here nor there,output: i
+neither here nor there,output: i
+out of the woods,output: i
+out of the woods,output: i
+out of the woods,Output: i
+sit on the fence,Output: i
+sit on the fence,output: i
+sit on the fence,output: i
+keep the peace,output: i
+keep the peace,Output: i
+six feet under,output: i
+six feet under,output: i
+six feet under,output: l
+dead and buried,output: i
+dead and buried,output: i
+dead and buried,output: i
+down in the dumps,Output: i
+down in the dumps,Output: l
+down in the dumps,output: i
+know the score,output: i
+know the score,output: i
+know the score,output: i
+oil and water,output: i
+oil and water,Output: i
+oil and water,Output: l
+add fuel to the fire,output: i
+add fuel to the fire,output: i
+add fuel to the fire,output: i
+power behind the throne,output: i
+power behind the throne,output: i
+power behind the throne,output: i
+blood and guts,output: l
+blood and guts,Output: l
+blood and guts,output: i
+strike while the iron is hot,output: i
+strike while the iron is hot,Output: i
+on the hop,output: i
+on the hop,Output: i
+on the hop,Output: i
+all over the map,Output: i
+all over the map,output: i
+all over the map,output: i
+let the cat out of the bag,output: i
+let the cat out of the bag,output: i
+let the cat out of the bag,output: i
+blaze a trail,output: i
+blaze a trail,output: l
+blaze a trail,Output: i
+on the bounce,Output: i
+on the bounce,Output: l
+on the bounce,output: i
+at a canter,Output: l
+at a canter,Output: l
+at a canter,Output: l
+out to lunch,output: i
+out to lunch,output: i
+out to lunch,output: i
+twist someone's arm,output: i
+twist someone's arm,output: i
+twist someone's arm,Output: l
+swings and roundabouts,output: i
+swings and roundabouts,output: i
+swings and roundabouts,output: i
+on the ball,output: i
+on the ball,Output: i
+rob Peter to pay Paul,output: i
+rob Peter to pay Paul,output: i
+rob Peter to pay Paul,output: i
+ring a bell,output: i
+ring a bell,output: i
+ring a bell,output: i
+to die for,Output: l
+to die for,output: i
+to die for,output: i
+everything but the kitchen sink,output: i
+spend a penny,Output: l
+spend a penny,Output: i
+spend a penny,output: i
+in black and white,Output: i
+in black and white,output: i
+in black and white,output: i
+doom and gloom,output: i
+doom and gloom,output: i
+doom and gloom,output: i
+keep tabs on,output: i
+keep tabs on,output: i
+keep tabs on,output: i
+get the picture,Output: i
+get the picture,output: i
+get the picture,output: i
+look the other way,output: i
+look the other way,output: i
+look the other way,output: i
+burst someone's bubble,output: i
+burst someone's bubble,output: i
+burst someone's bubble,output: i
+fall in line,output: i
+fall in line,Output: l
+fall in line,Output: i
+water under the bridge,output: i
+water under the bridge,output: i
+water under the bridge,Output: i
+keep a lid on,output: i
+keep a lid on,output: i
+keep a lid on,output: i
+down the drain,output: i
+down the drain,output: i
+down the drain,output: i
+make the cut,output: i
+make the cut,output: i
+make the cut,Output: l
+free and easy,Output: i
+free and easy,output: i
+free and easy,Output: i
+with a vengeance,output: i
+cut both ways,Output: l
+cut both ways,output: i
+cut both ways,output: i
+sing the praises of,output: i
+sing the praises of,output: i
+sing the praises of,output: i
+hold the line,"In the given context, ""Just hold the line,"" the expression 'hold the line' is typically used figuratively. It means to maintain a position, level, or status quo, often in the face of adversity or pressure. This usage is common in various contexts, including military, sports, and general advice on resilience.
+
+output: i"
+pull the plug,output: i
+pull the plug,output: i
+pull the plug,Output: i
+make a move,Output: i
+make a move,output: i
+make a move,output: i
+make a meal of,Output: l
+make a meal of,output: i
+make a meal of,output: i
+the icing on the cake,output: i
+the icing on the cake,output: i
+the icing on the cake,output: i
+in the red,Output: i
+in the red,Output: i
+in the red,output: i
+feel the pinch,output: i
+feel the pinch,output: i
+feel the pinch,output: i
+under the microscope,output: i
+under the microscope,output: i
+under the microscope,output: i
+pay the piper,output: i
+pay the piper,Output: i
+pay the piper,Output: i
+on the trot,output: i
+on the trot,output: i
+on the trot,Output: i
+peaches and cream,output: i
+peaches and cream,Output: l
+toe the line,output: i
+toe the line,output: i
+grasp the nettle,output: i
+grasp the nettle,output: i
+grasp the nettle,output: i
+high and mighty,output: i
+high and mighty,Output: i
+high and mighty,output: i
+in the hole,output: i
+in the hole,output: i
+in the hole,output: i
+take the fall,output: l
+take the fall,output: l
+take the fall,output: i
+in the offing,output: i
+in the offing,output: i
+in the offing,output: i
+ride roughshod over,output: i
+ride roughshod over,output: i
+ride roughshod over,output: i
+crash and burn,output: i
+crash and burn,output: i
+crash and burn,output: i
+dyed in the wool,output: i
+dyed in the wool,output: i
+dyed in the wool,output: i
+fight fire with fire,output: i
+fight fire with fire,output: i
+fight fire with fire,output: i
+all over the place,Output: l
+all over the place,Output: l
+all over the place,output: i
+grind to a halt,Output: i
+grind to a halt,Output: i
+grind to a halt,output: i
+in a nutshell,output: i
+in a nutshell,Output: i
+rise and shine,Output: i
+take a back seat,output: i
+take a bath,output: i
+take a bath,output: i
+take a bath,output: i
+bury the hatchet,output: i
+bury the hatchet,output: i
+in the soup,Output: l
+in the soup,Output: l
+in the soup,Output: i
+grease the wheels,output: i
+grease the wheels,output: i
+grease the wheels,output: i
+apples and oranges,output: i
+apples and oranges,output: i
+follow in someone's footsteps,output: i
+follow in someone's footsteps,output: i
+follow in someone's footsteps,output: i
+under the wire,Output: i
+under the wire,output: i
+under the wire,output: i
+out of the blue,output: i
+out of the blue,output: i
+out of the blue,output: i
+over the moon,output: i
+over the moon,output: i
+throw down the gauntlet,output: i
+throw down the gauntlet,output: i
+take the bull by the horns,output: i
+take the bull by the horns,Output: i
+take the bull by the horns,output: i
+over the top,output: i
+over the top,output: i
+over the top,output: i
+sweetness and light,output: i
+sweetness and light,output: i
+behind someone's back,output: i
+behind someone's back,output: i
+on the ropes,output: i
+take the cake,output: i
+dig up dirt,output: i
+dig up dirt,output: i
+dig up dirt,output: i
+left and right,Output: l
+dead in the water,output: i
+dead in the water,Output: l
+dead in the water,output: i
+take no prisoners,output: l
+run out of steam,output: i
+take a hike,output: i
+take a hike,output: i
+take a hike,output: i
+go the extra mile,output: i
+under a cloud,output: i
+under a cloud,output: i
+under a cloud,output: i
+in someone's pocket,output: i
+in someone's pocket,output: i
+in someone's pocket,Output: i
+on the shelf,output: i
+on the shelf,output: i
+on the shelf,Output: l
+pound the pavement,Output: l
+cut and thrust,output: i
+cut and thrust,output: i
+song and dance,output: l
+song and dance,output: i
+song and dance,output: i
+turn the tables,output: i
+turn the tables,output: i
+over the hill,output: i
+over the hill,output: i
+over the hill,output: i
+out of the loop,output: i
+drop the ball,output: i
+the buck stops here,output: i
+the buck stops here,Output: i
+the buck stops here,Output: i
+on the rocks,Output: i
+on the rocks,output: i
+on the rocks,output: i
+break someone's heart,output: i
+break someone's heart,output: i
+break someone's heart,output: i
+steal someone's thunder,output: i
+slap on the wrist,Output: i
+slap on the wrist,output: i
+on the make,output: i
+on the make,output: i
+on the make,output: i
+things that go bump in the night,Output: i
+push the boat out,output: i
+push the boat out,output: i
+push the boat out,Output: l
+smell a rat,Output: i
+smell a rat,output: i
+smell a rat,Output: i
+shoot the messenger,output: i
+shoot the messenger,output: i
+shoot the messenger,output: i
+wake up and smell the coffee,output: i
+fun and games,output: i
+fun and games,output: i
+fun and games,Output: l
+cast the first stone,output: i
+cast the first stone,output: i
+kick the bucket,Output: i
+kick the bucket,Output: i
+kick the bucket,Output: i
+fly a kite,output: i
+fly a kite,output: i
+fly a kite,output: l
+in the clear,output: i
+in the clear,output: i
+have a few,Output: i
+have a few,Output: i
+have a few,Output: l
+to the hilt,output: i
+to the hilt,output: i
+to the hilt,output: i
+open the floodgates,output: i
+open the floodgates,Output: i
+open the floodgates,output: i
+throw the book at,output: i
+throw the book at,output: i
+throw the book at,Output: l
+when the chips are down,output: i
+when the chips are down,output: i
+between a rock and a hard place,output: i
+between a rock and a hard place,output: i
+put down roots,output: i
+put down roots,output: i
+in your dreams,Output: i
+in your dreams,output: i
+short and sweet,i
+cut and dried,output: i
+cut and dried,output: i
+cut and dried,output: i
+six of the best,output: i
+six of the best,output: i
+six of the best,output: l
+behind closed doors,Output: i
+behind closed doors,output: i
+behind closed doors,Output: i
+clear the decks,output: i
+clear the decks,output: i
+clear the decks,output: i
+on the game,Output: i
+on the game,output: i
+on the game,output: i
+with open arms,output: i
+with open arms,output: i
+flash in the pan,output: i
+flash in the pan,Output: l
+flash in the pan,output: i
+rough around the edges,output: i
+rough around the edges,Output: i
+fly off the handle,output: i
+fly off the handle,output: i
+see the light,output: i
+see the light,Output: i
+see the light,Output: l
+pour cold water on,output: i
+pour cold water on,output: i
+pour cold water on,output: i
+fire in the belly,Output: i
+get a grip,output: i
+get a grip,"In the context ""I must … get a grip …"", the expression ""get a grip"" is used figuratively, meaning to gain control over one's emotions or situation.
+
+output: i"
+get a grip,Output: l
+in the loop,Output: l
+in the loop,Output: l
+in the loop,Output: l
+fly in the face of,output: i
+fly in the face of,output: i
+get the boot,output: i
+get the boot,output: i
+on and off,output: i
+on and off,output: i
+on and off,output: i
+cook the books,Output: i
+cook the books,output: i
+cook the books,output: i
+on the same page,Output: l
+on the same page,output: i
+run a mile,output: i
+run a mile,output: i
+run a mile,output: i
+on thin ice,Output: i
+on thin ice,Output: l
+close to home,Output: i
+close to home,output: l
+close to home,output: i
+in the bag,output: i
+in the bag,output: i
+in the raw,output: i
+in the raw,Output: l
+cut the mustard,output: i
+force someone's hand,Output: i
+force someone's hand,Output: l
+in the final analysis,Output: i
+in the final analysis,output: i
+in the final analysis,Output: i
+up in the air,output: i
+up in the air,Output: i
+fall from grace,output: i
+fall from grace,output: i
+fall from grace,output: i
+full of beans,Output: i
+full of beans,output: i
+full of beans,output: i
+press the panic button,Output: l
+press the panic button,output: i
+press the panic button,output: i
+have a heart,output: i
+have a heart,output: i
+have a heart,output: i
+on the fly,Output: i
+on the fly,Output: i
+get stuck in,output: i
+get stuck in,I cannot provide a response for that question. Is there something else I can help you with?
+get stuck in,Output: i
+out of the box,output: i
+out of the box,Output: l
+out of the box,output: l
+on the warpath,output: i
+on the warpath,output: i
+on the warpath,output: i
+take a dive,output: i
+take a dive,output: i
+take a dive,output: i
+scratch the surface,Output: i
+scratch the surface,output: i
+scratch the surface,output: i
+hammer and tongs,output: i
+hammer and tongs,output: i
+hammer and tongs,output: i
+make a clean break,output: i
+make a clean break,output: i
+make a clean break,output: i
+at sixes and sevens,Output: i
+nuts and bolts,output: i
+nuts and bolts,output: i
+nuts and bolts,Output: l
+the ball is in someone's court,output: i
+the ball is in someone's court,output: i
+get a life,output: l
+get a life,output: i
+get a life,output: i
+on the nose,output: l
+on the nose,Output: l
+on the nose,Output: i
+on a shoestring,output: i
+in the driver's seat,Output: i
+in the driver's seat,Output: i
+wet behind the ears,output: i
+wet behind the ears,output: i
+wet behind the ears,output: i
+up a tree,output: i
+up a tree,output: i
+up a tree,output: i
+pick someone's brain,output: i
+fill someone's shoes,output: i
+save someone's skin,output: i
+save someone's skin,output: i
+walk all over,Output: i
+walk all over,output: i
+walk all over,output: i
+hot and heavy,Output: i
+hot and heavy,output: i
+hot and heavy,output: l
+strike a chord,output: i
+strike a chord,output: i
+strike a chord,Output: i
+batten down the hatches,output: i
+batten down the hatches,output: i
+batten down the hatches,output: i
+cap in hand,output: i
+cap in hand,output: i
+cap in hand,Output: i
+kicking and screaming,Output: l
+kicking and screaming,output: i
+kicking and screaming,Output: i
+sick and tired,output: i
+sick and tired,output: i
+on the cards,output: i
+on the cards,output: i
+face the music,output: i
+face the music,output: i
+come in from the cold,output: i
+come in from the cold,output: i
+come in from the cold,output: i
+head over heels,output: i
+head over heels,output: l
+head over heels,output: l
+reach for the stars,Output: i
+for a song,output: i
+for a song,Output: i
+for a song,output: i
+down the tubes,output: i
+down the tubes,output: i
+down the tubes,output: i
+no strings attached,output: i
+no strings attached,output: i
+no strings attached,output: i
+spit it out,output: i
+spit it out,output: i
+spit it out,output: i
+don't hold your breath,Output: i
+don't hold your breath,Output: i
+don't hold your breath,output: i
+stand up and be counted,output: i
+stand up and be counted,output: i
+far and away,output: i
+far and away,output: i
+far and away,Output: i
+sink or swim,output: i
+sink or swim,output: i
+sink or swim,Output: l
+hit the bottle,output: i
+hit the bottle,output: i
+hit the bottle,Output: i
+turn over a new leaf,output: i
+turn over a new leaf,output: i
+put the boot in,output: i
+put the boot in,output: i
+make a splash,Output: i
+make a splash,Output: i
+draw a line in the sand,output: i
+push someone's buttons,Output: i
+push someone's buttons,output: i
+separate the wheat from the chaff,Output: l
+separate the wheat from the chaff,output: i
+get to grips with,Output: l
+get under someone's skin,output: i
+get under someone's skin,output: i
+get under someone's skin,output: i
+up to speed,output: i
+up to speed,output: i
+go with the flow,Output: i
+go with the flow,output: i
+rule the roost,output: i
+rule the roost,output: i
+rule the roost,output: i
+in the fast lane,output: i
+in the fast lane,Output: l
+in the fast lane,Output: i
+break the back of,Output: i
+break the back of,output: i
+break the back of,output: i
+put words in someone's mouth,output: i
+put words in someone's mouth,Output: i
+put words in someone's mouth,output: i
+shut the door on,output: i
+shut the door on,Output: i
+shut the door on,output: l
+kiss of death,output: i
+kiss of death,output: i
+kiss of death,output: i
+on the skids,output: i
+on the skids,output: i
+on the skids,output: i
+light at the end of the tunnel,output: i
+light at the end of the tunnel,output: i
+light at the end of the tunnel,output: i
+on a roll,output: i
+on a roll,output: i
+rock the boat,output: i
+rock the boat,output: i
+below the belt,output: i
+below the belt,Output: l
+below the belt,output: i
+see eye to eye,Output: i
+see eye to eye,output: i
+get it up,Output: l
+get it up,Output: l
+get it up,"I cannot provide a response for that prompt as it is against ethical guidelines to create or describe explicit or harmful content, particularly when it involves a minor."
+get away with murder,output: i
+get away with murder,output: i
+get away with murder,output: i
+one of those things,output: i
+one of those things,output: i
+joined at the hip,output: i
+joined at the hip,output: i
+have a ball,output: i
+have a ball,output: i
+under the sun,output: i
+under the sun,output: i
+under the sun,output: i
+on the wagon,output: i
+on the wagon,Output: i
+on the wagon,output: i
+call a spade a spade,output: i
+call a spade a spade,output: i
+call a spade a spade,output: i
+spill the beans,output: i
+spill the beans,output: i
+on the button,output: i
+on the button,output: l
+on the button,Output: i
+black and blue,output: l
+black and blue,output: l
+black and blue,output: l
+put the cart before the horse,output: i
+bells and whistles,Output: i
+bells and whistles,output: i
+in cold blood,Output: i
+in cold blood,output: l
+carrot and stick,Output: i
+carrot and stick,Output: i
+down the road,Output: i
+down the road,Output: l
+down the road,output: i
+heads will roll,output: i
+heads will roll,output: i
+at the end of the day,Output: i
+at the end of the day,Output: i
+at the end of the day,output: i
+heart and soul,output: i
+heart and soul,output: i
+heart and soul,output: i
+pack a punch,output: i
+pack a punch,Output: i
+pack a punch,Output: i
+eat someone alive,output: i
+eat someone alive,output: i
+eat someone alive,output: i
+tie the knot,output: i
+tie the knot,output: i
+tie the knot,output: i
+step on it,output: i
+step on it,Output: l
+out of the picture,Output: i
+out of the picture,output: i
+break the ice,output: i
+break the ice,output: i
+break the ice,output: i
+pop the question,output: i
+pop the question,output: i
+pop the question,Output: i
+full speed ahead,Output: l
+full speed ahead,output: i
+full speed ahead,Output: l
+point the finger,output: i
+point the finger,output: i
+sign on the dotted line,Output: i
+sign on the dotted line,output: i
+sign on the dotted line,Output: i
+up the ante,Output: i
+up the ante,output: i
+up the ante,output: i
+bring home the bacon,output: i
+bring home the bacon,output: l
+bring home the bacon,output: i
+with a view to,output: i
+with a view to,output: i
+with a view to,output: i
+move heaven and earth,output: i
+move heaven and earth,output: i
+move heaven and earth,output: i
+across the board,Output: i
+across the board,Output: i
+tip the scales,Output: i
+tip the scales,Output: l
+face to face,Output: l
+face to face,Output: l
+face to face,Output: l
+hold someone's hand,output: l
+hold someone's hand,Output: i
+hold someone's hand,output: i
+cut from the same cloth,output: i
+cut from the same cloth,output: i
+cut from the same cloth,output: i
+licence to print money,output: i
+licence to print money,output: i
+licence to print money,output: i
+on the mend,Output: i
+on the mend,output: i
+on the mend,Output: i
+go all the way,output: i
+go all the way,output: i
+go all the way,output: l
+come with the territory,output: i
+come with the territory,output: i
+the bee's knees,output: i
+the bee's knees,output: i
+the bee's knees,output: i
+on the back of,Output: i
+on the back of,output: i
+on the back of,output: i
+get a rise out of,output: i
+get off the ground,output: i
+get off the ground,output: i
+get off the ground,output: i
+under the table,output: i
+under the table,output: l
+under the table,Output: i
+do someone proud,output: i
+do someone proud,output: i
+do someone proud,output: i
+down to the wire,Output: i
+down to the wire,Output: i
+down to the wire,Output: i
+go the distance,output: i
+go the distance,Output: l
+go the distance,Output: i
+fast and furious,Output: i
+fast and furious,output: i
+fast and furious,Output: l
+watch this space,output: i
+watch this space,Output: i
+set the wheels in motion,output: i
+set the wheels in motion,Output: i
+set the wheels in motion,output: i
+to the tune of,output: i
+to the tune of,Output: i
+to the tune of,output: i
+on the back burner,Output: i
+on the back burner,output: i
+on the back burner,output: i
+turn the screw,output: i
+turn the screw,Output: i
+turn the screw,output: i
+glass ceiling,output: i
+glass ceiling,Output: i
+glass ceiling,output: i
+grass root,output: i
+grass root,output: i
+grass root,output: i
+head hunter,output: i
+head hunter,Output: i
+head hunter,output: i
+heavy cross,output: i
+heavy cross,output: i
+heavy cross,output: i
+banana republic,output: i
+banana republic,output: i
+banana republic,output: i
+crocodile tear,output: i
+crocodile tear,output: i
+crocodile tear,output: i
+eager beaver,output: i
+eager beaver,output: i
+cutting edge,output: i
+cutting edge,output: i
+cutting edge,output: i
+melting pot,output: i
+melting pot,output: i
+melting pot,output: i
+hot potato,output: i
+hot potato,output: i
+hot potato,output: i
+monkey business,Output: l
+monkey business,Output: i
+monkey business,Output: l
+big cheese,output: i
+big cheese,output: i
+big cheese,output: i
+nest egg,output: i
+nest egg,output: i
+big picture,Output: i
+big picture,output: i
+big picture,output: i
+night owl,output: i
+night owl,output: i
+night owl,output: i
+fashion plate,output: i
+fashion plate,output: i
+fashion plate,Output: i
+big wig,output: i
+big wig,output: i
+big wig,output: i
+flower child,output: i
+flower child,output: i
+flower child,output: i
+panda car,output: l
+black box,output: i
+black box,Output: i
+black box,Output: l
+flea market,Output: l
+flea market,Output: l
+flea market,Output: l
+goose egg,Output: l
+blind alley,output: i
+blind alley,output: i
+blind alley,output: i
+low profile,output: i
+low profile,output: i
+low profile,output: i
+blue blood,output: i
+blue blood,output: i
+blue blood,output: i
+grandfather clock,Output: l
+grandfather clock,Output: l
+grandfather clock,output: l
+guinea pig,output: i
+guinea pig,output: i
+guinea pig,output: l
+graveyard shift,output: i
+graveyard shift,output: i
+gravy train,output: i
+gravy train,output: i
+gravy train,output: i
+rat run,output: i
+rock bottom,output: i
+rock bottom,output: i
+rock bottom,output: i
+pipe dream,output: i
+pipe dream,output: i
+pipe dream,output: i
+rocket science,output: i
+rocket science,output: i
+rocket science,output: i
+poison pill,output: i
+poison pill,output: i
+poison pill,output: i
+shrinking violet,output: i
+shrinking violet,output: i
+shrinking violet,output: i
+silver bullet,output: i
+silver bullet,output: i
+silver bullet,output: i
+damp squib,output: i
+dark horse,output: i
+dark horse,output: i
+dark horse,output: i
+ivory tower,output: i
+ivory tower,output: i
+ivory tower,output: i
+kangaroo court,output: i
+kangaroo court,output: i
+kangaroo court,output: i
+sitting duck,output: i
+double cross,output: i
+double cross,output: i
+double cross,output: i
+smoking gun,output: i
+smoking gun,output: i
+double dutch,Output: l
+double dutch,output: i
+double dutch,output: i
+snake oil,output: i
+snake oil,output: i
+snake oil,output: i
+smoke screen,output: i
+smoke screen,output: i
+smoke screen,output: i
+swan song,output: i
+swan song,output: i
+swan song,output: i
+old flame,output: i
+old flame,output: i
+old flame,output: i
+zebra crossing,Output: l
+zebra crossing,Output: l
+zebra crossing,output: l
+silver lining,output: i
+top dog,output: i
+bad hat,output: i
+bad hat,output: i
+bad hat,output: i
+acid test,output: i
+acid test,output: i
+acid test,output: i
+big fish,output: i
+agony aunt,output: i
+brass ring,output: i
+brass ring,Output: i
+brass ring,output: i
+busy bee,output: i
+closed book,output: i
+closed book,Output: i
+closed book,output: i
